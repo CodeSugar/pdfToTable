@@ -1,0 +1,2960 @@
+CD/analiticaVisualizacionDatos_LCD2020.pdf,"1
+1.1  Datos 
+1.1.1 
+Conjunto de Datos de Iris 
+1.1.2 
+Otros conjuntos de datos 
+1.1.3 
+Escalas de datos 
+.2  Relaciones 
+1.2.1 
+Representaciones de relaciones, conjuntos y 
+matrices 
+1.2.2     Medidas de disimilitud y similitud 
+1.2.3 Relaciones de secuencia 
+ 
+1.3  Preprocesamiento de datos 
+1.3.1 
+Muestreo y cuantificación 
+1.3.2 
+Tipos de error y manejo de errores 
+1.3.3 
+Filtrado 
+1.3.4 
+Transformación de datos 
+1.3.5 
+Integración de datos
+2
+  2
+  2
+2.1 Métodos de proyección lineal 
+2.1.1 Escala multidimensional 
+2.1.2 Visualización de componentes principales 
+2.1.3 Visualización de alta dimensionalidad  
+. 2 Métodos de proyección no lineal 
+2.2.1 Mapeo Sammon 
+2.2.2 Autoasociador 
+.3 Visualización de datos periódicos 
+2.3.1 Análisis espectral 
+2.3.2 Transformada del seno y coseno 
+.4 Construcción de Tableros
+3
+  3
+3.1 Correlación lineal 
+3.1.1 Coeficiente de Pearson,  
+3.1.2 Coeficiente de Rho de Spearman  
+3.1.3 Coeficiente de Tau de Kendall. 
+.2 Correlación no lineal 
+3.2.1 Prueba de chi-cuadrada para la independencia 
+.3 Correlación y causalidad
+"
+CD/finanzasEmpresariales_LCD2020.pdf,"1.1.  La empresa y su contexto 
+1.1.1. 
+Constitución jurídica 
+1.1.2. 
+El área financiera en la estructura 
+organizacional 
+1.2.  Función y objetivo de las finanzas 
+empresariales 
+1.3.  Las finanzas empresariales y su relación con 
+otras disciplinas (Ética, Economía, Derecho, 
+Matemáticas, etc.) 
+1.4.  Factores del micro y macro ambiente que 
+impactan a la empresa y a sus finanzas
+2
+  2
+2.1L a información financiera 
+.2 Las Normas de Información Financiera (NIF) 
+.3 Estados financieros básicos 
+2.3.1Estado de Situación Financiera (Balance 
+General) 
+2.3.2Estado de Resultados
+3.1  El análisis financiero en la empresa 
+ 
+3.2  Métodos para el análisis financiero 
+3.2.1  Análisis vertical 
+3.2.2  Análisis horizontal 
+ 
+3.3  Análisis del punto de equilibrio operacional 
+3.3.1  Modelo matemático del punto de 
+equilibrio con un producto 
+3.3.2  Modelo matemático del punto de 
+equilibrio con multiproductos
+4.1  Valor del dinero en el tiempo 
+4.1.1. Valor presente 
+4.1.2Valor futuro  
+ 
+4.2  Anualidades 
+ 
+4.3 La planeación financiera 
+4.3.1El presupuesto maestro 
+ 
+4.4 Estados financieros proforma
+V.1 Los proyectos de inversión 
+V.2 Proceso de preparación y evaluación de 
+proyectos 
+V.3 Métodos de evaluación de proyectos de 
+inversión 
+V.3.1 
+Método del período de recuperación de la 
+inversión (PRI) 
+V.3.2 
+Método del rendimiento sobre la inversión 
+(RSI) 
+V.3.3 
+Costo – beneficio 
+V.3.4 
+Valor presente neto (VPN) 
+V.3.5 
+Tasa interna de rendimiento (TIR) 
+V.3.6 
+índice de rentabilidad (IR)
+"
+CD/estadistica_LCD2020.pdf,"1
+  1
+  1
+  1
+1.1. Elementos de la estadística descriptiva 
+1.1.1. Poblaciones, muestras y variabilidad 
+.2 Descriptores muestrales de centralización y dispersión 
+  1.2.1 Media y mediana muestrales 
+  1.2.2 Unimodalidad y multimodalidad 
+  1.2.3 Varianza muestral y desviación estándar 
+  1.2.4 Intercuartiles 
+.3 Herramientas gráficas para observaciones univariadas 
+  1.3.1 Histogramas y elección de sus intervalos 
+  1.3.2 Gráficas de caja 
+  1.3.3 Gráficas ""bigote"" 
+.4 Herramientas gráficas para observaciones multivariadas 
+  1.4.1 Representación de rasgos esenciales y proyecciones 
+  1.4.2 Representación de espacios de estados y sus 
+proyecciones 
+.5 Covarianza y matriz de covarianza muestral 
+  1.5.1 Covarianza entre las respectivas muestras de dos 
+variables aleatorias 
+  1.5.2 Matriz de covarianza y sus propiedades
+2
+  2
+  2
+2.1 Estimadores y estimación puntual 
+  2.1.1 Estimadores puntuales; sesgo, error cuadrático 
+medio, propiedades asintóticas   
+  2.1.2 Estimadores basados en momentos; propiedades 
+  2.1.3 Estimadores basados en máxima verosimilitud; 
+propiedades 
+.2 Estimación por intervalos 
+   2.2.1 Noción de intervalo de confianza en función de la 
+distribución del estimador 
+   2.2.2 Obtención de intervalos de confianza para diferentes 
+niveles de confianza 
+.3 Pruebas de hipótesis  
+  2.3.1 Requisitos e inferencia  
+  2.3.2 Intervalos de aceptación y rechazo 
+  2.3.3 Prueba de hipótesis simple         
+  2.3.4 Prueba de contraste 
+.4 Elementos de inferencia Bayesiana 
+  2.4.1 Teorema de Bayes en el contexto estadístico 
+  2.4.2 Distribuciones a priori y a posteriori con respecto a 
+una muestra 
+  2.4.3 Evaluación numérica de distribuciones a posterior
+3
+  3
+  3
+3.1 Distribuciones no subyacentes de poblaciones y 
+estadísticas 
+.2 Elementos de re-muestreo y Bootstrap 
+  3.2.1 Ética estadística en la inferencia a partir de una 
+muestra 
+  3.2.2 Casos y aplicación de re-muestreo 
+  3.2.3 Necesidad y aplicación del Bootstrap 
+.3 Pruebas de signo y permutaciones 
+  3.3.1 Pruebas de signo 
+  3.3.2 Pruebas de rangos 
+.4 Pruebas de bondad de ajuste de distribuciones 
+  3.4.1 Pruebas de Kolmogorov-Smirnov y Lilliefors 
+  3.4.2 Prueba chi-cuadrada 
+  3.4.3 Pruebas de homogeneidad 
+  3.4.4. Elementos de tablas de contingencia
+4
+  4
+4.1. Regresión lineal 
+  4.1.1. Método de los mínimos cuadrados 
+  4.1.2. Intervalos de confianza de los parámetros estimados 
+por regresión lineal 
+  4.1.3. Regresión lineal multivariable 
+.2. Regresión logística 
+  4.2.1. Uso de la regresión logística  
+  4.2.2. Intervalos de confianza en la regresión logística 
+.3. Predicción y clasificación estadística
+5
+  5
+5.1. Estadística y modelos causales 
+  5.1.1. Razones para estudiar causalidad 
+  5.1.2. Paradoja de Simpson 
+  5.1.3. Modelos causales estructurales 
+.2. Modelos gráficos 
+  5.2.1. Conectando modelos a datos 
+  5.2.2.  Cadenas y tenedores 
+.3. Efectos de intervenciones 
+  5.3.1. Intervenciones 
+  5.3.2. Criterios backdoor y frontdoor
+"
+CD/fundamentosProgramacion_LCD2020.pdf,"1.1. Fundamentos de programación 
+1.1.1 Arquitectura de Von Neumann 
+1.1.2 Clasificaciones de los lenguajes de programación  
+1.1.3 Herramientas de programación 
+1.2 Programación en el lenguaje C  
+1.2.1 Lenguaje en C  
+1.2.2 Tipos de datos primitivos y operadores aritméticos 
+1.2.3 Manejo de la entrada y salida estándar  
+1.2.4 Sentencias de control  
+1.2.5 Arreglos  
+1.3 Programación y diseño estructurado  
+1.3.1 Teorema de la programación estructurada  
+1.3.2 Características de un programa estructurado 
+1.3.3 Diseño estructurado - Modularidad
+2.1 Apuntadores 
+2.1.1 Apuntadores y direcciones de memoria 
+2.1.2 Operadores de dirección e indirección 
+2.1.3 Aritmética de apuntadores 
+2.1.4 Manejo de arreglos con apuntadores 
+2.2 Datos definidos por el usuario 
+2.2.1 Declaración de una estructura 
+2.2.2 Instancia de estructura y apuntador a estructura 
+2.2.3 Operadores de estructura 
+2.2.4 Arreglos de estructuras 
+2.2.5 Estructuras anidadas 
+2.3 Funciones 
+2.3.1 Funciones 
+2.3.2 Argumentos y parámetros 
+2.3.3 Paso por valor y paso por referencia 
+2.3.4 Retorno de la función 
+2.3.5 Bibliotecas creadas por el usuario 
+2.4 Funciones recursivas 
+2.4.1 Recursión 
+2.4.2 Pasos base y pasos recursivos 
+2.4.3 Tipos de recursión  
+2.4.4 Recursión versus iteración
+3.1 Arquitectura de Memoria 
+3.1.1 Harvard 
+3.1.2 Von Neumann 
+3.1.3 Memoria de un proceso en el modelo de memoria 
+única  
+3.2 Memoria dinámica 
+3.2.1 Reservación dinámica de memoria 
+3.2.2 Acceso y direccionamiento a arreglos dinámicos 
+3.2.3 Liberación de memoria 
+3.2.4 Memoria estática vs. memoria dinámica 
+3.3 Archivos 
+3.3.1 Archivos de acceso secuencial y de acceso directo 
+3.3.2 Creación y/o apertura de archivos 
+3.3.3 Lectura/escritura de archivos en modo texto 
+3.3.4 Lectura/escritura de archivos en modo binario 
+3.3.5 Cierre de archivos 
+3.3.6 Procesamiento y redireccionamiento de flujos de 
+entrada y salida
+"
+CD/desarrolloAplicacionesAnalisisDatos_LCD2020.pdf,"1.1  Aspectos básicos  
+ 
+1.2  Tipos de datos estándar en Python 
+ 
+1.3  Estructuras de control 
+ 
+1.4  Funciones 
+ 
+1.5  Programación Orientada a Objetos con Python
+2
+  2
+  2
+2.1 Datos estructurados y semiestructurados 
+2.1.1 Archivos .csv y .tsv  
+2.1.2 Archivos binarios HDF5 y Excel 
+2.1.2 JSON  
+2.1.3 XML  
+.2 Almacenamiento de datos 
+2.2.1 Base de datos relacional 
+2.2.2 Base de datos NoSQL 
+.3 Bibliotecas de Python para estructurar datos  
+2.3.1 NumPy 
+2.3.2 Pandas 
+2.3.3 SciPy 
+.4 Web Scraping 
+2.4.1 Biblioteca Request 
+2.4.2 Biblioteca Beautiful Soup 
+2.4.3 Biblioteca Scrapy  
+2.4.4 Biblioteca Selenium  
+2.4.5 Biblioteca PythonAnywhere  
+2.4.6 Recolección de datos de Redes Sociales 
+2.4.7 Recolección de datos de geolocalización 
+  
+2.5 Preprocesamiento de datos 
+2.5.1 Limpieza de datos y manejo de datos faltantes 
+2.5.2 Transformación de Datos 
+2.5.3 Manipulación de cadenas 
+2.5.4 Volcado de datos
+3
+  3
+3.1 Aprendizaje supervisado con scikit-learn 
+3.1.1 Clasificación  
+3.1.2 Regresión 
+.2 Aprendizaje no supervisado scikit-learn 
+3.2.1 Análisis de grupos  
+.3 Procesamiento distribuido con Apache Spark 
+3.3.1 Datos distribuidos resilientes 
+3.3.2 Transformaciones de datos distribuidos resilientes 
+3.3.3 Uso de SparkSQL y SparkMLlib
+"
+CD/analiticaAvanzadaDatos_LCD2020.pdf,"1
+1.1 
+Regresión avanzada  
+1.1.1  Regresión lineal con sustitución no lineal 
+1.1.2  Regresión robusta 
+1.1.3  Aplicación  en 
+la  generación  de  estimaciones  de 
+dependencia entre características y aproximadores 
+universales 
+.2 
+Redes avanzadas 
+1.2.1  Redes neuronales aplicadas a la ciencia de datos 
+1.2.2  Redes de funciones de base radial 
+1.2.3  Métodos de validación avanzados 
+1.2.4  Selección de funciones 
+1.2.5  Aplicación  en 
+la  generación  de  estimaciones  de 
+dependencia entre características y aproximadores 
+universales
+2
+  2
+  2
+2.1 
+Criterios de clasificación 
+2.1.1  Problemas que resuelven las clasificaciones 
+2.1.2  Características generales de las clasificaciones 
+2.1.3  Clasificadores a partir del tipo de problema 
+.2 
+Análisis discriminante lineal y sus algoritmos  
+2.2.1  Discriminante lineal de Bayes 
+2.2.2  Discriminante lineal de Fisher 
+.3 
+Máquinas de soporte vectorial lineales 
+2.3.1  Fundamentos 
+2.3.2  Características 
+2.3.3  Aplicaciones 
+.4 
+Aprendizaje de la cuantificación vectorial
+3
+  3
+3.1   Agrupamiento basado en prototipos y su empleo en 
+el etiquetado de datos 
+3.1.1 Hiperesférico 
+3.1.2 Elipsoidal 
+3.1.3 De formas complejas 
+.2   Agrupamiento difuso y su empleo en el etiquetado 
+de datos 
+3.2.1 Partición difusa 
+3.2.2 Algoritmo Difuso c-Means 
+3.2.3 Algoritmos Posibilístico c-Means 
+.3   Agrupamiento neuronales difusos y su empleo en el 
+etiquetado de datos 
+3.3.1 Agrupamiento de aprendizaje competitivo difuso 
+3.3.2 Agrupamiento difuso adaptivo
+"
+CD/computoAltoDesempeno_LCD2020.pdf,"1.1 
+Fundamentos de las Arquitecturas de Cómputo de 
+Alto Desempeño 
+ 
+1.2 
+Sistemas de Procesamiento Paralelo  
+1.2.1 
+Características y limitantes 
+1.2.2 
+Aplicaciones 
+ 
+1.3 
+Sistemas de Procesamiento Distribuido 
+1.3.1 
+Características y limitantes 
+1.3.2 
+Aplicaciones 
+ 
+1.4  Arquitecturas basadas en servicios 
+1.4.1 
+Características y limitantes 
+1.4.2 
+Aplicaciones 
+ 
+1.5  Arquitectura GRID 
+1.5.1 
+Características y limitantes 
+1.5.2 
+Aplicaciones 
+ 
+1.6 
+Otros Ejemplos de cómputo de alto desempeño 
+1.6.1 
+Sistemas Multiagentes 
+1.6.2 
+Cómputo en Nube 
+1.6.3 
+Sistemas de Bases de Datos Masivas
+2.1. 
+Paralelismo y Concurrencia  
+ 
+ 2.2. 
+Arquitecturas Paralelas 
+ 2.2.1.  Multiprocesadores 
+ 2.2.2.  Multicomputadoras 
+ 2.2.3.  Redes de Interconexión (Estáticas y Dinámicas) 
+ 2.2.4.  Algoritmos Paralelos  
+ 2.2.5.  Lenguajes y Librerías de Paralelismo (HPF, 
+OpenMP, PVM, MPI) 
+ 2.2.6.  Aplicaciones 
+ 
+ 2.3. 
+Actividades para conseguir el Paralelismo 
+ 2.3.1.  Planificación de procesos, tareas, hilos y 
+operaciones entrada/salida 
+ 2.3.2.  Asignación de Datos 
+ 2.3.3.  Balanceo de Cargas de Trabajo 
+ 2.3.4.  Partición de Datos/Programas 
+ 
+ 2.4. 
+Mecanismo de Migración 
+ 
+ 2.5. 
+Manejo de la Memoria 
+ 
+ 2.6. 
+Tolerancia a Fallas 
+ 
+ 2.7. 
+Métricas de Rendimiento y Disponibilidad
+3.1.  Caracterización de los Sistemas distribuidos 
+ 3.1.1. Internet e intranets 
+ 3.1.2. Recursos compartidos 
+ 3.1.3. Desafíos de los sistemas Distribuidos 
+ 
+ 3.2.  Modelos de Sistema 
+ 3.2.1. Modelos arquitectónicos 
+ 3.2.2. Modelos de interacción, fallo y seguridad 
+ 
+ 3.3.  Comunicación entre procesos 
+ 3.3.1. API Y Protocolos de Internet 
+ 3.3.2. Representación externa de datos y 
+empaquetado 
+ 3.3.3. Comunicación cliente servidor 
+ 3.3.4. Control de concurrencia 
+ 
+ 3.4. 
+Transacciones distribuidas 
+ 
+ 3.5.  Replicación 
+ 
+ 3.6.  Servicios tolerantes a fallos y de alta 
+disponibilidad
+4.1.  Arquitecturas de computación en malla (Grid) y sus 
+Características 
+ 4.1.1. Recursos y Organizaciones Virtuales Cooperantes 
+ 4.1.2. Poder de Cómputo y de Almacenamiento de Datos 
+ 4.1.3. Acceso a las Grid 
+ 4.1.4. Balanceo de Asignación de Recursos 
+ 4.1.5. Confiabilidad 
+ 4.1.6. Administración 
+ 
+ 4.2.  Sistemas Operativos y Software de Soporte GRID 
+ 4.2.1. Linux  
+ 4.2.2.  Globus 
+ 
+ 4.3.  Componentes GRID 
+ 4.3.1. Nodo de Control GRID 
+ 4.3.2. Nodo GRID 
+ 4.3.3. Nodo de Datos 
+ 4.3.4. Servidores GRID 
+ 4.3.5. Nodos Administradores 
+ 
+ 4.4.  Estándares GRID 
+ 4.4.1. Arquitectura de servicios de red abierta (OGSA) 
+ 4.4.2. Infraestructura de Servicios de red abierta (OGSI) 
+ 4.4.3.  Arquitectura de servicios de red abierta y la 
+Integración de acceso de datos (OGSA-DAI) 
+ 4.4.4. Grid- FTP 
+ 4.4.5. WSRF 
+ 4.4.6. Servicios de GRID
+"
+CD/metodologiaInvestigacionDivulgacionCientifica_LCD2020.pdf,"1
+1.1  La ciencia 
+1.1.1 Definiciones 
+1.1.2 El conocimiento empírico 
+1.1.3 Evolución del conocimiento científico 
+1.1.4. Clasificación de las ciencias 
+1.1.5 Características de la ciencia factual 
+ 
+1.2  La investigación y el método científico 
+1.2.1 El método científico 
+1.2.2 Características de la investigación científica 
+1.2.3 Tipos de investigación de acuerdo al fin que 
+se persigue 
+1.2.4 Tipos de investigación de acuerdo a los tipos 
+de datos analizados 
+1.2.5 Tipos de investigación de acuerdo a la 
+Metodología para demostrar la hipótesis 
+.3  Proyectos de investigación en ingeniería 
+1.3.1 Antecedentes 
+1.3.2 Problemática y objetos de investigación en la 
+ingeniería  
+1.3.3 El tema de investigación
+2
+  2
+  2
+  2
+2.1 Planteamiento del estudio 
+2.1.1 Descripción del proyecto y de la realidad 
+problemática 
+2.1.2 Formulación del problema de investigación  
+2.1.3 Objetivos y justificación 
+2.1.4 Alcance y limitaciones 
+.2 Marco teórico 
+2.2.1 Antecedentes y base teórica científica 
+2.2.2 Definiciones de términos 
+2.2.3 Referencias bibliográficas  
+2.2.4 Hipótesis y propuestas de solución  
+2.2.5 Variables e indicadores 
+.3 Marco metodológico 
+2.3.1 Tipo de investigación 
+2.3.2 Diseños experimentales 
+2.3.3 Diseños no experimentales 
+.4 Población y muestra 
+2.4.1 Tamaño de la muestra 
+2.4.2 Procedimiento de muestreo 
+2.4.3 Errores durante el muestreo 
+2.4.4 Técnicas y formatos de recolección de 
+datos 
+.5 Recursos 
+2.5.1 Humanos 
+2.5.2 Presupuesto y financiamiento 
+2.5.3 Materiales y equipos 
+2.5.4 Cronograma de actividades
+3
+  3
+3.1 Análisis de datos 
+3.1.1 Fuentes de datos 
+3.1.2 Indicadores e índices 
+3.1.3 Variables e índices 
+3.1.4 Análisis de datos, enjuiciamiento y 
+conclusiones 
+3.1.5 Sugerencias y recomendaciones 
+.2 El informe final 
+3.2.1 Características del informe 
+3.2.2 Tipos de informe 
+3.2.3 Estructura del informe 
+.3 Exposición de textos científicos 
+3.3.1 Tipos de textos científicos 
+3.3.2 Exposición del protocolo de investigación 
+3.3.3 Preparación del material audiovisual 
+3.3.4 Aspectos importantes para la exposición 
+oral
+"
+CD/administracionProyectosTI_LCD2020.pdf,"1
+1.1  El proyecto 
+1.1.1 
+Tipos de proyectos 
+1.1.2 
+Ciclo de vida del proyecto 
+1.1.3 
+Caso de Negocio 
+.2  La Oficina de Dirección de Proyectos (PMO) 
+1.2.1 
+Funciones de la Oficina de Proyectos 
+1.2.2 
+Nivel de Madurez de la Oficina de Proyectos 
+ 
+1.3  Estructura organizacional 
+1.3.1 
+Funcional 
+1.3.2 
+Matricial 
+1.3.3 
+Proyecto
+2
+2.1  Alcance de un proyecto 
+2.1.1 
+Herramientas de identificación de requerimientos 
+2.1.2 
+Herramientas de determinación del alcance 
+2.1.3 
+Verificación de alcance 
+ 
+2.2  Estructura de Desglose de Trabajo (EDT) 
+2.2.1 
+Acta Constitutiva del Proyecto 
+2.2.2 
+Identificación de las Partes Interesadas 
+2.2.3 
+Matriz de Roles y Responsabilidades (RACI) 
+.3  Planificación y programación de actividades  
+2.3.1 
+Diagramas de Gantt 
+2.3.2 
+Línea base  
+2.3.3    Técnicas de revisión y evaluación de programas PERT, 
+Ruta Crítica
+3
+3.1  Costos  
+3.1.1 
+Identificación 
+3.1.2 
+Clasificación 
+3.1.3 
+Estimación 
+3.1.4 
+Plan de Gestión 
+3.1.5 
+Determinación de Presupuesto 
+.2 Estudio de Factibilidad 
+3.2.1 Operativo 
+3.2.2 Técnico 
+3.2.3 Económico 
+3.2.4 Comercial
+4
+4.1  Identificación de riesgos 
+4.1.1 
+Tipos 
+4.1.2 
+Técnicas de identificación 
+ 
+4.2  Análisis de riesgos 
+4.2.1 
+Cualitativo 
+4.2.2 
+Cuantitativo 
+.3  Evaluación de riesgo 
+4.3.1 
+Plan de Gestión 
+4.3.2     Monitoreo y Control
+5
+5.1 Monitoreo y Control del Proyecto 
+5.1.1 Control de Costos 
+5.1.2 Control de Recursos 
+5.1.3 Seguimiento del Proyecto 
+5.1.4 Elaboración de Informes 
+.2 Cierre del Proyecto 
+5.2.1 Acta de Cierre del Proyecto 
+5.2.2 Documento de Lecciones Aprendidas
+"
+CD/basesDatosAvanzadas_LCD2020.pdf,"1.1  Sistemas de Soporte de decisiones (DSS) 
+1.1.1 
+Características de los DSS 
+1.1.2 
+Taxonomía de los DSS 
+1.1.3 
+Arquitecturas y plataformas para los DSS 
+ 
+1.2  Almacenes de Datos 
+1.2.1 
+Características de un Almacén de Datos 
+1.2.2 
+Arquitecturas de Data Warehouses (almacenes de 
+datos) y Data Mart (base de datos departamental) 
+1.2.3 
+Aplicaciones de Data Warehouse  
+1.2.4 
+Data Lake (lagos de datos) 
+1.2.5 
+Características de un Data lake 
+1.2.6 
+Arquitecturas de Data Lake 
+1.2.7 
+Comparativa entre Data Lakes y Data Marts
+2.1  Diseño de Almacenes de datos (Data Warehouse) 
+ 
+2.2   Referencia Arquitectural de los Data Warehouse 
+ 
+2.3  Funcionamiento de los almacenes de Datos 
+ 
+2.4  Funciones Extracción, Transformación y Limpieza 
+(ETL)
+3.1 Cubos de Datos 
+3.1.1 
+OLAP (On-Line Analytical Processing, 
+Procesamiento Analítico en Línea). 
+3.1.2 
+Comparativa entre OLAP y OLTP (OnLine 
+Transaction Processing, Procesamiento de 
+Transacciones En Línea) 
+ 
+3.2  Modelado de Datos para almacenes de datos 
+3.2.1 
+Modelo Relacional 
+3.2.2 
+Modelo dimensional OLAP 
+3.2.3 
+Tipos de Esquemas (Estrellas, copo de nieve y 
+otros) 
+ 
+3.3  Operadores de cubos de datos 
+ 
+3.4  Cubos multidimensionales
+4.1  Bases de Datos orientadas a objetos 
+4.1.1 
+Características 
+4.1.2 
+Arquitecturas  
+4.1.3 
+Análisis de ventajas y desventajas 
+4.1.4 
+Aplicaciones 
+4.2  Bases de Datos orientadas a documentos 
+4.2.1 
+Características 
+4.2.2 
+Arquitecturas  
+4.2.3 
+Análisis de ventajas y desventajas 
+4.2.4 
+Aplicaciones 
+4.3  Bases de Datos clave-valor 
+4.3.1 
+Características 
+4.3.2 
+Arquitecturas  
+4.3.3 
+Análisis de ventajas y desventajas 
+4.3.4 
+Aplicaciones 
+4.4  Bases de Datos orientadas a grafos 
+4.4.1 
+Características 
+4.4.2 
+Arquitecturas  
+4.4.3 
+Análisis de ventajas y desventajas 
+4.4.4 
+Aplicaciones 
+4.5  Otras tendencias 
+4.5.1 
+Bases de datos móviles 
+4.5.2 
+Bases de datos de Información geográfica 
+4.5.3 
+Bases de datos orientadas al tiempo
+"
+CD/calculoMultivariable_LCD2020.pdf,"1.1. 
+Sistemas de coordenadas 
+1.2. 
+Vectores 
+1.2.1.  Producto cruz 
+1.2.2.  Producto punto 
+1.3. 
+Funciones vectoriales 
+1.4. 
+Curvas en el espacio
+2.1. 
+Funciones multivariables 
+2.2. 
+Límites y continuidad 
+2.3. 
+Derivadas parciales 
+2.3.1.  Planos tangentes  
+2.3.2.  Regla de la cadena 
+2.3.3.  Valores máximos y mínimos 
+2.3.4.  Puntos silla 
+2.4. 
+Multiplicadores de Lagrange
+3.1. 
+Integrales dobles 
+3.1.1.  Integrales sobre rectángulos 
+3.1.2.  Integrales sobre regiones generales 
+3.2. 
+Integrales iteradas 
+3.3. 
+Integrales triples 
+3.4. 
+Cambio de variable en integrales múltiples
+4
+ 
+4.1. 
+Teorema de Green 
+ 
+4.2. 
+Teorema de Stokes 
+ 
+4.3. 
+Teorema de Gauss 
+.4. 
+Aplicaciones
+"
+CD/mineriaDatos_LCD2020.pdf,"1.1  Administración de Cubos 
+1.1.1 
+Agregado de funcionalidades 
+1.1.2 
+Importación de datos y uso de conectores 
+1.1.3 
+Configuraciones adicionales 
+ 
+1.2  Operación de Cubos 
+1.2.1 
+Búsqueda de Información 
+1.2.2 
+Administración de incidentes y Problemas 
+1.2.3 
+Informes y análisis de almacenamiento de datos 
+ 
+1.3  Uso de Cubos OLAP para análisis avanzado 
+ 
+1.4  Solución de Problemas de los cubos OLAP
+2
+  2
+  2
+  2
+2.1 La Minería de Datos 
+.2 Metodologías del proceso de minado de datos 
+2.2.1. Muestrear, explorar, modificar, modelar y evaluar 
+(SEMMA) 
+2.2.2. El modelo CRISP-DM (Cross Industry Standard 
+Process) 
+.3 Tipos de problemas de Minería de Datos y el enfoque 
+para su resolución 
+2.3.1 Problemas descriptivos 
+2.3.2 Problemas predictivos 
+.4 Consideraciones para el éxito de un proyecto de 
+minería de Datos 
+2.4.1 Evaluación de un proceso de minería de datos 
+.5 Preprocesamiento de datos 
+2.5.1 Limpieza 
+2.5.2 Transformación
+3
+  3
+  3
+3.1 Métodos estadísticos 
+.2 Reglas de asociación 
+.3 Árboles de decisión 
+.4 Redes neuronales
+4
+  4
+  4
+4.1 SPSS Clementine 
+4.1.1 Características funcionales 
+4.1.2 Costos y licenciamiento 
+.2 SAS Enterprise Miner 
+4.2.1 Características funcionales 
+4.2.2 Costos y licenciamiento 
+.3 WEKA 
+4.3.1 Características funcionales 
+4.3.2 Costos y licenciamiento 
+.4 Rapidminer 
+4.4.1 Características funcionales 
+4.4.2 Costos y licenciamiento
+"
+CD/basesDatos_LCD2020.pdf,"1
+  1
+1.1  Bases de datos 
+1.1.1 Fundamentos de Bases de Datos 
+1.1.2 Arquitectura ANSI-SPARK 
+.2  Tipos de bases de datos 
+ 
+1.3  Arquitectura de tres esquemas de un Sistema Gestor 
+de Bases de Datos (SGBD) 
+1.3.1 Independencia de datos 
+1.3.2 Lenguajes de un SGBD  
+1.3.3 Módulos Componentes de un SGBD   
+.4  Clasificación de los SGBD
+2
+  2
+  2
+2.1 Modelos conceptuales de datos de alto nivel 
+.2 Modelo Entidad Relación 
+2.2.1 Entidades y atributos  
+2.2.2 Tipos de entidad  
+2.2.3 Vínculos  
+2.2.4 Entidades débiles 
+.3 Diagramas Entidad Relación (E-R) 
+2.3.1 Notación en diagramas E-R 
+2.3.2 Modelado de datos E-R 
+.4 Modelo E-R Extendido (EER) 
+2.4.1 Subclases, superclases y herencia 
+2.4.1 Especialización y generalización 
+2.4.2 Tipos de restricciones en la especialización y la 
+generalización
+3
+  3
+  3
+3.1 Fundamentos del modelo relacional 
+3.1.1 Dominios, atributos, tuplas y relaciones 
+3.1.2 Características y propiedades de las relaciones 
+3.1.3 Notación del modelo relacional 
+.2 Tipos de restricciones relacionales e integridad 
+3.2.1 De dominio 
+3.2.2 En la llave y sobre valores nulos 
+3.2.3 Esquema relacional de una Base de Datos 
+.3. Integridad en un esquema relacional  
+3.3.1 Integridad de entidades 
+3.3.2 Integridad referencial 
+3.3.3 Integridad de llaves foráneas 
+.4 Operaciones de actualización y álgebra relacional 
+3.4.1 Operaciones de actualización: Insertar, Eliminar y 
+actualizar 
+3.4.2 Operaciones del álgebra relacional: Selección, 
+Proyección, Reunión (Join), Intersección, Diferencia, 
+División 
+3.4.3. Funciones de agregación y de agrupación
+4
+  4
+4.1 Diseño de bases de datos relaciones 
+4.1.1 Pautas para el diseño de bases de datos 
+relacionales 
+4.1.2 Transformación de un modelo EER a un modelo 
+relacional 
+.2 Dependencias funcionales 
+4.2.1 Fundamentos de dependencia funcional 
+4.2.2 Regla de inferencia 
+4.2.3 Equivalencia de conjuntos 
+4.2.4 Conjuntos mínimos 
+.3 Formas normales 
+4.3.1 Primera, segunda y tercera forma normal 
+4.3.2 Forma normal de Boyce - Codd
+5
+  5
+  5
+  5
+5.1 Creación y modificación de esquemas de bases de 
+datos relacionales con Lenguaje SQL 
+5.1.1 Instrucciones CREATE DATABASE, DROP 
+DATABASE 
+5.1.2 Instrucciones CREATE TABLE, ALTER TABLE y 
+DROP TABLE 
+5.1.3 Instrucciones CREATE VIEW, CREATE INDEX 
+.2 Instrucciones INSERT, DELETE, UPDATE y 
+TRIGGERS 
+.3 Instrucción SELEC-FROM-WHERE 
+.4 Funciones agregadas y agrupación 
+.5 Procedimientos Almacenados (Store procedures)
+"
+CD/procesosEstocasticos_LCD2020.pdf,"1.1. Procesos deterministas y procesos estocásticos 
+1.1.1. 
+Clasificación por espacios de valores 
+1.1.2. 
+Procesos en tiempo discreto y en tiempo continuo 
+1.1.3. 
+Trayectorias de un proceso estocástico 
+ 
+1.2.  Algunos tipos de procesos estocásticos 
+1.2.1. 
+Distribuciones de probabilidad conjuntas  
+1.2.2. 
+Proceso con incrementos independientes 
+1.2.3. 
+Proceso con incrementos estacionarios 
+1.2.4. 
+Proceso estacionario en sentido amplio y débil  
+1.2.5. 
+Proceso gaussiano
+2.1. Caminata aleatoria 
+2.1.1. 
+El proceso de Bernoulli 
+2.1.2. 
+Caminata aleatoria con el proceso de Bernoulli  
+2.1.3. 
+Caminatas aleatorias en el plano y el espacio 
+            
+2.2. La ruina del jugador 
+2.2.1. 
+La probabilidad de ruina 
+2.2.2. 
+Duración promedio del juego 
+ 
+2.3. Movimiento browniano 
+2.3.1. 
+Simulación del movimiento browniano en tiempo 
+discreto y continuo por caminatas aleatorias 
+2.3.2.  Movimiento browniano y la ruina del jugador
+3.1. Derivación del proceso de Poisson 
+3.1.1. 
+Ley de eventos raros y aproximación a la 
+distribución binomial 
+3.1.2. 
+Axiomatización del proceso de Poisson 
+ 
+3.2. Proceso de Poisson homogéneo 
+3.2.1. 
+Distribución del tiempo de primer evento 
+3.2.2. 
+Distribución del tiempo inter eventos 
+3.2.3. 
+Distribución uniforme y el proceso de Poisson 
+3.2.4.  Métodos para simular procesos de Poisson 
+3.2.5. 
+Proceso de Poisson espacial 
+ 
+3.3. Proceso de Poisson no-homogéneo
+4.1. Estructura probabilística de una cadena Markov en 
+tiempo discreto 
+4.1.1. 
+Probabilidad de transición y distribución conjunta  
+4.1.2. 
+Ecuación de Chapman-Kolmogorov 
+4.1.3. 
+Ejemplos de cadena de Markov 
+ 
+4.2. Estados de una cadena de Markov 
+4.2.1. 
+Estados alcanzables y comunicables 
+4.2.2. 
+Cadenas de Markov irreducibles 
+4.2.3. 
+Periodicidad de una cadena de Markov 
+4.2.4. 
+Tiempos de transición  
+4.2.5. 
+Estados recurrentes, transitorios y absorbentes 
+ 
+4.3.  Evolución en tiempo largo 
+4.3.1. 
+Probabilidades límite 
+4.3.2. 
+Distribuciones estacionarias 
+4.3.3. 
+Algoritmo Monte Carlo vía Cadena de Markov 
+(MCMC) 
+ 
+4.4.  Cadenas de Markov ocultas
+5.1  Procesos de decisión markovianos 
+5.1.1 
+Costo descontado esperado y función de valor 
+5.1.2 
+Costo positivo y no descuento 
+5.1.3 
+Criterios de costos promedios esperados 
+5.1.4 
+Costo promedio óptimo 
+5.1.5 
+Políticas estacionarias óptimas 
+ 
+5.2  Espacio de estados finito 
+5.2.1 
+Enfoque computacional 
+5.2.2 
+Enfoque de programación lineal 
+ 
+5.3. Aplicaciones
+"
+CD/modelosEconometricos_LCD2020.pdf,"1.1  Econometría 
+1.1.1 
+Metodología de la econometría 
+1.1.2 
+Causalidad 
+1.1.3 
+Correlación 
+1.1.4 
+Noción de “ceteris paribus” en el análisis econométrico 
+ 
+1.2  Modelos de regresión lineal. 
+1.2.1 
+El modelo de regresión lineal simple 
+1.2.2 
+El modelo de regresión lineal múltiple 
+1.2.3 
+Supuestos del modelo clásico 
+ 
+1.3  Mínimos Cuadrados Ordinarios (MCO) 
+1.3.1 
+Estimación por MCO 
+1.3.2 
+Propiedades de los estimadores de MCO 
+1.3.3 
+Inferencia 
+1.3.4 
+Predicción 
+1.3.5 
+Regresión con variables dicotómicas
+2.1  Validación de supuestos 
+2.1.1 
+Normalidad 
+2.1.2 
+Multicolinealidad 
+2.1.3 
+Heterocedasticidad 
+2.1.4 
+Autocorrelación  
+ 
+2.2  Medidas correctivas para la violación de supuestos
+3
+3.1  Modelo de rezagos distribuidos 
+3.1.1 
+Estimación de modelos de rezagos distribuidos 
+3.1.2 
+Método de Koyck para los modelos de rezagos distribuidos 
+3.1.3 
+Modelo de expectativas adaptativas 
+3.1.4 
+Modelo de ajuste parcial 
+.2  Ecuaciones simultaneas (Unidad 5) 
+3.2.1 
+Modelos recursivos y MCO 
+3.2.2 
+Método de Mínimos Cuadrados Indirectos (MCI) 
+3.2.3 
+Método de Mínimos Cuadrados en Dos Etapas (MC2E)
+"
+CD/procesamientoLenguajeNatural_LCD2020.pdf,"1
+1.1 Contextualización 
+1.1.1 Sistemas y aplicaciones de lenguaje natural  
+1.1.2  Fundamentos 
+lingüísticos  para  procesamiento  de 
+lenguaje 
+1.1.3  Fundamentos  matemáticos  para  procesamiento  de 
+lenguaje  
+1.1.4 Lenguajes de programación, librerías y software para 
+procesamiento de lenguaje 
+.2 Normalización de textos 
+1.2.1 Segmentación en palabras y oraciones  
+1.2.2 Eliminación de elementos no relevantes 
+1.2.3 Etiquetado con categorías gramaticales
+2
+  2
+  2
+  2
+2.1 
+Representación 
+vectorial 
+de 
+textos 
+para 
+su 
+procesamiento semántico 
+2.1.1 Modelo de bolsa de palabras  
+2.1.2 Modelo de espacio vectorial para textos 
+.2 Selección de características en vectores 
+2.2.1 Frecuencia y probabilidad de palabras 
+2.2.2 Funciones de frecuencia de término (TF) 
+2.2.3 Frecuencia inversa del documento (IDF) 
+2.2.4 Técnicas de mapeo de palabras a vectores numéricos 
+(word embeddings) 
+.3 Extracción de aspectos semánticos a partir de textos 
+2.3.1 Palabras similares 
+2.3.2 Asociaciones entre palabras 
+2.3.3 Terminología 
+2.3.4 Palabras clave 
+.4 Minería de tópicos 
+2.4.1 Representación de tópicos mediante palabras clave 
+2.4.2 Modelo generativo de tópicos 
+2.4.3 Algoritmo de Asignación latente de Dirichlet (LDA) 
+.5 Extracción de información a partir de textos 
+2.5.1  Análisis 
+sintáctico 
+superficial 
+y 
+profundo 
+para 
+extracción de entidades e información.  
+2.5.2 Expresiones regulares para extracción de información 
+2.5.3 Resumen automático
+3
+  3
+  3
+3.1 Uso práctico de clasificación de textos 
+.2 Tipos de aprendizaje de máquina y clasificadores 
+3.2.1 Clasificadores generativos 
+3.2.2 Clasificadores discriminativos 
+.3 Aprendizaje de máquina supervisado para clasificación de 
+textos 
+3.3.1 Clasificación de textos mediante Bayes ingenuo 
+3.3.2 Clasificación de textos mediante Regresión logística 
+3.3.3 Clasificación de textos mediante K vecinos más cercanos 
+.4 Aprendizaje de máquina no supervisado para agrupamiento 
+de textos 
+3.4.1 Métodos generativos para agrupamiento de textos 
+3.4.2 Agrupamiento jerárquico de textos  
+3.4.3 Agrupamiento no jerárquico de textos 
+3.4.4 Agrupamiento aglomerante de textos 
+3.4.5  Agrupamiento  de 
+textos  mediante  Algoritmo  de  K 
+promedios
+4
+  4
+  4
+4.1 Detección y análisis de aspectos de personalidad en textos  
+4.1.1 Edad 
+4.1.2 Sexo 
+4.1.3  Rasgos  personales:  extraversión,  neurosis,  simpatía, 
+diligencia, franqueza  
+.2 Análisis de opinión sobre entidades 
+4.2.1 Regresión logística ordinal para opinión 
+4.2.2  Detección  de  polaridad  de  opinión 
+con  base  en 
+diccionarios de polaridad 
+4.2.3 Detección de polaridad de opinión usando algoritmos de 
+aprendizaje de máquina  
+.3  Análisis  de  opinión  sobre  aspectos  y  características 
+específicas de entidades 
+4.3.1 Extracción de aspectos y características 
+4.3.2 Minería de opinión sobre aspectos y características 
+.4. Análisis de sentimientos 
+4.4.1 Análisis basado en diccionarios de sentimientos 
+4.4.2 Análisis basado en aprendizaje de máquina
+5
+  5
+  5
+  5
+5.1 
+Textos 
+como 
+datos 
+no 
+estructurados 
+y 
+datos 
+estructurados 
+.2 
+Análisis 
+de 
+textos 
+en 
+relación 
+con 
+datos 
+de 
+geolocalización  
+.3 Análisis de textos en relación con datos temporales  
+.4 Análisis de textos en series de tiempo 
+.5 Análisis de mensajes en redes sociales
+"
+CD/analisisSeriesTiempo_LCD2020.pdf,"1
+1.1. 
+Naturaleza de series de tiempo 
+1.1.1.  Visualización gráfica de una serie de tiempo 
+1.1.2.  Modelos estadísticos de series de tiempo  
+1.1.3.  Medidas de dependencia 
+1.1.4.  Series de tiempo estacionarias 
+1.1.5.  Estimación de correlación  
+.2. 
+Estacionariedad y sus pruebas estadísticas 
+1.2.1. 
+ Alcances de las pruebas estadísticas y estacionariedad 
+como propiedad de escala 
+1.2.2.  Estacionariedad  de 
+la  media,  homoscedasticidad 
+y 
+estacionariedad en sentido amplio 
+1.2.3.  Estacionariedad  en 
+sentido  amplio: 
+razones  de 
+su 
+existencia e implicaciones 
+1.2.4.  Pruebas  de 
+tendencia  y  ruptura  en 
+la  media  y  para 
+homoscedasticidad 
+y 
+función 
+de 
+autocorrelación 
+estacionaria
+2.1. 
+Tipos de series de tiempo y su parametrización  
+2.1.1. 
+Procesos autorregresivos 
+2.1.2. 
+Procesos de promedio móvil 
+2.1.3. 
+Procesos 
+de 
+media 
+móvil 
+autorregresiva 
+AutoRegressive Moving Average (u)* 
+2.1.4. 
+Estimación de parámetros en modelos ARMA 
+ 
+2.2. 
+Pronósticos con Modelos ARMA 
+ 
+2.3. 
+Procesos 
+dependientes 
+de 
+variables 
+externas 
+Autoregressive Moving Average eXogenous (ARMAX)* 
+ 
+2.4. 
+Evaluación  de  órdenes  de 
+integración:  procesos  de 
+Medias 
+móviles 
+integradas 
+autorregresivas 
+Autoregressive Integrated Moving Average (ARIMA)* 
+ 
+*Por sus siglas en inglés
+3
+  3
+  3
+3.1. 
+Comportamiento cíclico y periodicidad 
+3.1.1.  Densidad espectral 
+3.1.2.  Periodograma y transformada de Fourier discreta  
+.2. 
+Estimación espectral  
+3.2.1.  Paramétrica 
+3.2.2.  No paramétrica 
+.3. 
+Series múltiples y espectros cruzados 
+.4. 
+Filtrado 
+3.4.1.  Filtros lineales 
+3.4.2.  Modelos de regresión con retraso 
+3.4.3.  Extracción de señales y filtro óptimo
+"
+CD/modeladoPredictivo_LCD2020.pdf,"1
+  1
+1.1. 
+Proceso de modelado predictivo 
+1.1.1.  Diferencia entre modelos predictivos y modelos explicativos 
+1.1.2.  Elementos de un modelo predictivo 
+1.1.3.  Escenarios típicos de un conjunto de datos 
+.2. 
+ Pre procesamiento de datos 
+1.2.1.  Transformaciones de datos 
+1.2.2.  Tratamiento de datos faltantes 
+1.2.3.  Agregando y removiendo predictores 
+.3. 
+Ajuste y calibración de modelos 
+1.3.1.  Ajuste de un modelo 
+1.3.2.  Calibración de un modelo 
+1.3.3.  Separación de modelos 
+1.3.4.  Técnicas de re muestreo 
+1.3.5.  Elección entre varios modelos
+2
+  2
+  2
+2.1. 
+Medición del desempeño de modelos de regresión 
+2.1.1.  Medidas cuantitativas de desempeño 
+2.1.2.  Balance entre varianza y sesgo 
+2.1.3.  Aspectos computacionales 
+.2. 
+Variantes del modelo de regresión 
+2.2.1.  Mínimos cuadrados parciales 
+2.2.2.  Modelos penalizados 
+2.2.3.  Aspectos computacionales 
+.3. 
+Modelos aditivos generalizados 
+2.3.1.  Base polinómica 
+2.3.2.  Splines de regresión 
+2.3.3.  Splines de suavizado 
+2.3.4.  Aspectos computacionales 
+.4. 
+Árboles de regresión aplicados a la predicción
+3.1  Evaluación del desempeño de clasificadores  
+3.1.1 
+Clases de predicciones 
+3.1.2 
+Evaluación de las clases predictivas 
+3.1.3 
+Evaluación de la probabilidad de clases 
+3.1.4 
+Aspectos computacionales 
+ 
+3.2  Modelos de clasificación Lineal 
+3.2.1 
+Regresión logística en análisis discriminante 
+3.2.2 
+Discriminante regularizado 
+3.2.3 
+Discriminante lineal de rango reducido 
+3.2.4 
+Análisis  discriminante  con  mínimos  cuadrados  parciales  y 
+modelos penalizados  
+3.2.5 
+Aspectos computacionales 
+ 
+3.3  Modelos de clasificación no lineal 
+3.3.1 
+Máquinas de soporte vectorial no lineal 
+3.3.2 
+Algoritmo k-vecinos más cercanos (k-NN) 
+3.3.3 
+Algoritmo Naive Bayes 
+3.3.4 
+Redes neuronales 
+3.3.5 
+Aspectos computacionales 
+ 
+3.4  Árboles de clasificación
+"
+CD/probabilidad_LCD2020.pdf,"1
+  1
+  1
+  1
+1.1 Espacios de probabilidad 
+1.1.1 El espacio muestral 
+1.1.2 Medidas de probabilidad 
+1.1.3 Teorema de Bayes 
+.2 Variables y vectores aleatorios 
+1.2.1 Funciones medibles 
+1.2.2 Variables aleatorias 
+1.2.3 Vectores aleatorios 
+.3 Distribución de probabilidad 
+1.3.1 Función de densidad de probabilidad 
+1.3.2 Función de distribución de probabilidad univariada 
+1.3.3 Funciones de distribución de probabilidad conjuntas  
+         y condicionales  
+1.3.3 Aplicaciones de funciones de distribución de  
+         probabilidad univariadas y conjuntas 
+.4 Esperanza matemática 
+1.4.1 Esperanza 
+1.4.2 Momentos univariados y momentos conjuntos 
+1.4.3 Momentos conjuntos e independencia 
+.5 Función de distribución de probabilidad multivariada
+2
+2.1 Comportamiento de sumas de variables aleatorias 
+2.1.1 Función característica y generadora de momentos. 
+2.1.2 Distribuciones de sumas de variables aleatorias  
+         independientes  
+2.1.3 Teorema central del límite (caso de varianza finita). 
+.2 Comportamiento asintótico de valores extremos de  
+         conjuntos de variables aleatorias 
+2.2.1 Distribuciones de Gumbel, Fréchet y Weibull 
+2.2.2 Función de distribución de probabilidad generalizada 
+de valores extremos y su parametrización
+3
+3.1 Funciones de distribución de probabilidad  
+3.1.1 Distribuciones binomial y de Poisson 
+3.1.2 Distribuciones geométrica y binomial negativa 
+3.1.3 Distribuciones exponencial y gamma 
+3.1.4 Distribuciones uniforme y beta 
+3.1.5 Distribución de probabilidad discretas con  
+         decaimiento en ley de potencia 
+.2. Parámetros de distribuciones de probabilidad 
+3.2.1 Caso discreto: Bernoulli, binomial, geométrica,  
+         Poisson y binomial negativa. 
+3.2.2 Caso continuo: gaussiana, exponencial, uniforme,  
+         gamma y beta
+4
+4.1 Estructuras probabilísticas discretas 
+4.1.1 Gráficas aleatorias 
+4.1.2 Árboles aleatorios 
+4.1.3 Redes aleatorias 
+4.1.4 Flujos aleatorios en redes 
+.2 Dependencia y análisis bayesiano 
+4.2.1 Teorema de Bayes en términos de funciones de   
+           distribución de probabilidad 
+4.2.2 Funciones de distribución de probabilidad a priori y  
+          a posteriori 
+4.2.3 Métodos numéricos para generar funciones de  
+          distribución de probabilidad a posteriori
+"
+CD/fundamentosEconomicos_LCD2020.pdf,"1
+  1
+  1
+1.1 Economía 
+1.1.1 La ciencia económica y su importancia 
+1.1.2 Economía positiva y economía normativa 
+1.1.3. Campo de estudio 
+.2 Sistemas y modelos económicos 
+1.2.1 Sistemas económicos 
+1.2.2 Modelos económicos 
+.3. Campo de la economía 
+1.3.1 Microeconomía y Macroeconomía 
+1.3.3 
+Los 
+actores 
+económicos: 
+familia, 
+empresa, 
+gobierno y sector externo 
+.4 El sistema de mercado y su funcionamiento 
+1.4.1. Competencia perfecta 
+1.4.2. 
+Competencia 
+imperfecta: 
+Competencia 
+monopolística, Oligopolio, Monopolio
+2
+  2
+2.1 Elementos de Microeconomía 
+.2 El comportamiento del consumidor  
+2.2.1. Gustos y preferencias de consumo 
+2.2.2 Utilidad y preferencia (superficie de utilidad) 
+2.2.3 Curvas de indiferencia y sus características 
+2.2.4.  Posibilidades 
+de 
+consumo. 
+La 
+restricción 
+presupuestal 
+2.2.5. Utilidad Total y Utilidad Marginal  
+2.2.6.  Maximización  de  la  utilidad  y  el  equilibrio  de 
+compra del consumidor 
+.3. El comportamiento del productor  
+2.3.1. Importancia de la empresa en el ciclo económico 
+2.3.2. La empresa y su problema económico 
+2.2.3. Teoría de Producción de corto y de largo plazo 
+2.3.3. Teoría de Costos de corto y de largo plazo 
+2.3.4. El equilibrio de producción de bienes y servicios
+3
+  3
+  3
+3.1 Teoría del mercado 
+.2 Demanda 
+3.2.1 Factores de la demanda y Ley de la demanda,  
+3.2.2 Elasticidades precio, ingreso y cruzada  
+.3 Oferta 
+3.3.1 Factores de la oferta y ley de la oferta 
+3.3.2 Elasticidades precio y cruzada  
+.4 Equilibrio del mercado 
+3.4.1Precio como regulador y equilibrio del mercado
+4
+  4
+  4
+  4
+4.1 Elementos de macroeconomía 
+.2 Variables macroeconómicas en la toma de 
+decisiones. 
+4.2.1 Ciclo económico, PIB, crecimiento económico 
+desarrollo económico, empleo,  
+4.2.2 Tipo de cambio 
+4.2.4 La Inflación 
+.3 Política económica 
+4.3.1 Política Fiscal 
+4.3.2 Política Monetaria 
+4.3.3 Política Cambiaria 
+4.3.4 Medidas gubernamentales anticrisis 
+.4 Riesgo país 
+4.4.1 Calificadoras  
+4.4.2 Indicadores de referencia 
+.5 Sistema financiero mexicano 
+4.5.1 Bolsa Mexicana de Valores 
+4.5.2 Banco de México
+5
+  5
+5.1 Sistema Financiero Internacional 
+5.1.2 Fondo Monetario Internacional 
+5.1.3 OCDE 
+5.1.4 Banco Mundial 
+5.1.5 Banco Interamericano 
+5.1.6 Banco De Desarrollo 
+.2 Importancia del comercio internacional 
+5.2.1 El comercio internacional y su impacto 
+5.2.2 e-commerce y sus reglas 
+.3 Economía circular 
+5.3.1 Tecnología verde: cloud computing: 
+infraestructura, servicios y plataformas. 
+ 
+5.4 El Ingeniero en Inteligencia Artificial y la 
+sustentabilidad 
+5.4.1 Organismos internacionales 
+5.4.2 Organismos nacionales
+"
+CD/eticaLegalidad_LCD2020.pdf,"1
+    1
+1.1  Evolución del conocimiento. 
+1.1.1Sujeto y sociedad. 
+1.1.2 Conocimiento empírico, científico, tecnológico, 
+cultural. 
+1.1.3 La ciencia como factor de cambio: Trayectoria 
+del avance científico y tecnológico. (Prehistoria, 
+Antigüedad, Edad Media) 
+.2 Desarrollo Histórico de la Tecnología:  
+1.2.1 Artefactos, técnica y tecnología 
+1.2.2 El impacto del avance científico y tecnológico en 
+la sociedad. 
+.3 Ciencia moderna: Del renacimiento a la Revolución 
+Industrial.  
+1.3.1    Los métodos de la ciencia Moderna. 
+1.3.2 El método científico: ventajas y limitaciones 
+1.3.3 Clasificación de las ciencias. 
+1.3.4 Nuevos retos de la ciencia
+2
+  2
+  2
+  2
+2.1 Las Revoluciones Industriales: características de la 
+tecnología y su impacto social, económico, político y 
+cultural 
+.1.1 Primera Revolución  
+.1.2 Segunda Revolución 
+.1.3 Tercera Revolución 
+.1.4 Cuarta Revolución
+3
+  3
+  3
+3.1 Importancia de la ciencia de datos y su función 
+social 
+3.1.1 El surgimiento de la ciencia de datos. 
+3.1.2 Funciones de la ciencia de datos en la sociedad 
+.2 Retos de la ciencia de datos en el siglo XXI 
+3.2.1 Perfil del científico de datos para las 
+organizaciones inteligentes. 
+.3 La ética y la ciencia de datos 
+3.3.1 Integridad Académica y Profesional 
+3.3.2 La misión del profesionista y su función social 
+.4 Dilemas éticos en la ciencia de datos 
+3.4.1 Códigos éticos, morales y sus diferencias 
+3.4.2 Códigos profesionales
+4
+   
+  4
+4.1 El Big Data y el manejo de datos 
+4.1.1 Antecedentes 
+4.1.2 Estructura, procesamiento y aplicación 
+.2 Uso responsable de datos personales 
+4.2.1 Principios de Licitud y Lealtad 
+4.2.2 Derechos y responsabilidades 
+4.2.3 Leyes, normas y políticas públicas nacionales e 
+internacionales 
+.3 Retos actuales con implicaciones sociales, éticas, 
+científicas y profesionales: sustentabilidad, salud, 
+equidad de género. 
+4.3.1 Libertad y voluntad. 
+4.3.2 Educación y legislación.
+5
+5.1 Sustentabilidad y ciencia de datos 
+5.1.1 Modelos productivos emergentes 
+5.1.2 Impacto ambiental de los nuevos modelos 
+productivos 
+5.1.3 Normatividad y acuerdos nacionales e 
+internacionales 
+.2 Principios de eficiencia, eficacia, pertinencia y 
+equidad en los modelos productivos emergentes 
+5.2.1 Sistemas de calidad
+"
+CD/desarrolloHabilidadesSociales_LCD2020.pdf,"1
+  1
+1.1. 
+Principios de la alta dirección en la organización 
+1.1.1.  Función 
+de 
+la 
+alta 
+dirección 
+dentro 
+de 
+la 
+organización  
+1.1.2.  Alta dirección y establecimiento de políticas y 
+estrategias 
+.2. 
+Principios de la planeación estratégica aplicada 
+1.2.1.  Proceso de la planeación estratégica  
+1.2.2.  Definición  de 
+la 
+estrategia:  misión, 
+visión 
+y 
+objetivos de largo plazo 
+1.2.3.  Formulación del plan de acción estratégico  
+1.2.4.  Implementación del plan de acción estratégico  
+1.2.5.  Evaluación y ajustes al plan de acción estratégico 
+.3. 
+Habilidades personales y sociales del directivo 
+1.3.1.  Pensamiento estratégico 
+1.3.2.  Carácter 
+y 
+personalidad 
+del 
+alto 
+directivo 
+estratega
+2
+2.1 
+Habilidades personales para la alta dirección 
+2.1.1  Autoconocimiento 
+2.1.2  Dimensiones 
+fundamentales 
+y 
+áreas 
+del 
+autoconocimiento 
+2.1.3  Evaluación  de  habilidades:  Manejo  del  estrés  y  el 
+bienestar, 
+eliminación 
+de 
+factores 
+estresantes, 
+resiliencia y bienestar 
+2.1.4  Administración del tiempo 
+2.1.5 
+Inteligencia emocional (IE) y alta dirección 
+2.1.6  Clasificación de la IE (personal e interpersonal) y su 
+relación con el éxito del directivo 
+.2 
+Habilidades sociales para la alta dirección 
+2.2.1  Desarrollo de relaciones sociales positivas 
+2.2.2  Comunicación 
+efectiva, 
+intrapersonal 
+e 
+interpersonal 
+2.2.3  Asertividad: Características de la persona asertiva 
+2.2.4  Conducta ética  
+2.2.5  Manejo del conflicto
+3
+  3
+  3
+  3
+3.1 
+Habilidades organizacionales de comunicación  
+3.1.1  Comunicación empresarial  
+.2 
+Equipos efectivos de trabajo 
+3.2.1  Formación de equipos 
+3.2.2  Retos de los equipos de trabajo 
+3.2.3  Operación de equipos de trabajo 
+.3 
+Liderazgo estratégico 
+3.3.1  Liderazgo para el desarrollo de los colaboradores 
+3.3.2  Motivación en los equipos de trabajo 
+3.3.3  Teorías de la motivación 
+3.3.4  Motivación y desempeño 
+3.3.5  Coaching 
+3.3.6  Proceso de coaching 
+3.3.7  Coaching en la empresa 
+.4 
+Toma de decisiones 
+3.4.1  Ética en la toma de decisiones   
+.5 
+Estrategias de negociación 
+3.5.1  Técnicas de negociación 
+3.5.2  Obstáculos en las negociaciones 
+3.5.3  Relaciones públicas
+"
+CD/trabajoTerminalI_LCD2020.pdf,"1
+1.1. Proceso  de  planeación  de  desarrollo  de  proyectos 
+científicos o tecnológicos en cómputo  
+1.1.1. 
+Identificación del tipo de proyecto  
+1.1.2. 
+Análisis de metodologías 
+1.1.3. 
+Metodologías 
+1.1.4. 
+El ciclo de vida del producto 
+ 
+1.2. Administración de proyectos científicos o tecnológicos 
+en cómputo 
+.3. Planeación del proyecto 
+1.3.1. 
+Equipo de trabajo 
+1.3.2. 
+Delimitación del proyecto  
+1.3.3. 
+Análisis y gestión de riesgos del proyecto 
+1.3.4. 
+Métricas y estimación del proyecto
+2
+2.1 Análisis  
+2.1.1. 
+Delimitación del proyecto (conocimiento del 
+negocio o investigación científica)  
+2.1.2. 
+Análisis de requerimientos 
+2.1.3. 
+Propuesta de arquitectura 
+.2. Diseño 
+2.2.1.  Modelado de datos 
+2.2.2. 
+Diseños funcionales
+3
+ 3
+3.1. Administración de cambios 
+3.1.1. 
+Control de versiones 
+.2. Verificación y validación 
+3.2.1. 
+Verificación y validación de requerimientos 
+3.2.2. 
+Verificación y validación de diseño 
+3.2.3. 
+Verificación y validación del costo del proyecto 
+.3. Estándares de desarrollo 
+3.3.1. 
+Prototipos funcionales y no funcionales
+"
+CD/algoritmosEstructurasDatos_LCD2020.pdf,"1
+  1
+  1
+  1
+.1 Algoritmia 
+ 
+1.1.1 Características de los algoritmos y tipos 
+1.1.2 Representación de algoritmos en pseudocódigo 
+1.1.3 Abstracción y tipo de dato abstracto 
+1.1.4 Orden de complejidad 
+ de un algoritmo 
+.2 El problema del ordenamiento 
+1.2.1 Ordenamiento por inserción  
+1.2.2 Ordenamiento por selección 
+1.2.3 Ordenamiento de burbuja 
+1.2.4 Ordenamiento por mezcla 
+1.2.5 Comparación de órdenes de complejidad 
+.3 El problema de la búsqueda 
+1.3.1 Búsqueda secuencial 
+1.3.2 Búsqueda binaria 
+1.3.3 Búsqueda indexada 
+1.2.4 Comparación de órdenes de complejidad 
+.4 Exploración exhaustiva y vuelta atrás 
+1.4.1 Exploración exhaustiva 
+1.4.2 Programación por vuelta atrás 
+1.4.3 Nociones de complejidad de la exploración 
+exhaustiva y vuelta atrás
+2
+  2
+  2
+  2
+.1 Pila 
+2.1.1 Especificación genérica  
+2.1.2 Implementación estática 
+2.1.3 Implementación dinámica 
+2.1.4 Nociones de complejidad de las operaciones 
+2.1.5 Aplicaciones  
+.2 Cola 
+2.2.1 Especificación genérica  
+2.2.2 Implementación estática 
+2.2.3 Implementación dinámica 
+2.2.4 Colas de prioridad 
+2.2.5 Nociones de complejidad de las operaciones 
+2.2.6 Aplicaciones  
+.3 Listas 
+2.2.1 Especificación genérica  
+2.3.2 Listas simplemente enlazadas 
+2.3.3 Listas doblemente enlazadas 
+2.3.4 Listas circulares 
+2.3.5 Arreglos y vectores vs listas 
+2.3.6 Nociones de complejidad de las operaciones 
+2.3.7 Implementaciones y aplicaciones 
+.4 Tablas hash 
+2.4.1 Especificación genérica  
+2.4.2 Función hash 
+2.4.3 Resolución de colisiones 
+2.4.4 Tablas hash cerradas  
+2.4.5 Tablas hash abiertas 
+2.4.6 Nociones de complejidad de las operaciones 
+2.4.7 Implementaciones y aplicaciones
+3
+  3
+.1 Árboles binarios 
+3.1.1 Transformación de árboles generales a binarios 
+3.1.2 Recorridos en un árbol binario 
+3.1.3 Árbol binario de búsqueda 
+3.1.4 Árbol balanceado rojo-negro 
+3.1.5 Montículo  
+3.1.6 Implementaciones y aplicaciones 
+3.1.7 Nociones de complejidad de las 
+implementaciones 
+3.1.8 Otros tipos de árboles  
+.2 Grafos  
+3.2.1 Representaciones matriciales y basadas en listas  
+3.2.2 Búsqueda en amplitud  
+3.2.3 Búsqueda en profundidad  
+3.2.4 Distancia más corta  
+3.2.5 Implementaciones y aplicaciones 
+3.2.6 Nociones de complejidad de los algoritmos sobre 
+grafos
+"
+CD/metodosNumericos_LCD2020.pdf,"1.1  Aritmética de punto flotante 
+1.1.1 
+Representación de número de punto flotante 
+1.1.2 
+Errores de redondeo y de truncamiento 
+ 
+1.2  Métodos cerrados 
+1.2.1 
+Método de bisección 
+1.2.2 
+Método de la falsa posición 
+ 
+1.3 Métodos abiertos 
+1.3.1     Método de iteración de punto fijo 
+1.3.2     Método de Newton-Raphson 
+1.3.3     Método de la secante 
+ 
+1.4  Raíces de polinomios 
+1.4.1 
+Método de Müller 
+1.4.2 
+Método de Bairstow
+2
+  2
+  2
+2.1 Derivación numérica 
+2.1.1 Fórmula de diferencia progresiva y regresiva 
+2.1.2 Fórmula de (n+1) puntos 
+2.1.3 Fórmulas de 3 y 5 puntos 
+2.1.4 Extrapolación de Richardson 
+.2 Integración numérica 
+2.2.1 Regla del trapecio 
+2.2.2 Regla de Simpson y Simpson tres octavos 
+2.2.3 Regla del punto medio 
+.3 Integración numérica compuesta 
+2.3.1 Regla compuesta del trapecio 
+2.3.2 Reglas compuesta de Simpson y Simpson tres 
+octavos 
+2.3.3 Regla compuesta del punto medio 
+.4 Integración múltiple 
+2.4.1 Integral doble de Simpson 
+2.4.2 Integral doble y triple Gaussiana
+3
+  3
+  3
+  3
+3.1 Problemas de valor inicial 
+.2 Método de Euler 
+.3 Métodos de Taylor de orden superior 
+3.3.1 Métodos de Runge Kutta 
+3.3.2 Método de Runge Kutta – Fehlberg 
+.4 Métodos multipaso y multipaso con tamaño de paso 
+variable 
+.5 Solución de ecuaciones de orden superior 
+3.5.1 Sistemas de orden m 
+3.5.2 Transformación de una ecuación de orden superior 
+en un sistema de ecuaciones diferenciales de primer orden 
+3.5.3 Método de Runge Kutta para los sistemas de 
+ecuaciones diferenciales
+4
+  4
+4.1 Solución numérica de Sistemas de Ecuaciones 
+Lineales 
+4.1.1 Eliminación Gaussiana con sustitución hacia atrás 
+4.1.2 Eliminación gaussiana con pivoteo parcial y pivoteo 
+parcial escalado 
+.2 Inversa de matrices 
+.3 Factorización de matrices 
+4.3.1 Factorización LU 
+4.3.2 Factorización LDL 
+4.3.3 Algoritmo de Cholesky 
+4.3.4 Factorización de Crout
+5
+5.1 Regresión por mínimos cuadrados 
+5.1.1 Regresión lineal 
+5.1.2 Regresión polinomial 
+5.1.3 Regresión lineal múltiple 
+5.1.4 Mínimos cuadrados lineales  
+5.1.5 Regresión no lineal 
+.2 Interpolación 
+5.2.1 Diferencias divididas 
+5.2.2 Interpolación de Lagrange 
+5.2.3 Interpolación de Hermite 
+5.2.4 Interpolación de trazadores cúbicos (splines)
+"
+CD/bigData_LCD2020.pdf,"1
+  1
+1.1 Conocimiento  
+      1.1.1 Datos estructurados y no estructurados          
+      1.1.2 Información y contenido de datos 
+      1.1.3 Conocimiento e inteligencia 
+      1.1.4 Bases de almacén y fuentes de datos. 
+      1.1.5 Evolución de Big Data y las 4-V  
+.2 Principios de manejo de información en big data 
+       1.2.1 Marco de referencia y Calidad de datos 
+       1.2.2 Aplicaciones de big data 
+       1.2.3 Seguridad y Manejo ético de datos 
+       1.2.4 Datos abiertos y su gestión 
+.3 Manejo y disponibilidad de datos. 
+       1.3.1 Alta disponibilidad 
+       1.3.2 Clúster 
+       1.3.3 Servidores en premisa 
+       1.3.4 La nube y sus clasificaciones
+2
+  2
+2.1 Ingesta de datos 
+     2.1.1 Tecnologías de Integración de datos  
+     2.1.2 Principios de minería de datos, principios de ETL  
+     2.1.3 Hadoop Distributed File System y Map  
+Reduce 
+      2.1.4 Crawling, parsing y scraping 
+.2 Principios base de inteligencia artificial 
+      2.2.1 Análisis bayesiano 
+      2.2.2 Análisis sentimental 
+.3 Principios de analítica empresarial para big data 
+      2.3.1 Reglas de negocio 
+2.3.2 Analíticos descriptivos y de diagnóstico 
+2.3.3 Analítico predictivo 
+2.3.4 Analítico prescriptivo 
+2.3.5 Analítico cognitivo
+3
+3.1 Narrativa de datos 
+      3.1.1 Principios de inteligencia de negocios 
+      3.1.2 Indicadores de desempeño 
+      3.1.3 Modelado y presentación de reportes 
+.2 Principios aplicados de big data para ciencia de datos 
+      3.2.1 Notebooks 
+    3.2.2 Motores Unificados para Analíticos
+"
+CD/analisisDisenoAlgoritmos_LCD2020.pdf,"1.1  El rol de los algoritmos en el cómputo  
+1.1.1 
+Nociones básicas de algoritmos  
+1.1.2 
+Nociones básicas de análisis 
+ 
+1.2  Tipos de complejidad 
+1.2.1 
+ Complejidad temporal 
+1.2.2 
+Complejidad espacial 
+ 
+1.3  Notación Asintótica  
+1.3.1 
+Notación θ 
+1.3.2 
+Notación O 
+1.3.3 
+Notación Ω 
+1.3.4 
+Notación o 
+1.3.5 
+Notación ω 
+ 
+1.4  Funciones típicas para describir crecimientos 
+asintóticos
+1.1  La estrategia Divide y Vencerás 
+1.1.1 
+Problema del máximo subarreglo 
+1.1.2 
+El algoritmo de Strassen 
+ 
+1.2  Ecuaciones de recurrencia 
+1.2.1 
+Método de Sustitución 
+1.2.2 
+Método de Iteraciones 
+1.2.3 
+El teorema Maestro y su demostración 
+ 
+1.3  Programación dinámica 
+1.3.1 
+El problema de corte de varilla 
+1.3.2 
+El problema de multiplicación de una cadena 
+de matrices 
+1.3.3 
+Elementos de la programación dinámica 
+1.3.4 
+Características 
+1.3.5 
+Aplicaciones 
+ 
+1.4  La estrategia avariciosa (greedy) 
+1.4.1 
+El problema de la selección de actividades 
+1.4.2 
+Códigos de Huffman 
+1.4.3 
+Elementos de la estrategia avariciosa 
+1.4.4 
+Matroides y la estrategia avariciosa
+2.1   Análisis probabilístico y Algoritmos aleatorizados 
+2.1.1 
+El problema de la selección de actividades 
+ 
+2.2  Análisis amortizado 
+2.2.1 
+Análisis agregado 
+2.2.2 
+El método contable 
+2.2.3 
+El método potencial 
+2.2.4 
+Tablas dinámicas
+3.1  Complejidad algorítmica 
+ 
+3.2  Clases de complejidad 
+ 
+3.3  P vs NP 
+ 
+3.4  NP-Completitud 
+ 
+3.5  Estrategias para enfrentar a la clase NP
+"
+CD/gestionEmpresarial_LCD2020.pdf,"1
+  1
+  1
+1.1 
+Las organizaciones 
+1.1.1  Clasificación 
+1.1.2  Constitución legal de acuerdo con la Ley de 
+Sociedades Mercantiles y la Ley de Sociedades 
+Civiles 
+.2 
+Administración 
+1.2.1  Objetivo de la administración 
+.3 
+Gestión empresarial 
+1.3.1  Objetivo de la gestión empresarial 
+1.3.2  Funciones básicas 
+1.3.3  Clasificación 
+.4 
+Diferencias entre administrar y gestionar
+2
+  2
+  2
+  2
+2.1 
+Factores  de  competitividad  que  afectan  la  gestión 
+empresarial 
+.2 
+Filosofía  corporativa  de  empresas  de 
+innovación 
+tecnológica 
+.3 
+Estrategia  y  cultura  organizacional  de  empresas  de 
+innovación tecnológica 
+.4 
+Implementación de la estrategia, planes, programas, 
+presupuestos y procedimientos 
+2.4.1 
+ Cuadro de mando integral 
+.5 
+Herramientas de gestión estratégica  
+2.5.1  Análisis FODA y desarrollo de estrategias 
+2.5.2  Modelos de negocio 
+2.5.3  Modelo de Diamante de Porter 
+2.5.4  Plan comercial 
+2.5.5  Plan maestro
+3
+  3
+  3
+3.1 
+Estructura organizacional 
+3.1.1 
+División  del  trabajo,  coordinación,  especialización, 
+jerarquización,  departamentalización  y  unidad  de 
+mando 
+.2 
+Innovación y tecnología 
+3.2.1 
+La tecnología como factor intangible de 
+competitividad 
+3.2.2 
+Tecnologías emergentes 
+.3 
+Manejo de cambio e innovación 
+.4 
+Herramientas de gestión operativa 
+3.4.1 
+Reingeniería de los procesos de negocio 
+3.4.2 
+Transformación 
+de 
+la 
+estructura 
+y 
+la 
+cultura 
+organizacional 
+3.4.3 
+Evaluación tecnológica de la empresa 
+3.4.4  Optimización de los recursos tecnológicos
+4
+  4
+  4
+4.1 
+Capital humano  
+4.1.1 
+Funciones del departamento de capital humano 
+.2 
+Marco normativo de las relaciones laborales 
+.3 
+Calidad 
+4.3.1 
+Control estadístico  
+4.3.2 
+Calidad total 
+.4 
+Herramientas de gestión  del Capital Humano  y de 
+calidad 
+4.4.1 
+Las 5´s  
+4.4.2 
+Just in Time  
+4.4.3 
+Análisis funcional  
+4.4.4 
+Benchmarking  
+4.4.5 
+ERP
+5
+  5
+  5
+5.1 
+Aspectos legales 
+5.1.1 
+Propiedad intelectual 
+5.1.2 
+Uso de información digital 
+.2 
+Responsabilidad social y sustentabilidad  
+.3 
+Habilidades digitales 
+5.3.1 
+Learnability 
+5.3.2 
+Teamability 
+5.3.3 
+Networking 
+5.3.4 
+Adaptability 
+.4 
+Tecnologías y tendencias digitales 
+5.4.1 
+Internet de las cosas 
+5.4.2 
+Inteligencia Artificial 
+5.4.3 
+Inteligencia de negocios 
+5.4.4 
+Blockchain y la nube
+"
+CD/trabajoTerminalII_LCD2020.pdf,"1
+1.1  Implementación 
+1.1.1 
+Estándares y procedimientos de codificación o 
+implementación 
+1.1.2 
+Integración de código, prototipo o servicios 
+existentes 
+.2  Pruebas 
+1.2.1 
+Plan de pruebas 
+1.2.2 
+Elaboración de escenarios y scripts de 
+pruebas unitarias o modulares
+2
+  2
+  2
+2.1  Integración 
+2.1.1 
+Interoperabilidad de elementos  
+2.1.2 
+Pruebas de integración 
+2.1.3 
+Verificación y validación de resultados 
+.2  Análisis e interpretación de resultados 
+2.2.1 
+Identificación de oportunidades de mejora 
+.3  Trabajo a futuro 
+.4  Conclusiones
+3
+3.1  Reporte final del proyecto 
+3.1.1 
+Análisis de similitud 
+3.1.2 
+Revisión de formatos 
+ 
+3.2  Artículo técnico 
+3.2.1 
+Aplicación de formatos de escritura de un 
+artículo científico 
+.3  Presentación ejecutiva del proyecto
+"
+CD/matematicasAvanzadasCienciaDatos_LCD2020.pdf,"1
+1.1  Herramientas de optimización. 
+1.1.1 
+Algebra lineal 
+1.1.2 
+Puntos extremos y gradiente. 
+1.1.3 
+Elementos de programación lineal 
+1.1.4 
+Máximos y mínimos 
+ 
+1.2  Elementos de optimización 
+1.2.1 
+Tipos de problemas y regiones factibles. 
+1.2.2 
+Tamaños y dificultad de los problemas. 
+1.2.3 
+Planteamiento de problemas. 
+1.2.4 
+Teorema fundamental de la programación lineal  
+ 
+1.3  Métodos para optimización lineal 
+1.3.1     El método simplex 
+1.3.2     Dualidad 
+1.3.2      El método simplex dual 
+1.3.3      Análisis de sensibilidad 
+1.3.4      Software especializado para la solución de 
+problemas lineales. 
+.4 Aplicaciones a problemas clásicos de optimización 
+lineal 
+1.4.1      El problema del transporte  
+1.4.2      Método simplex para problemas de transporte  
+1.4.3      El problema de asignación  
+1.4.4      Flujo de redes.  Flujo de costo mínimo. Flujo 
+maximal. 
+1.4.5     Algoritmo del transporte primal-dual
+2
+  2
+2.1 Problemas típicos de programación no lineal. 
+2.1.1 Problemas no lineales sin restricciones. 
+2.2.2 Problemas no lineales con restricciones. 
+2.2.3 Problemas cuadráticos.  
+.2 Principales métodos de optimización no lineal sin 
+restricciones. 
+2.2.1 Búsqueda sobre una línea 
+2.2.2 Condiciones necesarias de primer y segundo orden 
+2.2.3 Método de descenso de mayor pendiente y Método 
+de Newton 
+2.2.4 Métodos de dirección conjugada. 
+2.2.5 Métodos Cuasi-Newton 
+.3 Principales métodos de optimización no lineal con 
+restricciones 
+2.3.1 Condiciones para la minimización con restricciones  
+2.3.2 Restricciones de desigualdad y condiciones de 
+Karush-Kuhn-Tucker. 
+2.3.3 Métodos primales (dirección factible, conjunto 
+activo, gradiente y gradiente reducido) 
+2.3.4 Métodos de penalización y de barrera  
+2.3.5 Métodos de Lagrange.
+3
+  3
+  3
+  3
+3.1 Entropía de Shannon  
+3.1.1. Interpretación como medida de incertidumbre 
+3.1.2. Evaluación de entropía en variables aleatorias   
+          con distribuciones discretas y continuas con  
+         densidad 
+3.1.3. Propiedades de la entropía de Shannon 
+.2. Información mutua de variables aleatorias  
+3.2.1 Entropía conjunta y entropía condicional  
+3.2.2 Entropía relativa o distancia de Kullback-Leibler 
+3.2.3. Información mutua 
+3.2.4. Relación entre Información mutua y entropía 
+3.2.5. Comparativa entre Información mutua y todos 
+los  
+         coeficientes de correlación de varias variables 
+.3. Reglas de la cadena en información  
+3.3.1. Regla de la cadena para la entropía y su  
+          interpretación 
+3.3.2. Información mutua condicional 
+3.3.3. Regla de la cadena para la información y su  
+          interpretación   
+3.3.4. Entropía relativa condicional 
+3.3.5. Regla de la cadena para la entropía relativa 
+.4 Desigualdades en teoría de información 
+3.4.1 Positividad de la entropía relativa y la  
+         información mutua 
+3.4.2. Reducción de entropía bajo condicionamiento 
+3.4.3. La entropía conjunta es menor que la suma de     
+           las entropías individuales 
+3.4.4. Desigualdad del procesamiento de datos con   
+         información mutua y cadena de Markov 
+.5 Entropía máxima 
+3.5.1. Formulación del problema y posibles soluciones 
+3.5.2. Distribuciones discretas con entropía máxima 
+3.5.2. Distribuciones continuas univariadas con  
+          entropía máxima 
+3.5.3. Distribución normal multivariada 
+3.5.4. Un problema anómalo de entropía máxima 
+3.5.5. Tasas de entropía de un proceso gaussiano
+"
+CD/liderazgoPersonal_LCD2020.pdf,"1
+  1
+  1
+1. 1 Principios del liderazgo 
+1.1.1 Tipos de liderazgo 
+1.1.2 Modelos de liderazgo  
+1.1.3 Liderazgo basado en estilos de personalidad 
+1.1.4 Desarrollo del liderazgo 
+1.1.5 Coaching 
+.2 Inteligencia emocional 
+1.2.1 Importancia de la inteligencia emocional para 
+el éxito profesional 
+1.2.2 Control de las emociones 
+1.2.3 El valor de la autodisciplina 
+1.2.4 Manejo de la postergación 
+1.2.5 Desarrollo de hábitos y rutinas para el éxito 
+.3 Administración del tiempo en el liderazgo personal 
+1.3.1 Gestión de prioridades y objetivos 
+1.3.2 Eficacia versus eficiencia 
+1.3.3 Planificación de roles y metas 
+.4 Misión y Visión del líder 
+1.4.1 El poder de una misión y visión personal 
+1.4.2 Herramientas de autoconocimiento 
+1.4.3 Identidad versus comportamientos 
+1.4.4 Intereses versus habilidades 
+1.4.5 Componentes del éxito personal
+2
+  2
+  2
+2.1 Interacción con personas 
+2.1.1 Construcción del espíritu de equipo  
+2.1.2 Escucha activa 
+2.1.3 Empatía  
+2.1.4 Apoyo y preocupación por los otros  
+2.1.5 Desarrollo y comunicación de auto-
+conocimiento e introspección.  
+.2 Principios y valores 
+2.2.1 Defensa de la ética y valores  
+2.2.2 Integridad  
+2.2.3 Manejo de la diversidad  
+2.2.4 Responsabilidad social y ambiental  
+.3 Relaciones y redes  
+2.3.1 Construcción de rapport  
+2.3.2 Redes  
+2.3.3 Relacionarse a través de niveles  
+2.3.4 Manejo de conflictos  
+2.3.5 Uso del humor  
+.4 Persuadir en influir  
+2.4.1 Generación de Impacto apelando a las 
+emociones  
+2.4.2 Promoción de Ideas  
+2.4.3 Negociación y acuerdos  
+2.4.4 Presentar y comunicar la información  
+2.4.5 Proyección de credibilidad
+3
+3.1 Producción y gestión del conocimiento 
+3.1.1 Tecnologías para la recopilación de 
+información  
+3.1.2 Análisis y evaluación de la información  
+3.1.3 Pensamiento sistémico 
+3.1.4 Redes de gestión del conocimiento 
+.2 Experiencia tecnológica para la toma de 
+decisiones  
+3.2.1 Construcción y aplicación de la 
+experiencia técnica  
+3.2.2 Pensamiento global 
+3.2.3 Recursos tecnológicos para la toma de 
+decisiones 
+3.2.4 Creatividad, creación e innovación 
+3.2.5 Proceso de introducción de cambios
+4
+4.1 Liderazgo adaptativo 
+4.1.1 Adaptación y respuesta al cambio  
+4.1.2 Conciencia multicultural  
+4.1.3 Tratamiento de la ambigüedad  
+4.1.4 Enfrentamiento de la presión y 
+autocontrol emocional  
+4.1.5 Equilibrio entre trabajo y vida personal  
+.2 Supervisión y desarrollo del talento 
+4.2.1 Delegación de responsabilidades y 
+motivación 
+4.2.2 Proporcionar dirección y coordinar las 
+acciones  
+4.2.3 Supervisión y seguimiento del 
+comportamiento  
+4.2.4 Identificación y selección de talento 
+4.2.5 Desarrollo del talento
+"
+CD/aprendizajeMaquinaInteligenciaArtificial_LCD2020.pdf,"1.1  Inteligencia Artificial 
+1.1.1 
+Aplicaciones 
+1.1.2 
+Perspectiva 
+ 
+1.2  Disciplinas directas de la inteligencia artificial 
+1.2.1 
+Representación del Conocimiento 
+1.2.2 
+Razonamiento 
+1.2.3 
+Búsquedas 
+ 
+1.3  Aprendizaje de Máquina 
+1.3.1 
+Conceptos y Fundamentos 
+1.3.2 
+Evaluación de una máquina de aprendizaje 
+1.3.3 
+Aplicaciones y Perspectivas 
+ 
+1.4  Métodos de validación 
+1.4.1 
+Entrenamiento y prueba 
+1.4.2 
+Validación  cruzada:  Dejar  uno  fuera,  K  grupos, 
+Bootstrap 
+ 
+1.5  Inteligencia Artificial y el apoyo a la toma de 
+decisiones
+1.1  Aplicación en la inteligencia artificial de las regresiones  
+1.1.1 
+Regresión Lineal 
+1.1.2 
+Regresión Polinómica 
+1.1.3 
+Regresión Logística 
+ 
+1.2  Redes Neuronales 
+1.2.1 
+Arquitectura de una red Neuronal 
+1.2.2 
+Perceptrón Simple y Multicapa 
+1.2.3 
+Técnicas de optimización 
+ 
+1.3  Árboles de Decisión 
+1.3.1 
+Teoría de los árboles de decisión y datos para su 
+construcción 
+1.3.2 
+Clasificación y regresión 
+1.3.3 
+Algoritmos de construcción 
+1.3.4 
+Interpretación 
+1.3.5 
+Aplicaciones 
+ 
+1.4  Algoritmo del vecino más cercano  
+1.4.1 
+Principio del algoritmo 
+1.4.2 
+Características del algoritmo 
+1.4.3 
+Clasificación de mínima distancia 
+1.4.4 
+Aplicaciones
+2.1  Algoritmos de agrupamiento 
+2.1.1 
+Medidas de agrupamiento 
+2.1.2 
+Algoritmos 
+2.1.3 
+Aplicaciones 
+ 
+2.2  Algoritmo Esperanza -Maximización (E-M) 
+2.2.1 
+Fundamentos 
+2.2.2 
+Consideraciones 
+2.2.3 
+Aplicaciones 
+ 
+2.3  K-medias (K-means) 
+2.3.1 
+Fundamentos 
+2.3.2 
+Características 
+2.3.3 
+Casos de Aplicación 
+ 
+2.4  Agrupamiento jerárquico 
+2.4.1 
+Agrupamiento Divisivo 
+2.4.2 
+Agrupamiento Aglomerante: Acoplamiento Simple 
+y Completo 
+2.4.3 
+Aplicaciones 
+ 
+2.5  Agrupación Espacial de Aplicaciones Basadas en la 
+Densidad con Ruido (DBSCAN) 
+2.5.1 
+Criterios de Asignación 
+2.5.2 
+Algoritmo DBSCAN 
+2.5.3 
+Ventajas y Desventajas 
+2.5.4 
+Aplicaciones
+4.1 Modelos de Redes Bayesianas 
+3.1.1 
+Fundamentos 
+3.1.2 
+Características 
+3.1.3 
+Casos de Aplicación 
+ 
+3.2  Bosques aleatorios 
+3.2.1 
+Limitaciones de los Árboles de Decisión 
+3.2.2 
+Definición de un bosque aleatorio 
+3.2.3 
+Diferencias entre un árbol de decisión y un 
+Bosque aleatorio 
+3.2.4 
+Combinación de Predicciones
+"
+CD/calculo_LCD2020.pdf,"1.1  Funciones algebraicas 
+1.1.1 Representaciones: algebraica, geométrica, numérica 
+y verbal 
+1.1.2 Propiedades: monotonía, simetría, periodicidad 
+1.2  Funciones inversas 
+1.3  Funciones trascendentes 
+1.3.1 Exponenciales naturales y generales 
+1.3.2 Logarítmicas naturales y generales 
+1.3.3 Trigonométricas y trigonométricas inversas   
+1.3.4 Hiperbólicas e hiperbólicas inversas 
+1.4  Transformaciones de funciones
+2.1 Límites de manera gráfica y numérica 
+2.2 Cálculo analítico de límites 
+2.2.1 Límites de formas indeterminadas 
+2.2.2 Límites unilaterales 
+2.2.3 Límites de funciones trigonométricas 
+2.3 Límites infinitos y en el infinito 
+2.3.1 Asíntotas horizontales, verticales y oblicuas 
+2.4 Continuidad 
+2.4.1 En un punto 
+2.4.2 En un intervalo
+3.1 Derivada 
+3.1.1 Pendiente, velocidad y razón de cambio 
+3.1.2 Derivada en un punto y en diferentes intervalos 
+3.2 Reglas de derivación 
+3.2.1 Derivación de funciones algebraicas y trascendentes 
+3.2.2 Regla de la cadena, 
+3.2.3 Derivación implícita y derivación explícita  
+3.2.4 Derivadas de orden superior 
+3.3 Razones de cambio relacionadas 
+3.4 Diferencial de una función 
+3.5 Máximos y mínimos 
+3.5.1 Criterios de la primera y segunda derivada 
+3.5.2 Gráficas de funciones 
+3.5.3 Optimización
+4.1 Antiderivada e integración indefinida 
+4.2 Integración por sustitución 
+4.3 Integración por partes 
+4.4 Integrales trigonométricas y sustitución trigonométrica 
+4.5 Integrales de funciones racionales por fracciones 
+parciales
+5.1 Integral definida 
+5.1.1 Propiedades de la Integral definida 
+5.1.2 Teorema fundamental del Cálculo 
+5.2 Integración numérica 
+5.2.1 Trapecio 
+5.2.3 Simpson 
+5.3 Aplicaciones de la integral definida 
+5.3.1 Área entre curvas 
+5.3.2 Volúmenes de sólidos de revolución: discos, 
+arandelas y capas cilíndricas  
+5.3.3 Longitud de arco y área de superficie
+"
+CD/comunicacionOralEscrita_LCD2020.pdf,"1.1  Comunicación asertiva 
+1.1.1 Niveles de comunicación 
+1.1.2 Contexto de comunicación 
+1.1.3 Barreras de la comunicación 
+1.1.4 Asertividad y manejo de conflicto 
+ 
+1.2 Naturaleza social de la comunicación  
+1.2.1 Relaciones humanas y comunicación 
+1.2.2 Competencia comunicativa
+1
+  1
+1.1 Comunicación oral 
+1.1.1 Características, elementos y cualidades de 
+la comunicación oral 
+.2 Tipos de discurso oral 
+.3 Planeación y producción del discurso público 
+1.3.1 Estrategias y técnicas para la 
+presentación oral  
+1.3.2 Presentación oral del discurso
+2
+  2
+  2
+  2
+2.1 Comunicación escrita 
+2.1.1 Características, elementos y cualidades de la 
+comunicación escrita 
+.2 Normatividad de la lengua escrita 
+2.2.1 Vicios del lenguaje 
+.3 El proceso de escritura 
+2.3.1 Elementos de la redacción 
+.4 Tipos de texto 
+2.4.1 Estructuras y esquemas discursivos: 
+argumentativo, descriptivo, narrativo y expositivo 
+2.4.2 Redacción de diversos tipos de texto 
+.5 La escritura académica 
+2.5.1 Composición de textos académicos y la escritura 
+técnico-científica  
+2.5.2 Aparato crítico
+4.1 Comunicación en el siglo XXI  
+4.1.1 
+La 
+comunicación 
+como 
+manifestación 
+sociocultural 
+  
+4.2 Las Tecnologías de la Información y Comunicación 
+y sus diversos usos  
+4.2.1  Cambios 
+de 
+hábitos 
+y 
+prácticas 
+en 
+la 
+comunicación 
+4.2.2  El  acceso  y  tratamiento  de  la  información  por 
+medio de las TIC 
+4.2.3 Potencial y riesgos de las TIC
+"
+CD/desarrolloAplicacionesWeb_LCD2020.pdf,"1.1  Contextualización al desarrollo web  
+ 
+1.2  Lenguaje de marcado de hipertexto (HTML) 
+ 
+1.3  JavaScript  
+ 
+1.4  Modelos de desarrollo 
+1.4.1 
+Modelos en 2 capas 
+1.4.2 
+Modelos en 3 capas 
+1.4.3 
+Modelos basados en servicios 
+ 
+1.5  Arquitecturas de desarrollo web 
+1.5.1 
+Arquitecturas monolíticas 
+1.5.2 
+Arquitecturas SOAP (Protocolo Simple de 
+Acceso a Objetos) 
+1.5.3 
+Arquitecturas REST (Transferencia de Estado 
+Representacional) 
+ 
+1.6  Buenas prácticas en el desarrollo web 
+1.6.1 
+Control de versiones 
+1.6.2 
+Patrones de diseño comúnmente usados 
+1.6.3 
+Criterios de diseño, seguridad y usabilidad
+2
+  2
+  2
+  2
+2.1 Manejo de ORM (Mapeo objeto-Relacional) 
+.2 Frameworks de desarrollo web. 
+2.2.1 Frameworks web del lado del servidor 
+2.2.2 Características de un framework del lado del servidor 
+2.2.3 Elección de un framework web del lado del servidor. 
+2.2.4 Utilización de frameworks 
+.3 Exposición de servicios 
+.4 Mensajes HTTP 
+.5 Buenas prácticas 
+2.5.1 Blindado del lado servidor 
+2.5.2 Herramientas para el desarrollo de lado del servidor. 
+2.5.3 Documentación de endpoints. 
+2.5.4 Generación de componentes 
+2.5.5 Generalización y optimización de código
+3
+  3
+  3
+3.1 Diseño de Interfaces Gráficas  
+3.1.1 HTML Y CSS (Hoja de estilos en cascada) 
+3.1.2 Java Script 
+3.1.2 Manejo del DOM (Modelo de Objetos del 
+Documento) 
+.2 Frameworks de desarrollo del lado cliente 
+3.2.1 Características de un framework del lado del cliente 
+3.2.2 Elección de un framework web del lado del cliente 
+3.2.3 Utilización de frameworks 
+.3 Consumo de Servicios 
+.4 Buenas prácticas 
+3.4.1 Responsividad 
+3.4.2 Compatibilidad 
+3.4.3 Validación de campos 
+3.4.4 Manejo de recursos 
+3.4.5 Generación de componentes 
+3.4.6 Generalización y optimización de código
+"
+CD/programacionCienciaDatos_LCD2020.pdf,"1
+  1
+  1
+  1
+1.1  Programación de computadoras 
+1.1.1 Fundamentos  
+.2  Estructuras de control 
+.3  Estructuras  vectoriales  y  matriciales  para  análisis  de 
+datos 
+.4  Programación de funciones 
+ 
+1.5  Manejo de cadenas y expresiones regulares 
+.6  Lectura de  datos de un archivo en  diferentes formatos 
+(.csv, .txt, etc).
+2
+  2
+2.1 Estadística descriptiva 
+2.1.1 Medidas de centralización, de dispersión y de forma 
+2.1.2 Regresión y correlación por rangos 
+2.1.3 Covarianza, matriz de covarianzas y matriz de 
+correlaciones 
+.2 Distribuciones de probabilidad 
+2.2.1 Distribuciones discretas 
+2.2.2 Distribuciones continuas 
+.3 Intervalos de confianza y prueba de hipótesis
+3
+  3
+3.1 Técnicas de reducción de la dimensión 
+3.1.1 Análisis de componentes  
+3.1.2 Análisis factorial 
+3.1.3 Análisis factorial rotado  
+3.1.4 Representación gráfica de análisis factorial 
+.2 Análisis de conglomerados 
+3.2.1 Conglomerado jerárquico y no jerárquico 
+3.2.3 Análisis gráfico de los resultados 
+.3 Modelos predictivos 
+3.3.1 Modelo lineal regresión múltiple 
+3.3.2 Regresión polinómica
+"
+CD/introduccionCienciaDatos_LCD2020.pdf,"1.1 La historia de la Computación 
+1.1.1 Origen de las primeras computadoras 
+1.1.2 Migración a lo electrónico 
+1.1.3 Migración a lo Digital 
+1.1.4 La Era de la información. 
+1.2 Las Revoluciones Industriales, su revolución 
+tecnológica e impacto de la información  
+1.2.1 1ra Revolución Industrial 
+1.2.2 2da Revolución Industrial 
+1.2.3 3ra Revolución Industrial 
+1.2.4 4ta Revolución Industrial 
+1.3 Fundamentos de la Ciencia de datos  
+1.3.1 Datos e Información 
+1.3.2 El valor de la información
+2.1 Campos de la CD 
+2.1.1 Cómputo y Algoritmos 
+2.1.2 Dominio del Negocio 
+2.1.3 Estadística 
+2.1.4 La conjunción de las Áreas 
+2.2 Recursos y Herramientas de la Ciencia de Datos 
+2.2.1 Recolección de Datos 
+2.2.2 Análisis de datos exploratorio 
+2.2.3 Inferencia Estadística 
+2.2.4 Aplicaciones del Aprendizaje de Máquina 
+2.2.5 Ingeniería de Datos 
+2.2.6 Inteligencia de Decisiones
+3.1 Áreas de aplicación de la Ciencia de Datos (CD) 
+3.1.1 En la Industria 
+3.1.2 En la Sociedad 
+3.1.3 En el Gobierno 
+3.1.4 En las empresas 
+3.2 Aspectos Éticos de la CD 
+3.2.1 Dilemas Éticos 
+3.2.2 Consecuencias de una mala ética en la CD 
+3.3 El impacto de la Ciencia de datos
+4.1 Nuevas corrientes de la CD 
+4.1.1 El impulso del cambio en las organizaciones 
+4.1.2 Aportes en la Inteligencia de Negocios 
+4.1.3 Datos colaborativos 
+4.1.4 Migración a sistemas y plataformas de nube 
+4.1.5 Nuevas tecnologías en el aprendizaje autónomo
+"
+CD/matematicasDiscretas_LCD2020.pdf,"1.1 Equivalencias 
+1.1.1 Proposiciones atómicas, compuestas y jerarquía de 
+operadores 
+1.1.2 Equivalencias lógicas 
+1.1.3 Álgebra de proposiciones 
+1.1.4 Contrapositiva, recíproca e inversa de una condicional 
+1.2 Inferencias  
+1.2.1 Reglas de inferencia 
+1.2.2 Demostraciones directas e indirectas 
+1.3 Cuantificadores  
+1.3.1 Proposiciones abiertas y cuantificadores 
+1.3.2 Lenguaje natural y cuantificadores 
+1.3.3 Equivalencias e inferencias con cuantificadores
+2.1 Conjuntos 
+2.1.1 Operadores, igualdad y contención de conjuntos 
+2.1.2 Álgebra de conjuntos 
+2.1.3 Propiedades de la contención 
+2.2 Cardinalidad 
+2.2.1 Fórmulas básicas de cardinalidad 
+2.2.2 Principio de inclusión y exclusión 
+2.3 Conjunto Potencia y Producto Cartesiano 
+2.3.1 Conjunto Potencia 
+2.3.2 Producto Cartesiano
+3.1 Números Enteros 
+3.1.1 Propiedades de los números enteros 
+3.2 Divisibilidad 
+3.2.1 Propiedades de la divisibilidad 
+3.2.2 Algoritmo de la división 
+3.2.3 Máximo común divisor y mínimo común múltiplo 
+3.3.4 Teorema Fundamental de la Aritmética 
+3.3.5 Algoritmo de Euclides 
+3.3 Inducción matemática 
+3.3.1 Problemas de igualdad con sumas y productos 
+3.3.2 Problemas de divisibilidad 
+3.3.3 Problemas de orden 
+3.3.4 Problemas de generalización 
+3.4 Sistemas de numeración 
+3.4.1 Algoritmo de cambio de base 
+3.4.2 Relación entre los sistemas binario y hexadecimal 
+3.4.3 Operaciones básicas en base b
+4.1 Álgebras y Funciones booleanas 
+4.1.1 Propiedades de las álgebras booleanas 
+4.1.2 Funciones booleanas 
+4.1.3 Sumas de minitérminos y productos de maxitérminos 
+4.1.4 Representación en circuitos combinatorios 
+4.1.5 Reducción por mapas de Karnaugh 
+4.2 Relaciones 
+4.2.1 Representaciones de las relaciones 
+4.2.2 Propiedades de la Inversa y la Composición de las 
+relaciones. 
+4.2.3 Propiedades de las funciones 
+4.2.4 Relaciones reflexivas, irreflexivas, simétricas, 
+antisimétricas y transitivas 
+4.3 Relaciones de orden y relaciones de equivalencia 
+4.3.1 Relaciones de orden total y de orden parcial 
+4.3.2 Mínimos, máximos, minimales y maximales 
+4.3.3 Relaciones de equivalencia 
+4.3.4 Conjunto Cociente y clases de equivalencia 
+4.4 Enteros módulo n 
+4.4.1 Congruencia módulo n como relación de equivalencia 
+4.4.2 Aritmética de los enteros módulo n 
+4.4.3 Teorema chino del residuo 
+4.5 Grafos y Árboles 
+4.5.1 Grafos dirigidos, no dirigidos y conexos. 
+4.5.2 Recorridos y circuitos eulerianos y hamiltonianos 
+4.5.3 Algoritmo del camino más corto 
+4.5.4 Recorridos en profundidad y amplitud 
+4.4.5 Recorridos en pre-orden, in-orden y post- orden de 
+árboles binarios
+"
+CD/algebraLineal_LCD2020.pdf,"1.1 Sistema de Ecuaciones Lineales 
+1.1.1 Ecuaciones lineales con dos incógnitas  
+1.1.2 Ecuaciones lineales con tres incógnitas 
+1.1.3 Sistema de m ecuaciones lineales con n incógnitas  
+1.1.4 Eliminación de Gauss y de Gauss-Jordan con 
+pivoteo 
+1.1.5 Sistema de ecuaciones lineales homogéneas 
+1.2 Matrices 
+1.2.1 Representación matricial de un sistema de 
+ecuaciones 
+1.2.3 Álgebra matricial 
+1.2.4 Transpuesta de una matriz 
+1.3 Determinantes 
+1.3.1 Propiedades 
+1.3.2 Cálculo de determinantes 
+1.3.3 Regla de Cramer 
+1.4 Inversa de una Matriz 
+1.4.1 Matrices elementales y matrices equivalentes a la 
+matriz Identidad  
+1.4.2 La inversa de una matriz como producto de matrices 
+elementales 
+1.4.4 La inversa de una matriz a través de su adjunta 
+1.4.5 Solución de sistema de ecuaciones lineales usando 
+la inversa de la matriz de coeficientes
+2.1 Espacios vectoriales 
+2.1.1 Propiedades  
+2.1.2 Escalares, vectores, operaciones de vectores 
+2.2 Subespacios 
+2.2.1 Propiedades 
+2.3 Combinaciones lineales 
+2.3.1 Espacio generado 
+2.3.2 Dependencia e independencia lineal 
+2.4 Bases de un Espacio Vectorial 
+2.4.1 Dimensión de un espacio vectorial 
+2.4.1 Rango y Nulidad de una Matriz 
+2.5 Cambio de Base 
+2.5.1 Matriz Cambio de Base 
+2.6 Espacios con producto Interno 
+2.6.1 Bases ortogonales y ortonormales 
+2.6.2 Proceso de ortonormalización de Gram-Schmidt
+3.1 Transformaciones Lineales 
+3.1.1 Propiedades 
+3.1.2 Imagen y Kernel de una transformación lineal 
+3.2 Representación Matricial de una Transformación lineal 
+3.2.1 Matrices Semejantes y cambio de base en la 
+representación matricial de una transformación 
+3.3 Isomorfismos 
+3.3.1 Transformación Inversa 
+3.3.2 Ejemplos de espacios isomorfos
+4.1 Valores y vectores propios 
+4.1.1 Polinomio característico 
+4.1.2 Cálculo de vectores propios 
+4.2 Diagonalización de matrices 
+4.3 Matrices Simétricas y diagonalización ortogonal 
+4.4 Factorización LU
+"

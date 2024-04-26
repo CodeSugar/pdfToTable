@@ -1,0 +1,3309 @@
+IA/ecuacionesDiferenciales_IIA2020.pdf,"1
+  1
+  1
+  1
+1.1 
+Clasificación de las ecuaciones diferenciales 
+.2 
+Problemas de valor inicial 
+.3 
+Teorema de existencia y unicidad 
+.4 
+Métodos de solución 
+1.4.1  Ecuaciones diferenciales de variables separables 
+1.4.2  Ecuaciones diferenciales exactas 
+1.4.3  Ecuaciones diferenciales lineales 
+1.4.4  Soluciones por sustitución 
+1.4.5  Modelos lineales 
+1.4.6  Modelos no lineales 
+.5 
+Aplicaciones
+2
+  2
+  2
+  2
+2.1 Problemas de valor inicial y de valor en la frontera 
+.2 
+Ecuaciones 
+diferenciales 
+homogéneas 
+y 
+no 
+homogéneas 
+2.2.1 
+Ecuaciones 
+diferenciales 
+con 
+coeficientes 
+constantes 
+.3 Métodos de solución 
+2.3.1 Reducción de orden 
+2.3.2 Coeficientes indeterminados 
+2.3.3 Ecuaciones lineales homogéneas con coeficientes 
+constantes 
+2.3.4 Variación de parámetros 
+.4 Ecuación de Cauchy-Euler 
+2.4.1 Ecuaciones lineales homogéneas con coeficientes 
+variables 
+2.4.2 
+Ecuaciones 
+lineales 
+no 
+homogéneas 
+con 
+coeficientes variables 
+.5 Ecuaciones no lineales 
+2.5.1 Series de Taylor
+3
+  3
+  3
+3.1  Aspectos 
+importantes  de 
+la  Transformada  de 
+Laplace 
+3.1.1 Linealidad 
+3.1.3 Transformada inversa de Laplace 
+3.1.4. Teorema de convolución 
+3.1.5 Teorema de una derivada y de una integral 
+.2 Teoremas de traslación 
+3.2.1 Primer teorema de traslación 
+3.2.2 Función escalón unitario 
+3.2.3 Segundo teorema de traslación 
+.3 Función delta de Dirac 
+3.3.1 Transformada de la función delta de Dirac 
+.4 Aplicaciones
+4
+  4
+4.1 Convergencia de una Serie de Fourier 
+.2 Integral de Fourier 
+4.2.1 Convergencia de la integral de Fourier 
+4.2.2 Integrales seno y coseno de Fourier 
+4.2.3 Forma compleja 
+.3 Transformadas de Fourier 
+4.3.1 Transformada de Fourier 
+4.3.2 Transformada seno de Fourier 
+4.3.3 Transformada coseno de Fourier 
+4.3.3 Transformada discreta de Fourier
+"
+IA/fundamentosDisenoDigital_IIA2020.pdf,"1.1    Estado del arte de Sistemas Digitales 
+1.2  Algebra de Boole 
+1.3    Método gráfico de Mapa de Karnaugh 
+1.4.   Método tabular de Quine McCluskey    
+1.5    Aplicaciones de circuitos digitales combinatorios
+2
+.1    Escala de Integración de los Circuitos  
+         Integrados (CI) 
+2.2    Características de las Familias Lógicas 
+2.3    Dispositivos Lógicos Programables (PLD) 
+2.4    Lenguajes de Descripción de Hardware (HDL) 
+2.4.1 Estructura de un programa en HDL 
+2.4.2 Estilos de programación 
+2.4.3 Sentencias concurrentes y secuenciales
+3
+.1 Circuito sumador/restador  
+3.1.1 Representación booleana  
+3.1.2 Descripción en HDL (Lenguajes de descripción de 
+Hardware) usando dispositivos lógicos programables 
+3.2 Circuito convertidor de código  
+3.2.1 Representación booleana  
+3.2.2 Descripción en HDL (Lenguajes de descripción de 
+Hardware) usando dispositivos lógico programables 
+3.3 Circuito comparador de Magnitud  
+3.3.1 Representación booleana  
+3.3.2 Descripción en HDL (Lenguajes de descripción de 
+Hardware) usando dispositivos lógicos programables 
+3.4 Circuitos multiplexor y demultiplexor 
+3.4.1 Teorema de Expansión de Shannon 
+3.4.2 Descripción en HDL (Lenguajes de descripción  
+         de Hardware) usando dispositivos lógicos      
+         programables 
+3.5 Circuitos codificador y decodificador  
+3.5.1 Representación booleana 
+3.5.2 Descripción en HDL (Lenguajes de descripción 
+de Hardware) usando dispositivos lógicos 
+Programables
+4
+.1    Multivibradores en configuración monoestable, 
+         biestable y astable 
+4.2    Configuraciones Monoestable y Astable del  
+         Temporizador 555 
+4.3    Elementos de memoria tipo Latch SR, JK, T y D 
+4.4    Elementos de memoria tipo Flip-Flop SR, JK, T 
+         y D   
+4.5   Descripción con HDL de Elementos de Memoria
+"
+IA/trabajoTerninalI_IIA2020.pdf,"1
+1.1. Proceso  de  planeación  de  desarrollo  de  proyectos 
+científicos o tecnológicos en cómputo  
+1.1.1. 
+Identificación del tipo de proyecto  
+1.1.2. 
+Análisis de metodologías 
+1.1.3. 
+Metodologías 
+1.1.4. 
+El ciclo de vida del producto 
+ 
+1.2. Administración de proyectos científicos o tecnológicos 
+en cómputo 
+.3. Planeación del proyecto 
+1.3.1. 
+Equipo de trabajo 
+1.3.2. 
+Delimitación del proyecto  
+1.3.3. 
+Análisis y gestión de riesgos del proyecto 
+1.3.4. 
+Métricas y estimación del proyecto
+2
+2.1 Análisis  
+2.1.1. 
+Delimitación del proyecto (conocimiento del 
+negocio o investigación científica)  
+2.1.2. 
+Análisis de requerimientos 
+2.1.3. 
+Propuesta de arquitectura 
+.2. Diseño 
+2.2.1.  Modelado de datos 
+2.2.2. 
+Diseños funcionales
+3
+ 3
+3.1. Administración de cambios 
+3.1.1. 
+Control de versiones 
+.2. Verificación y validación 
+3.2.1. 
+Verificación y validación de requerimientos 
+3.2.2. 
+Verificación y validación de diseño 
+3.2.3. 
+Verificación y validación del costo del proyecto 
+.3. Estándares de desarrollo 
+3.3.1. 
+Prototipos funcionales y no funcionales
+"
+IA/liderazgoPersonal_IIA2020.pdf,"1
+  1
+  1
+1. 1 Principios del liderazgo 
+1.1.1 Tipos de liderazgo 
+1.1.2 Modelos de liderazgo  
+1.1.3 Liderazgo basado en estilos de personalidad 
+1.1.4 Desarrollo del liderazgo 
+1.1.5 Coaching 
+.2 Inteligencia emocional 
+1.2.1 Importancia de la inteligencia emocional para 
+el éxito profesional 
+1.2.2 Control de las emociones 
+1.2.3 El valor de la autodisciplina 
+1.2.4 Manejo de la postergación 
+1.2.5 Desarrollo de hábitos y rutinas para el éxito 
+.3 Administración del tiempo en el liderazgo personal 
+1.3.1 Gestión de prioridades y objetivos 
+1.3.2 Eficacia versus eficiencia 
+1.3.3 Planificación de roles y metas 
+.4 Misión y Visión del líder 
+1.4.1 El poder de una misión y visión personal 
+1.4.2 Herramientas de autoconocimiento 
+1.4.3 Identidad versus comportamientos 
+1.4.4 Intereses versus habilidades 
+1.4.5 Componentes del éxito personal
+2
+  2
+  2
+2.1 Interacción con personas 
+2.1.1 Construcción del espíritu de equipo  
+2.1.2 Escucha activa 
+2.1.3 Empatía  
+2.1.4 Apoyo y preocupación por los otros  
+2.1.5 Desarrollo y comunicación de auto-
+conocimiento e introspección.  
+.2 Principios y valores 
+2.2.1 Defensa de la ética y valores  
+2.2.2 Integridad  
+2.2.3 Manejo de la diversidad  
+2.2.4 Responsabilidad social y ambiental  
+.3 Relaciones y redes  
+2.3.1 Construcción de rapport  
+2.3.2 Redes  
+2.3.3 Relacionarse a través de niveles  
+2.3.4 Manejo de conflictos  
+2.3.5 Uso del humor  
+.4 Persuadir en influir  
+2.4.1 Generación de Impacto apelando a las 
+emociones  
+2.4.2 Promoción de Ideas  
+2.4.3 Negociación y acuerdos  
+2.4.4 Presentar y comunicar la información  
+2.4.5 Proyección de credibilidad
+3
+3.1 Producción y gestión del conocimiento 
+3.1.1 Tecnologías para la recopilación de 
+información  
+3.1.2 Análisis y evaluación de la información  
+3.1.3 Pensamiento sistémico 
+3.1.4 Redes de gestión del conocimiento 
+.2 Experiencia tecnológica para la toma de 
+decisiones  
+3.2.1 Construcción y aplicación de la 
+experiencia técnica  
+3.2.2 Pensamiento global 
+3.2.3 Recursos tecnológicos para la toma de 
+decisiones 
+3.2.4 Creatividad, creación e innovación 
+3.2.5 Proceso de introducción de cambios
+4
+4.1 Liderazgo adaptativo 
+4.1.1 Adaptación y respuesta al cambio  
+4.1.2 Conciencia multicultural  
+4.1.3 Tratamiento de la ambigüedad  
+4.1.4 Enfrentamiento de la presión y 
+autocontrol emocional  
+4.1.5 Equilibrio entre trabajo y vida personal  
+.2 Supervisión y desarrollo del talento 
+4.2.1 Delegación de responsabilidades y 
+motivación 
+4.2.2 Proporcionar dirección y coordinar las 
+acciones  
+4.2.3 Supervisión y seguimiento del 
+comportamiento  
+4.2.4 Identificación y selección de talento 
+4.2.5 Desarrollo del talento
+"
+IA/disenoSistemasDigitales_IIA2020.pdf,"1
+  1
+1.1 Registros y su clasificación  
+1.1.1 Registros entrada serial salida serial 
+1.1.2 Registros entrada serial salida paralela 
+1.1.3 Registros entrada paralela salida serial 
+1.1.4 Registros entrada paralela salida paralela 
+1.1.5 Registro barrel shifter 
+.2  Diseño  de 
+registros  con  control  de  carga  síncrona  y 
+asíncrona 
+.3 Programación de registros con lenguaje de descripción de 
+hardware
+2
+  2
+  2
+  2
+2.1 Autómata finito determinista con salida y sin salida 
+.2 Máquina de Mealy y de Moore 
+.3 Diseño de máquinas de Mealy y Moore usando FlipFlop´s 
+JK, SR, T, D 
+.4 Reducción de estados usando método tabular e implicantes 
+primos 
+.5  Aplicaciones  con  autómatas  y  lenguaje  de  descripción  de 
+hardware
+3.1 Contadores asíncronos y síncronos 
+3.1.1 Diseño de contadores secuenciales y no secuenciales 
+3.2 Diseño de contador Johnson y su representación en HDL 
+3.3 Diseño de contador de anillo y su representación en HDL 
+3.4 Diseño de contador BCD y su representación en HDL 
+3.5 Aplicaciones con contadores y su representación en HDL
+4.1 Memorias y su clasificación 
+4.2 Memorias RAM, SRAM y DRAM 
+4.3 Memorias ROM, PROM, EPROM, EEPROM Y Flash 
+4.4 Tipos especiales de memorias, FIFO y NVRAM 
+4.5 Módulos de memorias 
+4.6 Manejo de arreglos y diseño de memorias RAM, ROM y 
+FIFO con lenguaje de descripción de hardware
+5.1  Carta ASM 
+5.2  Diseño de la ruta de datos 
+5.3  Autómata de la unidad de control 
+5.4  Manejo 
+de 
+archivos, 
+funciones, 
+procedimientos, 
+paquetes y componentes con lenguaje de descripción de 
+hardware 
+5.5  Aplicaciones  con  cartas  ASM  y  su  representación  con 
+HDL
+"
+IA/paradigmasProgramacion_IIA2020.pdf,"1
+  1
+1.1 Lenguajes y paradigmas 
+1.1.1 Criterios de los lenguajes de programación 
+1.1.2  Relación  entre  los  lenguajes  y  paradigmas  de 
+programación 
+1.1.3  Paradigmas  de  programación 
+fundamentales: 
+imperativo y declarativo  
+.2 Programación funcional 
+1.2.1 Lenguajes funcionales puros e híbridos 
+1.2.2 Cálculo Lambda 
+1.2.3  Funciones  puras,  de  primer  orden  y  de  orden 
+superior  
+1.2.4 Expresiones Lambda 
+1.2.5 Aritmética de funciones 
+1.2.6 Composición y encadenamiento de funciones 
+1.2.7  Técnicas  de  programacion  funcional:  evaluación 
+estricta (eager) y no estricta (lazy) 
+1.2.8 Recursión sobre listas, con varios argumentos  y 
+múltiple 
+1.2.9 Funciones polimórficas  
+.3 Programación lógica  
+1.3.1 Lenguajes lógicos  
+1.3.2  Elementos  de  la  programación  lógica:  hechos, 
+reglas, relaciones y consultas   
+1.3.3 Cálculo de predicados  
+1.3.4 Lógica de primer orden 
+1.3.5  Técnicas  de  programación  lógica:  definición  de 
+relaciones por hechos y reglas 
+1.3.6 Reglas recursivas
+2.1 Clases y objetos 
+2.1.1 Atributos y métodos 
+2.1.2 Constructores y destructores 
+2.1.3 Encapsulamiento y modificadores de acceso 
+2.2 Relaciones entre clases 
+2.2.1 Asociación, agregación y composición  
+2.2.2 Herencia simple  
+2.2.3 Herencia múltiple 
+2.3 Manejo de excepciones 
+2.3.1 Jerarquía de excepciones 
+2.3.2 Excepciones encadenadas 
+2.3.3 Declaración de nuevos tipos de excepciones 
+2.4 Polimorfismo 
+2.4.1 Variables y funciones polimórficas  
+2.4.2 Clases abstractas 
+2.4.3 Interfaces y herencia de interfaces
+3.1 Lenguajes orientados a eventos  
+3.1.1 Patrón de arquitectura: Modelo-Vista-Controlador 
+3.1.2 Interfaces graficas de usuario 
+3.1.3 Tipos de eventos y notificaciones 
+3.1.4 Detección de eventos 
+3.2 Lenguajes orientados a servicios  
+3.2.1 Análisis y diseño orientado a servicios  
+3.2.2 Arquitectura Orientada a Servicios 
+3.2.3 Microservicios  
+3.3 Otros lenguajes de programación de uso específico 
+y tendencias 
+3.3.1 Lenguajes para bases de datos 
+3.3.2 Lenguajes para cómputo científico  
+3.3.3 Lenguajes para ciencia de datos 
+3.3.4 Lenguajes para programación asíncrona
+"
+IA/reconocimientoVoz_IIA2020.pdf,"1
+  1
+1.2 
+Reconocimiento de voz en la inteligencia artificial 
+1.2.1  Características acústica 
+1.2.2 
+Arquitectura de un sistema de reconocimiento de voz 
+1.2.3 
+Aplicaciones de la inteligencia artificial para el 
+reconocimiento de voz 
+.3 
+Reconocimiento del locutor 
+1.3.1 
+Adquisición de la señal de voz 
+1.3.2 
+Extracción de características 
+1.3.3  Modelado paramétrico 
+1.3.4  Modelado no paramétrico 
+.4 
+Reconocimiento del habla 
+1.4.1  Cuantificación vectorial 
+1.4.2 
+Ajuste de plantillas 
+1.4.3  Métodos estocásticos 
+1.4.4 
+Tipos de sistemas de reconocimiento de voz
+2
+  2
+2.1 
+Muestreo y codificación de voz 
+2.1.1  Codificadores de lazo abierto 
+2.1.2  Codificadores de lazo cerrado 
+2.1.3  Codificadores en el dominio de la frecuencia 
+.2 
+Modelado acústico 
+2.2.1  Unidades acústicas 
+2.2.2  Modelos probabilísticos 
+2.2.3 
+Estimación del modelo acústico 
+.3 
+Métodos para el entrenamiento de un sistema de 
+reconocimiento de voz 
+2.3.1  Codificación Predictiva Lineal 
+2.3.2  Modelos ocultos de Markov 
+2.3.3  Redes neuronales artificiales
+3
+  3
+3.1 
+Técnicas de patrones estadísticos 
+3.1.1 
+Algoritmo k-vecinos más cercanos (k-NN) 
+3.1.2 
+Algoritmo Naive Bayes 
+3.1.3 
+Análisis discriminante con  mínimos cuadrados parciales 
+y modelos penalizados  
+.2      Transformadas 
+3.2.1   Transformada discreta del coseno  
+3.2.2   Transformada discreta de wavelets  
+3.2.3   Transformada de Fourier 
+.3      Redes neuronales 
+3.3.1   Redes neuronales para el reconocimiento de voz 
+3.3.2   Redes neuronales convolucionales 
+3.3.3   Entrenamiento de la red neuronal
+"
+IA/tecnologiasLenguajeNatural_IIA2020.pdf,"1.1 Contextualización 
+1.1.1 Sistemas y aplicaciones de lenguaje natural  
+1.1.2 Fundamentos lingüísticos para tecnologías de lenguaje 
+1.1.3 Fundamentos matemáticos para tecnologías de lenguaje  
+1.1.4  Lenguajes  de  programación,  librerías  y  software  para 
+tecnologías de lenguaje 
+1.2 Normalización de textos 
+1.2.1 Segmentación en palabras y oraciones  
+1.2.2 Eliminación de elementos no relevantes 
+1.2.3 Etiquetado con categorías gramaticales
+2.1 Representación vectorial de textos para su procesamiento 
+semántico 
+2.1.1 Modelo de bolsa de palabras  
+2.1.2 Modelo de espacio vectorial para textos 
+2.2 Selección de características en vectores 
+2.2.1 Frecuencia y probabilidad de palabras 
+2.2.2 Funciones de frecuencia de término (TF) 
+2.2.3 Frecuencia inversa del documento (IDF) 
+2.2.4  Técnicas  de  mapeo  de  palabras  a  vectores  numéricos 
+(word embeddings) 
+2.3 Extracción de aspectos semánticos a partir de textos 
+2.3.1 Palabras similares 
+2.3.2 Asociaciones entre palabras 
+2.3.3 Terminología 
+2.3.4 Palabras clave 
+2.4 Extracción de información a partir de textos 
+2.4.1 Análisis sintáctico superficial y profundo para extracción 
+de entidades e información.  
+2.4.2 Expresiones regulares para extracción de información 
+2.4.3 Resumen automático 
+2.5 Generación de respuestas a preguntas
+3.1 Detección y análisis de aspectos de personalidad en textos  
+3.1.1 Edad 
+3.1.2 Sexo 
+3.1.3  Rasgos  personales:  extraversión,  neurosis,  simpatía, 
+diligencia, franqueza  
+3.2 Análisis de opinión 
+3.2.1  Detección  de  polaridad  de  opinión 
+con  base  en 
+diccionarios de polaridad 
+3.2.2 Detección de polaridad de opinión usando algoritmos de 
+aprendizaje de máquina
+4.1 Tipos de sistemas dialogo 
+4.2. Componentes de sistemas diálogo 
+4.3 Herramientas de implementación de sistemas de dialogo 
+4.4. Agente conversacional basado en texto escrito 
+4.5. Agente conversacional basado en reconocimiento de voz 
+y generación de habla 
+4.5.1 Fundamentos de reconocimiento de voz 
+4.5.2 Generación de habla
+5
+5.1 Tipos de sistemas de traducción automática  
+5.1.1 Basados en reglas 
+5.1.2 Basados en estadística 
+5.1.3 Basados en ejemplos 
+5.1.4 Basados en redes neuronales 
+5.1.5 Híbridos  
+.2. Caracterización de sistemas existentes de traducción 
+automática 
+5.2.1 Google Translate 
+5.2.2 Microsoft Translator 
+5.2.3 IBM Watson Language Translator 
+5.2.4 Bing Translator 
+5.2.5 Otros
+"
+IA/calculo_IIA2020.pdf,"1.1  Funciones algebraicas 
+1.1.1 Representaciones: algebraica, geométrica, numérica 
+y verbal 
+1.1.2 Propiedades: monotonía, simetría, periodicidad 
+1.2  Funciones inversas 
+1.3  Funciones trascendentes 
+1.3.1 Exponenciales naturales y generales 
+1.3.2 Logarítmicas naturales y generales 
+1.3.3 Trigonométricas y trigonométricas inversas   
+1.3.4 Hiperbólicas e hiperbólicas inversas 
+1.4  Transformaciones de funciones
+2.1 Límites de manera gráfica y numérica 
+2.2 Cálculo analítico de límites 
+2.2.1 Límites de formas indeterminadas 
+2.2.2 Límites unilaterales 
+2.2.3 Límites de funciones trigonométricas 
+2.3 Límites infinitos y en el infinito 
+2.3.1 Asíntotas horizontales, verticales y oblicuas 
+2.4 Continuidad 
+2.4.1 En un punto 
+2.4.2 En un intervalo
+3.1 Derivada 
+3.1.1 Pendiente, velocidad y razón de cambio 
+3.1.2 Derivada en un punto y en diferentes intervalos 
+3.2 Reglas de derivación 
+3.2.1 Derivación de funciones algebraicas y trascendentes 
+3.2.2 Regla de la cadena, 
+3.2.3 Derivación implícita y derivación explícita  
+3.2.4 Derivadas de orden superior 
+3.3 Razones de cambio relacionadas 
+3.4 Diferencial de una función 
+3.5 Máximos y mínimos 
+3.5.1 Criterios de la primera y segunda derivada 
+3.5.2 Gráficas de funciones 
+3.5.3 Optimización
+4.1 Antiderivada e integración indefinida 
+4.2 Integración por sustitución 
+4.3 Integración por partes 
+4.4 Integrales trigonométricas y sustitución trigonométrica 
+4.5 Integrales de funciones racionales por fracciones 
+parciales
+5.1 Integral definida 
+5.1.1 Propiedades de la Integral definida 
+5.1.2 Teorema fundamental del Cálculo 
+5.2 Integración numérica 
+5.2.1 Trapecio 
+5.2.3 Simpson 
+5.3 Aplicaciones de la integral definida 
+5.3.1 Área entre curvas 
+5.3.2 Volúmenes de sólidos de revolución: discos, 
+arandelas y capas cilíndricas  
+5.3.3 Longitud de arco y área de superficie
+"
+IA/gestionEmpresarial_IIA2020.pdf,"1
+  1
+  1
+1.1 
+Las organizaciones 
+1.1.1  Clasificación 
+1.1.2  Constitución legal de acuerdo con la Ley de 
+Sociedades Mercantiles y la Ley de Sociedades 
+Civiles 
+.2 
+Administración 
+1.2.1  Objetivo de la administración 
+.3 
+Gestión empresarial 
+1.3.1  Objetivo de la gestión empresarial 
+1.3.2  Funciones básicas 
+1.3.3  Clasificación 
+.4 
+Diferencias entre administrar y gestionar
+2
+  2
+  2
+  2
+2.1 
+Factores  de  competitividad  que  afectan  la  gestión 
+empresarial 
+.2 
+Filosofía  corporativa  de  empresas  de 
+innovación 
+tecnológica 
+.3 
+Estrategia  y  cultura  organizacional  de  empresas  de 
+innovación tecnológica 
+.4 
+Implementación de la estrategia, planes, programas, 
+presupuestos y procedimientos 
+2.4.1 
+ Cuadro de mando integral 
+.5 
+Herramientas de gestión estratégica  
+2.5.1  Análisis FODA y desarrollo de estrategias 
+2.5.2  Modelos de negocio 
+2.5.3  Modelo de Diamante de Porter 
+2.5.4  Plan comercial 
+2.5.5  Plan maestro
+3
+  3
+  3
+3.1 
+Estructura organizacional 
+3.1.1 
+División  del  trabajo,  coordinación,  especialización, 
+jerarquización,  departamentalización  y  unidad  de 
+mando 
+.2 
+Innovación y tecnología 
+3.2.1 
+La tecnología como factor intangible de 
+competitividad 
+3.2.2 
+Tecnologías emergentes 
+.3 
+Manejo de cambio e innovación 
+.4 
+Herramientas de gestión operativa 
+3.4.1 
+Reingeniería de los procesos de negocio 
+3.4.2 
+Transformación 
+de 
+la 
+estructura 
+y 
+la 
+cultura 
+organizacional 
+3.4.3 
+Evaluación tecnológica de la empresa 
+3.4.4  Optimización de los recursos tecnológicos
+4
+  4
+  4
+4.1 
+Capital humano  
+4.1.1 
+Funciones del departamento de capital humano 
+.2 
+Marco normativo de las relaciones laborales 
+.3 
+Calidad 
+4.3.1 
+Control estadístico  
+4.3.2 
+Calidad total 
+.4 
+Herramientas de gestión  del Capital Humano  y de 
+calidad 
+4.4.1 
+Las 5´s  
+4.4.2 
+Just in Time  
+4.4.3 
+Análisis funcional  
+4.4.4 
+Benchmarking  
+4.4.5 
+ERP
+5
+  5
+  5
+5.1 
+Aspectos legales 
+5.1.1 
+Propiedad intelectual 
+5.1.2 
+Uso de información digital 
+.2 
+Responsabilidad social y sustentabilidad  
+.3 
+Habilidades digitales 
+5.3.1 
+Learnability 
+5.3.2 
+Teamability 
+5.3.3 
+Networking 
+5.3.4 
+Adaptability 
+.4 
+Tecnologías y tendencias digitales 
+5.4.1 
+Internet de las cosas 
+5.4.2 
+Inteligencia Artificial 
+5.4.3 
+Inteligencia de negocios 
+5.4.4 
+Blockchain y la nube
+"
+IA/computoParalelo_IIA2020.pdf,"1
+  1
+  1
+1.1 Motivación, bases y alcances del cómputo paralelo: 
+características  
+1.1.1 Comunicación entre procesos 
+1.1.2 Programas concurrentes, paralelos y distribuidos 
+1.1.3 Hilos 
+1.1.4 Exactitud de los programas concurrentes 
+1.1.5 Sistemas Distribuidos 
+.2 Arquitecturas de computadoras paralelas 
+1.2.1 Procesadores multinucleo 
+1.2.2 Arreglos de procesadores 
+1.2.3 Computadoras multiprocesadores 
+1.2.4 Clusters 
+1.2.5 Computadoras de arquitecturas no convencionales 
+1.2.6 Redes de interconexión 
+.3 Taxonomía de Flyn  
+1.3.1 Instrucción única, flujo de datos único (SISD) 
+1.3.2 Instrucción única, flujo de datos múltiple (SIMD) 
+1.3.3 Instrucciones múltiples, flujo de datos único (MISD) 
+1.3.4 Instrucciones múltiples, flujo de datos Múltiple (MIMD) 
+1.3.5 Aplicaciones 
+.4 Modelos de computo paralelo 
+1.4.1 Modelos de memoria compartida 
+1.4.2  Modelos  interconexión  de  red,  memoria  distribuida  o 
+paso de mensajes 
+1.4.3 Modelo de flujo de datos 
+1.4.4 Aplicaciones
+2
+  2
+  2
+  2
+2.1  Clases  de  problemas  solucionables  usando  computo 
+paralelo 
+2.1.1 Tareas paralelizables 
+.2 Tipos de paralelización 
+2.2.1 Paralelización funcional 
+2.2.2 Paralelización de datos 
+2.2.3 Paralelización recursiva 
+2.2.4 Paralelización exploratoria 
+2.2.5 Paralelización especulativa 
+.3 Diseño de algoritmos paralelos  
+2.3.1 Descomposición del problema 
+2.3.2 Granularidad de la computación 
+2.3.3 Minimización de costos del algoritmo paralelo 
+2.3.4 Asignación de tareas a las unidades de procesamiento 
+.4 Método Foster 
+2.4.1 Particionamiento 
+2.4.2 Comunicación 
+2.4.3 Aglomeración 
+2.4.4 Mapeo 
+.5 Análisis de rendimiento para programas paralelos 
+2.5.1 Métricas de desempeño 
+2.5.2 Escalabilidad de los sistemas paralelos 
+2.5.3 Función de isoeficiencia 
+2.5.5 Ley de Amdahl 
+2.5.6 Ley de Gustafson Barsis’s 
+2.5.7 Métrica de Karp-Flatt
+3
+  3
+  3
+  3
+  3
+3.1 Computo paralelo usando memoria compartida 
+3.1.1 Arquitecturas multi-núcleo y multi-socket 
+3.1.2 Modelos de memoria compartida 
+.2 Cache 
+3.2.1 Numero de caches 
+3.2.2 Tamaños del cache 
+3.2.3 Mapeo de bloques de memoria a bloques de cache 
+.3 Política de escritura 
+3.3.1 Política write-through 
+3.3.2 Política write- back 
+.4 Coherencia de cache 
+3.4.1 Protocolos snooping 
+3.4.2 Protocolos basados en directorio 
+.5 Consistencia de memoria 
+3.5.1 Consistencia secuencial 
+.6  Interfaces  de  programación  de  aplicaciones  *(Aplication 
+Program Interface APIs) y Lenguajes de programación
+4
+  4
+  4
+4.1 Computo paralelo usando memoria distribuida  
+4.1.1 Arquitecturas de red 
+4.1.2 Arquitectura de memoria distribuida con acoplamientos 
+fuerte y débil 
+4.1.3  Arquitectura  de  memoria  distribuida  con  acoplamiento 
+bajo 
+.2 Ruteo 
+4.2.1 Algoritmos de ruteo para transmisión y multitransmisión 
+4.2.2 Algoritmos de estancamiento y ruteo  
+.3 Conmutación 
+4.3.1 Conmutación de conexión 
+4.3.2 Conmutación de paquetes 
+.4 APIs y Lenguajes de programación
+5
+  5
+  5
+5.1 Computo paralelo usando flujos de datos 
+.2 Aceleradores paralelos 
+5.2.1 Principios 
+5.2.2 Características 
+5.2.3 Aplicaciones 
+.3 Procesadores de flujo 
+.4 APIs y Lenguajes de programación
+"
+IA/ingSoftwareSistemasInteligentes_IIA2020.pdf,"1
+  1
+  1
+  1
+1.1 Contextualización a la Ingeniería de Software 
+1.1.1 Atributos y características del software 
+1.1.2 Importancia y aplicación de la Ingeniería de software 
+.2 Ciclo de vida del sistema 
+.3 Ciclo de desarrollo del software 
+1.3.1 Modelos de procesos lineal secuencial cascada 
+1.3.2 Incremental 
+1.3.3 Desarrollo rápido de aplicaciones prototipos 
+1.3.4 Espiral 
+.4 Características de un sistema 
+.5 La gestión de proyectos 
+1.5.1 Historia 
+1.5.2 Características 
+1.5.3 Nociones a considerar
+2
+  2
+  2
+  2
+  2
+2.1 Estudio de factibilidad 
+2.2.1 Factibilidad técnica 
+2.2.2 Factibilidad temporal 
+2.2.3 Factibilidad humana u operacional 
+.2 Análisis de riesgo 
+2.2.1 Tipificación del riesgo 
+2.2.3 Mapas de riegos 
+2.2.4 Planes de contingencia 
+.3 Recursos 
+2.3.1 Recursos humanos 
+2.3.2 Recursos técnicos 
+2.3.3 Recursos operativos 
+2.3.4 Integración de recursos 
+.4 Estimación 
+2.4.1 Métricas 
+2.4.2 Modelos de estimación 
+.5 Planificación del proyecto 
+2.5.1 Calendario de actividades 
+2.5.2 Diagrama de Gantt 
+2.5.3 Diagrama de Pert 
+.6 Supervisión y control del plan de proyecto
+3
+  3
+  3
+3.1 Metodologías clásicas 
+3.1.1 Metodología de cascada 
+3.1.2 Metodología de análisis de la estructura de sistema y 
+método de diseño SSADM 
+3.1.3 Justo A Tiempo (JIT) 
+3.1.4 Métrica v3 
+3.1.5 PRINCE 2 
+.2 Metodologías ágiles 
+3.2.1 Manifiesto ágil 
+3.2.2 Características de las metodologías ágiles 
+3.2.3 Programación extrema 
+3.2.3 Crystal 
+.3 Metodología SCRUM 
+3.3.1 Planificación de la pila de producto (Product Backlog) 
+3.3.2 Planeación de la iteración (Sprint) 
+3.2.3 Tipos de reuniones 
+.4 Validación y aceptación de proyectos
+4
+  4
+  4
+4.1 Contextualización de la calidad 
+.2 Calidad de sistemas de información 
+.3 Calidad del producto software 
+.4 Modelos y normas de calidad 
+4.4.1 ISO 9000 
+4.4.2 ISO 25000 
+4.4.3 IEEE Std 1061-1998* 
+4.4.4 ISO/IEC 15939
+5
+  5
+  5
+5.1 Modelado y aplicación de pruebas 
+5.1.1 Pruebas de caja negra 
+5.1.2 Pruebas de caja blanca 
+5.1.3 Pruebas de integración 
+5.1.4 Pruebas de sistema 
+.2 Atención a sistemas heredados 
+.3 Reingeniería  
+5.3.1 Procesos de negocio 
+5.3.2 Del software 
+5.3.3 Reestructuración 
+5.3.4 Ingeniería inversa 
+5.3.5 Ingeniería directa 
+.4 Madurez de sistemas y organizaciones 
+5.4.1 Modelo de Capacidad de Madurez (CMM) 
+5.4.2 Modelo de Capacidad de Madurez Integrado (CMMI) 
+5.4.3 Modelos y Niveles de Madurez en COBIT (Objetivos 
+de Control para la Información y Tecnologías 
+Relacionadas) 
+5.4.4 Modelos y Niveles de Madurez en ITIL (Biblioteca de 
+Infraestructura de Tecnologías de Información )
+"
+IA/matematicasDiscretas_IIA2020.pdf,"1.1 Equivalencias 
+1.1.1 Proposiciones atómicas, compuestas y jerarquía de 
+operadores 
+1.1.2 Equivalencias lógicas 
+1.1.3 Álgebra de proposiciones 
+1.1.4 Contrapositiva, recíproca e inversa de una 
+condicional 
+1.2 Inferencias  
+1.2.1 Reglas de inferencia 
+1.2.2 Demostraciones directas e indirectas 
+1.3 Cuantificadores  
+1.3.1 Proposiciones abiertas y cuantificadores 
+1.3.2 Lenguaje natural y cuantificadores 
+1.3.3 Equivalencias e inferencias con cuantificadores
+2.1 Conjuntos 
+2.1.1 Operadores, igualdad y contención de conjuntos 
+2.1.2 Álgebra de conjuntos 
+2.1.3 Propiedades de la contención 
+2.2 Cardinalidad 
+2.2.1 Fórmulas básicas de cardinalidad 
+2.2.2 Principio de inclusión y exclusión 
+2.3 Conjunto Potencia y Producto Cartesiano 
+2.3.1 Conjunto Potencia 
+2.3.2 Producto Cartesiano
+3.1 Números Enteros 
+3.1.1 Propiedades de los números enteros 
+3.2 Divisibilidad 
+3.2.1 Propiedades de la divisibilidad 
+3.2.2 Algoritmo de la división 
+3.2.3 Máximo común divisor y mínimo común múltiplo 
+3.3.4 Teorema Fundamental de la Aritmética 
+3.3.5 Algoritmo de Euclides 
+3.3 Inducción matemática 
+3.3.1 Problemas de igualdad con sumas y productos 
+3.3.2 Problemas de divisibilidad 
+3.3.3 Problemas de orden 
+3.3.4 Problemas de generalización 
+3.4 Sistemas de numeración 
+3.4.1 Algoritmo de cambio de base 
+3.4.2 Relación entre los sistemas binario y hexadecimal 
+3.4.3 Operaciones básicas en base b
+4.1 Álgebras y Funciones booleanas 
+4.1.1 Propiedades de las álgebras booleanas 
+4.1.2 Funciones booleanas 
+4.1.3 Sumas de minitérminos y productos de maxitérminos 
+4.1.4 Representación en circuitos combinatorios 
+4.1.5 Reducción por mapas de Karnaugh 
+4.2 Relaciones 
+4.2.1 Representaciones de las relaciones 
+4.2.2 Propiedades de la Inversa y la Composición de las 
+relaciones. 
+4.2.3 Propiedades de las funciones 
+4.2.4 Relaciones reflexivas, irreflexivas, simétricas, 
+antisimétricas y transitivas 
+4.3 Relaciones de orden y relaciones de equivalencia 
+4.3.1 Relaciones de orden total y de orden parcial 
+4.3.2 Mínimos, máximos, minimales y maximales 
+4.3.3 Relaciones de equivalencia 
+4.3.4 Conjunto Cociente y clases de equivalencia 
+4.4 Enteros módulo n 
+4.4.1 Congruencia módulo n como relación de equivalencia 
+4.4.2 Aritmética de los enteros módulo n 
+4.4.3 Teorema chino del residuo 
+4.5 Grafos y Árboles 
+4.5.1 Grafos dirigidos, no dirigidos y conexos. 
+4.5.2 Recorridos y circuitos eulerianos y hamiltonianos 
+4.5.3 Algoritmo del camino más corto 
+4.5.4 Recorridos en profundidad y amplitud 
+4.4.5 Recorridos en pre-orden, in-orden y post- orden de 
+árboles binarios
+"
+IA/finanzasEmpresariales_IIA2020.pdf,"1.1.  La empresa y su contexto 
+1.1.1. 
+Constitución jurídica 
+1.1.2. 
+El área financiera en la estructura 
+organizacional 
+1.2.  Función y objetivo de las finanzas 
+empresariales 
+1.3.  Las finanzas empresariales y su relación con 
+otras disciplinas (Ética, Economía, Derecho, 
+Matemáticas, etc.) 
+1.4.  Factores del micro y macro ambiente que 
+impactan a la empresa y a sus finanzas
+2
+  2
+2.1L a información financiera 
+.2 Las Normas de Información Financiera (NIF) 
+.3 Estados financieros básicos 
+2.3.1Estado de Situación Financiera (Balance 
+General) 
+2.3.2Estado de Resultados
+3.1  El análisis financiero en la empresa 
+ 
+3.2  Métodos para el análisis financiero 
+3.2.1  Análisis vertical 
+3.2.2  Análisis horizontal 
+ 
+3.3  Análisis del punto de equilibrio operacional 
+3.3.1  Modelo matemático del punto de 
+equilibrio con un producto 
+3.3.2  Modelo matemático del punto de 
+equilibrio con multiproductos
+4.1  Valor del dinero en el tiempo 
+4.1.1. Valor presente 
+4.1.2Valor futuro  
+ 
+4.2  Anualidades 
+ 
+4.3 La planeación financiera 
+4.3.1El presupuesto maestro 
+ 
+4.4 Estados financieros proforma
+5.1  Los proyectos de inversión 
+5.2  Proceso de preparación y evaluación de 
+proyectos 
+5.3  Métodos de evaluación de proyectos de 
+inversión 
+5.3.1 
+Método del período de recuperación de la 
+inversión (PRI) 
+5.3.2 
+Método del rendimiento sobre la inversión 
+(RSI) 
+5.3.3 
+Costo – beneficio 
+5.3.4 
+Valor presente neto (VPN) 
+5.3.5 
+Tasa interna de rendimiento (TIR) 
+5.3.6 
+índice de rentabilidad (IR)
+"
+IA/teoriaComputacional_IIA2020.pdf,"1.1  Contextualización a la teoría de autómatas 
+1.1.1 
+Alfabetos 
+1.1.2 
+Cadenas de Caracteres 
+1.1.3 
+Lenguajes 
+ 
+1.2  Autómatas finitos 
+1.2.1 
+Reglas básicas 
+1.2.2 
+Autómatas de sistema completo 
+ 
+1.3  Autómatas finitos deterministas (AFD) 
+1.3.1 
+Procesamiento de cadenas AFD 
+1.3.2 
+Notaciones 
+1.3.3 
+Extensión a cadenas de la función transición 
+1.3.4 
+Lenguaje de un AFD 
+ 
+1.4  Autómatas 
+finitos 
+no 
+deterministas 
+(AFND) 
+considerar una integración con epsilon 
+1.4.1 
+Contextualización 
+1.4.2 
+Función de Transición extendida 
+1.4.3 
+Equivalencias entre AFD y AFND 
+ 
+1.5  Autómatas finitos con transiciones – Ɛ 
+1.5.1 
+Uso de las transiciones – Ɛ 
+1.5.2 
+Notación para un AFN– Ɛ 
+1.5.3 
+Clausulas épsilon 
+1.5.4 
+Transiciones  y  lenguajes  extendidos  para  los 
+AFN– Ɛ 
+1.5.5 
+Expresiones regulares a AFN- Ɛ (Algoritmo de 
+Thompson)
+2.2  Expresiones regulares 
+2.2.1 
+Operadores 
+2.2.2 
+Construcción de expresiones regulares 
+2.2.3 
+Precedencia de operadores 
+ 
+2.3  Autómatas finitos y expresiones regulares 
+2.3.1 
+AFD a expresiones regulares 
+2.3.2 
+Expresiones regulares a AFD 
+ 
+2.4  Aplicación de las Expresiones regulares 
+2.4.1 
+Análisis léxico 
+2.4.2 
+Búsqueda de Patrones en Textos 
+ 
+2.5  Álgebra de expresiones regulares 
+2.5.1 
+Asociatividad y conmutatividad 
+2.5.2 
+Elemento identidad y elemento nulo 
+2.5.3 
+Leyes distributivas 
+2.5.4 
+Leyes de idempotencia 
+2.5.5 
+Leyes relativas a clausura 
+ 
+2.6  Propiedades de los lenguajes naturales 
+2.6.1 
+Demostración de lenguajes no regulares 
+2.6.2 
+Propiedades de clausura de lenguajes 
+regulares 
+2.6.3 
+Propiedades de decisión de lenguajes 
+naturales 
+2.6.4 
+Equivalencia y minimización de autómatas
+3.1.  Contextualización a los autómatas de Pila 
+3.1.1. Definición formal del autómata de Pila 
+3.1.2. Notación gráfica del autómata de pila 
+3.1.3. Descripciones  instantáneas  de  un  autómata  de 
+pila 
+ 
+3.2.  Lenguajes de un autómata de pila 
+3.2.1. Aceptación por estado final 
+3.2.2. Aceptación por pila vacía 
+3.2.3. De pila vacía a estado final 
+3.2.4. De estado final a pila vacía 
+ 
+3.3.  Equivalencias entre autómatas de pila 
+3.3.1. Gramáticas a autómatas de Pila 
+3.3.2. autómatas de Pila a gramáticas 
+ 
+3.4.  Autómata de Pila determinista 
+ 
+3.5.  Contextualización 
+ 
+3.6.  Autómatas  de  pila  deterministas  y 
+lenguajes 
+independientes del contexto 
+ 
+3.7.  Autómatas a pila deterministas y gramáticas
+4.1.  Problemas no computables 
+ 
+4.2.  La máquina de Turing  
+4.2.1. Notación de la Máquina de Turing (MT)  
+4.2.2. Descripciones  instantáneas  de  la  Máquina  de 
+Turing 
+4.2.3. Diagramas de transición 
+4.2.4. Lenguaje de una máquina de Turing 
+4.2.5. Máquina de Turing y Parada 
+ 
+4.3.  Técnicas  de  programación  para  la  máquina  de 
+Turing 
+4.3.1. Almacenamiento en el estado 
+4.3.2. Pistas múltiples 
+4.3.3. Subrutinas 
+ 
+4.4.  Extensiones de la máquina de Turing básica 
+4.4.1. Máquina de Turing de varias cintas 
+4.4.2. Equivalencias  entre  las  MT  de  una  y  múltiples 
+cintas 
+4.4.3. Tiempo de ejecución de múltiples cintas a una 
+4.4.4. Máquinas de Turing no deterministas 
+ 
+4.5.  Máquinas de Turing restringidas 
+4.5.1. Máquina de Turing con cintas semi – infinitas 
+4.5.2. Máquina de Turing con múltiples pilas 
+4.5.3. Máquinas contadoras y su potencia
+"
+IA/basesDatos_IIA2020.pdf,"1
+  1
+1.1  Sistemas Gestores de Bases de Datos 
+1.1.1 Fundamentos de Bases de Datos 
+1.1.2 Arquitectura ANSI-SPARK 
+.2  Tipos de bases de datos 
+ 
+1.3  Arquitectura de tres esquemas de un Sistema Gestor 
+de Bases de Datos (SGBD) 
+1.3.1 Independencia de datos 
+1.3.2 Lenguajes de un SGBD  
+1.3.3 Módulos componentes de un SGBD   
+.4  Clasificación de los SGBD
+2
+  2
+  2
+2.1 Modelos conceptuales de datos de alto nivel 
+.2 Modelo Entidad Relación (E-R) 
+2.2.1 Entidades y atributos  
+2.2.2 Tipos de entidad  
+2.2.3 Vínculos  
+2.2.4 Entidades débiles 
+.3 Diagramas Entidad Relación (E-R) 
+2.3.1 Notación en diagramas E-R 
+2.3.2 Modelado de datos E-R 
+.4 Modelo E-R Extendido (EER) 
+2.4.1 Subclases, superclases y herencia 
+2.4.1 Especialización y generalización 
+2.4.2  Tipos  de  restricciones  en  la  especialización  y  la 
+generalización
+3.1 Fundamentos del modelo relacional 
+3.1.1 Dominios, atributos, tuplas y relaciones 
+3.1.2 Características y propiedades de las relaciones 
+3.1.3 Notación del modelo relacional 
+3.2 Tipos de restricciones relacionales e integridad 
+3.2.1 De dominio 
+3.2.2 En la llave y sobre valores nulos 
+3.2.3 Esquema relacional de una base de datos 
+3.3. Integridad en un esquema relacional  
+3.3.1 Integridad de entidades 
+3.3.2 Integridad referencial 
+3.3.3 Integridad de llaves foráneas 
+3.4 Operaciones de actualización y álgebra relacional 
+3.4.1  Operaciones  de  actualización:  Insertar,  eliminar  y 
+actualizar 
+3.4.2  Operaciones  del  álgebra 
+relacional:  selección, 
+proyección, reunión (Join), intersección, diferencia 
+y división 
+3.4.3. Funciones de agregación y de agrupación
+4.1 Diseño de bases de datos relaciones 
+4.1.1 Pautas para el diseño de bases de datos 
+relacionales 
+4.1.2 Transformación de un modelo EER a un modelo 
+relacional 
+4.2 Dependencias funcionales 
+4.2.1 Fundamentos de dependencia funcional 
+4.2.2 Regla de inferencia 
+4.2.3 Equivalencia de conjuntos 
+4.2.4 Conjuntos mínimos 
+4.3 Formas normales 
+4.3.1 Primera, segunda y tercera forma normal 
+4.3.2 Forma normal de Boyce - Codd
+5
+  5
+  5
+  5
+5.1  Creación  y  modificación  de  esquemas  de  bases  de 
+datos relacionales con SQL 
+5.1.1 
+Instrucciones 
+CREATE 
+DATABASE, 
+DROP 
+DATABASE 
+5.1.2  Instrucciones  CREATE  TABLE,  ALTER  TABLE  y 
+DROP TABLE 
+5.1.3 Instrucciones CREATE VIEW, CREATE INDEX 
+.2 
+Instrucciones 
+INSERT, 
+DELETE, 
+UPDATE 
+y 
+TRIGGERS 
+.3 Instrucción SELEC-FROM-WHERE 
+.4 Funciones agregadas y agrupación 
+.5 Procedimientos Almacenados (Store procedures)
+"
+IA/mecanicaElectromagnetismo_IIA2020.pdf,"1
+  1
+  1
+.1 Cinemática 
+1.1.1. Movimiento rectilíneo: marco de referencia 
+1.1.2. Desplazamiento, velocidad y aceleración  
+1.1.2. Movimiento rectilíneo uniforme 
+1.1.3. Movimiento rectilíneo uniformemente acelerado: 
+caída libre  
+1.2.4.  Movimiento  en  el  plano:  Tiro  parabólico 
+y 
+movimiento circular uniforme 
+.2.  Dinámica 
+1.2.1.  Marcos de referencia inerciales  
+1.2.2.  Primera  Ley  de  Newton: 
+ley  de 
+la 
+inercia  y 
+conceptualización de masa 
+1.2.3.  Segunda 
+Ley 
+de 
+Newton: 
+relación 
+entre 
+aceleración 
+y 
+fuerza. 
+Tipos 
+de 
+fuerzas: 
+gravitacional, normal, tensión, fricción 
+1.2.4.  Diagrama de cuerpo libre 
+1.2.5.  Tercera Ley de Newton: acción y reacción 
+1.2.6.  Aplicaciones: 
+equilibrio 
+y 
+dinámica 
+del 
+movimiento 
+.3. Conservación de la energía 
+1.3.1  Trabajo,  energía  cinética  y  energía  potencial 
+(gravitacional y elástica) y potencia 
+1.3.2. Relación del trabajo y la energía cinética 
+1.3.3. Relación del trabajo y la energía potencial  
+1.3.4. Conservación de la energía mecánica
+2
+  2
+  2
+.1 Campo eléctrico 
+ 2.1.1 La carga  eléctrica: conservación y cuantización. 
+Propiedades eléctricas de las cargas y los materiales 
+2.1.2 
+La 
+Ley 
+de 
+Coulomb 
+y 
+el 
+Principio 
+de 
+superposición. Densidades de carga 
+2.1.3 Líneas de campo eléctrico. Campos eléctricos de 
+distribuciones discreta y continua 
+2.1.4 Partículas cargadas dentro de un campo eléctrico  
+2.1.5 El dipolo eléctrico 
+.2. Ley de Gauss 
+2.2.1  Flujo  de  campo  eléctrico:  superficie  cerrada, 
+superficie gaussiana y carga neta encerrada 
+2.2.2 Ley de Gauss 
+2.2.3 Aplicaciones de la Ley de Gauss: esfera, cilindro, 
+plano y línea de carga 
+.3. Potencial eléctrico 
+2.3.1  Potencial 
+eléctrico, 
+diferencia 
+de 
+potencial, 
+superficie 
+equipotencial 
+y 
+energía 
+potencial 
+electrostática  
+2.3.3  Potencial  eléctrico  debido  a  distribuciones  de 
+carga discreta y continua  
+2.3.4 Campo eléctrico como gradiente del potencial
+3
+  3
+.1 Campo magnético 
+3.1.1 Campo de inducción magnética, flujo magnético, 
+líneas de inducción magnética  
+3.1.2 La Ley de Gauss para el magnetismo 
+3.1.3 Movimiento de partículas cargadas en campos 
+magnéticos 
+3.1. 4 Fuerza magnética sobre un conductor con 
+corriente 
+.2 Fuentes de campo magnético 
+3.2.1 Campo magnético de una carga en movimiento 
+3.2.2 Ley de Biot-Savart. Aplicaciones 
+3.2.3 Ley de Ampère. Aplicaciones 
+3.2.4 Campo magnético producido por alambres con 
+corriente
+"
+IA/algoritmosBioinspirados_IIA202.pdf,"1.1 Inteligencia en la naturaleza 
+1.1.1 Evolución 
+1.1.2 
+Inteligencia 
+social 
+en 
+rebaños, 
+hordas 
+y 
+enjambres como optimización 
+1.2 Optimización y algoritmos de optimización 
+1.2.1 Espacios de búsqueda 
+1.2.2 Optimización global y local 
+1.2.3 Sistemas complejos y sistemas dinámicos
+2.1 Trasfondo biológico y computacional 
+2.1.1 Las células 
+2.1.2 Cromosomas y genética 
+2.1.3 Reproducción 
+2.1.4 Selección natural 
+2.1.5 Evolución y algoritmos genéticos 
+2.2 Individuos y población 
+2.2.1 Genotipos y fenotipos 
+2.2.2 Codificación 
+2.2.3 Restricciones 
+2.2.4 Función de evaluación de aptitud 
+2.2.5 Población 
+2.3 Operadores genéticos 
+2.3.1 Selección 
+2.3.2 Cruzamiento 
+2.3.3 Mutación 
+2.3.4 Reemplazo 
+2.4. Parámetros de control y término 
+2.4.1 Parámetros de control de la búsqueda 
+2.4.2 Criterios de término de búsqueda 
+2.5  Hipótesis 
+y 
+teoremas  del 
+funcionamiento  de 
+algoritmos genéticos 
+2.5.1 Hipótesis de bloques de construcción 
+2.5.2 Hipótesis de macromutación 
+2.5.3 Hipótesis de mutación adaptativa 
+2.5.4 Teorema del esquema 
+2.6 Aplicaciones de los algoritmos genéticos
+3.1 Programación genética y síntesis de programas 
+3.2 
+Diferencias 
+entre 
+programación 
+genética 
+y 
+algoritmos genéticos 
+3.3 Bases de la programación genética 
+3.3.1 Operadores genéticos. 
+3.3.2 Programación genética generacional 
+3.3.3 Programación genética basada en árboles 
+3.3.4 Representación de la programación genética 
+3.4 Atributos 
+3.5 Consideraciones en la programación genética 
+3.5.1 Consideraciones previas 
+3.5.2 consideraciones en la ejecución 
+3.6 Características 
+3.7 Aplicaciones
+4.1. Bases de autómatas celulares 
+4.1.1 Malla 
+4.1.2 Vecindad 
+4.1.3 Estado de los elementos y estado global 
+4.1 4 Función local y función global 
+4.2 Autómatas celulares unidimensionales 
+4.2.1 Lattice 
+4.2.2 Funciones de transición 
+4.2.3 Reglas totalistas 
+4.2.4 Condiciones de frontera 
+4.2.5 Propiedades 
+4.2.6 Aditividad 
+4.2.7 Reversibilidad 
+4.2.8 Clasificación 
+4.2.9 Cómputo universal 
+4.2.10 Sincronización 
+4.3 Autómatas celulares bidimensionales 
+4.3.1 El juego de la vida 
+4.3.2 Replicación 
+4.3.3 Sincronización asíncrona 
+4.4 Autómatas celulares avanzados 
+4.4.1 Método de la lattice Boltzmann 
+4.4.2 Autómata de red 
+4.4.3 Autómata complejo 
+4.4.4 Autómata asíncrono 
+4.4.5 Autómata celular cuántico 
+4.4.6 Wetware 
+4.4.7 Autómata celular de valores reales 
+4.5 Aplicaciones
+5.1 Inteligencia de enjambre en inteligencia artificial 
+5.1.1 Comportamiento colectivo y social 
+5.1.2 Inteligencia de enjambre 
+5.2 Enjambre de partículas 
+5.2.1 Bases socio-cognitivas 
+5.2.2 Modelo binario 
+5.2.3 Enjambre de partículas en números continuos 
+5.2.4 Enjambre de partículas híbrido 
+5.2.5 Variaciones del paradigma del enjambre de 
+partículas 
+5.3 Modelos basados en comportamiento de insectos 
+5.3.1 Colonia de hormigas 
+5.3.2 Colonia de abejas 
+5.4 Modelos basados en microorganismos 
+5.4.1 Alimentación bacterial 
+5.5 Modelos basados en animales 
+5.5.1 Algoritmo de enjambre de murciélagos 
+5.5.2 Optimización por enjambre de gatos
+"
+IA/ingenieriaEticaSociedad_IIA2020.pdf,"1
+  1
+ 
+1.1. 
+Evolución del conocimiento 
+1.1.1.  Sujeto y sociedad 
+1.1.2.  Conocimiento empírico, científico, tecnológico y 
+cultural 
+1.1.3.  La ciencia como factor de cambio: trayectoria del 
+avance 
+científico 
+y 
+tecnológico 
+(Prehistoria, 
+Antigüedad y Edad Media) 
+.2. 
+Desarrollo histórico de la tecnología 
+1.2.1.  Artefactos, técnica y tecnología 
+1.2.2.  El impacto del avance científico y tecnológico en 
+la sociedad 
+.3. 
+Ciencia  moderna: 
+Del 
+Renacimiento 
+a 
+la 
+Revolución Industrial  
+1.3.1.  Los métodos de la ciencia moderna 
+1.3.2.  El método científico: ventajas y limitaciones 
+1.3.3.  Clasificación de las ciencias 
+1.3.4.  Nuevos retos de la ciencia
+2.1. 
+Las Revoluciones Industriales: características de 
+la  tecnología  y  su  impacto  social,  económico, 
+político y cultural 
+2.1.1. Primera Revolución  
+2.1.2. Segunda Revolución 
+2.1.3. Tercera Revolución 
+2.1.4. Cuarta Revolución
+3
+  3
+ 
+3.1. 
+Importancia de la ingeniería y su función social 
+3.1.1. El surgimiento de la ingeniería 
+3.1.2. Escuelas 
+de 
+ingeniería 
+y 
+sus 
+tradiciones 
+educativas 
+3.1.3. Funciones de la ingeniería en la sociedad 
+.2. 
+Retos de la ingeniería en el siglo XXI 
+3.2.1. Perfil  del 
+ingeniero  para 
+las  organizaciones 
+inteligentes 
+.3. 
+La ingeniería como profesión transdisciplinar
+4
+  4
+  4
+ 
+4.1. 
+Ética y moral 
+4.1.1.  Fundamentos de la ética y la moral 
+4.1.2.  Diferencia entre ética y moral 
+4.1.3.  Principios y valores 
+.2. 
+La ética y la ingeniería artificial 
+4.2.1.  Integridad académica y profesional 
+4.2.2.  La misión del profesionista y su función social 
+.3. 
+Dilemas éticos en inteligencia artificial 
+4.3.1.  Leyes,  normas  y 
+reglamentos  nacionales  e 
+internacionales 
+4.3.2.  Códigos éticos y morales y sus diferencias 
+4.3.3.  Códigos profesionales 
+4.3.4.  Código de ética 
+.4. 
+Retos e implicaciones sociales: sustentabilidad, 
+salud, equidad de género 
+4.4.1.  Libertad y voluntad 
+4.4.2.  Educación y legislación 
+4.4.3.  Derechos humanos
+5
+ 
+5.1. 
+Sustentabilidad e inteligencia artificial 
+5.1.1.  Modelos productivos emergentes 
+5.1.2.  Impacto  ambiental 
+de 
+los  nuevos  modelos 
+productivos 
+5.1.3.  Normatividad 
+y 
+acuerdos 
+nacionales 
+e 
+internacionales 
+.2. 
+Principios  de  eficiencia,  eficacia,  pertinencia  y 
+equidad en los modelos productivos emergentes 
+5.2.1.  Sistemas de calidad
+"
+IA/procesamientoDigitalImagenes_IIA2020.pdf,"1
+  1
+  1
+1.1 Elementos de la percepción visual 
+1.1.1 Estructura del ojo humano 
+1.1.2 Formación de la imagen en el ojo 
+1.1.3 Adaptación al brillo 
+1.1.4 Luz y espectro electromagnético 
+.2 Procesamiento de imágenes digitales 
+1.2.1  Áreas  de  aplicación  del  procesamiento  digital  de 
+imágenes 
+1.2.2 Etapas del procesamiento digital de imágenes 
+1.2.3  Componentes  de  un  sistema  de  procesamiento 
+digital de imágenes 
+1.2.4  Adquisición  usando  un  sensor,  una  línea  o  un 
+arreglo de sensores 
+1.2.5 Muestreo y cuantización de imágenes 
+.3 Muestreo y cuantización de imágenes digitales 
+1.3.1 Representación de imágenes digitales 
+1.3.2 Indexación linear y coordinada 
+1.3.3 Resolución espacial y de intensidad 
+1.3.4 Teoría del color 
+1.3.5 Modelos del color 
+  
+1.4 Clasificación de imágenes  
+1.4.1  De  acuerdo  a  la  forma  en  que  se  almacenan: 
+Bitmap vs Vector 
+1.4.2 Formatos de archivos de imágenes 
+.5 Histogramas y estadísticas de imagen 
+1.5.1 Generación de histograma 
+1.5.2 Histogramas de imágenes a color 
+1.5.3 El histograma acumulativo 
+1.5.4 Información estadística del histograma 
+1.5.5 El ruido y su tratamiento
+2.1 Operaciones básicas de transformación en imágenes 
+2.1.1 Transformaciones geométricas 
+2.1.2 Operaciones aritméticas con un escalar 
+2.1.3 Negativo de una imagen 
+2.1.4 Umbralizado 
+2.2 Operaciones entre imágenes 
+2.2.1 Operaciones aritméticas  
+2.2.2 Operaciones lógicas 
+2.3 Conversión entre modelos de color 
+2.3.1 Conversión de imágenes a color a imágenes en escala 
+de grises 
+2.3.2  Conversión  de 
+imágenes  en  escala  de  grises  a 
+imágenes a color (pseudocolor) 
+2.3.3 Conversión de imágenes a otros modelos de color 
+2.4 Modificación del histograma 
+2.4.1 Desplazamiento 
+2.4.2 Expansión y contracción 
+2.4.3 Ecualización 
+2.4.4 Correspondencia 
+2.4.5 Transformaciones radiométricas
+3.1 Relaciones básicas entre pixeles 
+3.1.1 Vecinos de un pixel 
+3.1.2 Adyacencia, conectividad, regiones y fronteras 
+3.1.3 Distancia entre pixeles 
+3.2 Ruido 
+3.2.1 Tipos de ruido 
+3.2.2 Tipos de filtro 
+3.3 Filtros lineales 
+3.3.1 La convolución discreta de imágenes 
+3.3.2 Filtros pasa-altas (gradiente, canny, sobel, etc.) 
+3.3.3 Filtros pasa-bajas (promediador, gaussiano, etc) 
+3.4 Filtros no lineales 
+3.4.1  Filtros  de  orden  (mediana,  moda,  máximo,  mínimo, 
+etc) 
+3.5 Aplicaciones
+4
+4.1. Morfología matemática de conjuntos 
+4.1.1. La imagen binaria como un conjunto 
+4.1.2.  Operaciones  entre  conjuntos 
+(unión, 
+intersección, 
+complemento, traslación y reflexión) 
+4.1.3. Elementos de estructura 
+4.1.4. Operaciones de dilatación y erosión 
+4.1.5. Operaciones de apertura y cierre 
+4.1.6. Otras transformaciones morfológicas (bordes internos 
+y externos, hit-or-miss, dilatación y erosión controlada) 
+.2. Morfología matemática de lattices 
+4.2.1. La imagen en escala de grises como un lattice 
+4.2.2. 
+Operaciones 
+entre 
+lattices 
+(máximo, 
+mínimo, 
+complemento, traslación y reflexión) 
+4.2.3. Elemento de estructura en lattices 
+4.2.4. Operaciones de dilatación y erosión en lattices 
+4.2.5. Operaciones de apertura y cierre en lattices 
+4.2.6.  Otras 
+transformaciones  morfológicas 
+en 
+lattices 
+(gradiente morfológico, Top-Hat, Bot-Hat)
+5
+  5
+5.1 Transformada de Fourier y domino de la frecuencia 
+.2 Filtros de suavizado en el dominio de la frecuencia 
+.3  Filtros  de  mejoramiento  de  nitidez  en  el  dominio  de  la 
+frecuencia
+"
+IA/analisisDisenoAlgoritmos_IIA2020.pdf,"1.1 
+El rol de los algoritmos en el cómputo  
+1.1.1 
+Nociones básicas de algoritmos  
+1.1.2 
+Nociones básicas de análisis 
+1.2 
+Tipos de complejidad 
+1.2.1 
+Complejidad temporal 
+1.2.2 
+Complejidad espacial 
+1.3 
+Notación asintótica  
+1.3.1 
+Notación θ 
+1.3.2 
+Notación O 
+1.3.3 
+Notación Ω 
+1.3.4 
+Notación o 
+1.3.5 
+Notación ω 
+1.4 
+Funciones típicas para describir crecimientos 
+asintóticos
+2.1 
+La estrategia Divide y Vencerás 
+2.1.1 
+Problema del máximo subarreglo 
+2.1.2 
+El algoritmo de Strassen 
+2.2 
+Ecuaciones de recurrencia 
+2.2.1 
+Método de Sustitución 
+2.2.2 
+Método de Iteraciones 
+2.2.3 
+El teorema Maestro y su demostración 
+2.3 
+Programación dinámica 
+2.3.1 
+El problema de corte de varilla 
+2.3.2 
+El problema de multiplicación de una cadena 
+de matrices 
+2.3.3 
+Elementos de la programación dinámica 
+2.3.4 
+Características 
+2.3.5 
+Aplicaciones 
+2.4 
+La estrategia avariciosa (greedy) 
+2.4.1 
+El problema de la selección de actividades 
+2.4.2 
+Códigos de Huffman 
+2.4.3 
+Elementos de la estrategia avariciosa 
+2.4.4 
+Matroides y la estrategia avariciosa
+3.1 
+Análisis 
+probabilístico 
+y 
+algoritmos 
+aleatorizados 
+3.1.1 
+El problema de la selección de actividades 
+ 
+3.2 
+Análisis amortizado 
+3.2.1 
+Análisis agregado 
+3.2.2 
+El método contable 
+3.2.3 
+El método potencial 
+3.2.4 
+Tablas dinámicas
+4.1 
+Complejidad algorítmica 
+ 
+4.2 
+Clases de complejidad 
+ 
+4.3 
+P vs NP 
+ 
+4.4 
+NP-Completitud 
+ 
+4.5 
+Estrategias para enfrentar a la clase NP
+"
+IA/desarrolloHabilidadesSociales_IIA2020.pdf,"1
+  1
+1.1. 
+Principios de la alta dirección en la organización 
+1.1.1.  Función 
+de 
+la 
+alta 
+dirección 
+dentro 
+de 
+la 
+organización  
+1.1.2.  Alta dirección y establecimiento de políticas y 
+estrategias 
+.2. 
+Principios de la planeación estratégica aplicada 
+1.2.1.  Proceso de la planeación estratégica  
+1.2.2.  Definición  de 
+la 
+estrategia:  misión, 
+visión 
+y 
+objetivos de largo plazo 
+1.2.3.  Formulación del plan de acción estratégico  
+1.2.4.  Implementación del plan de acción estratégico  
+1.2.5.  Evaluación y ajustes al plan de acción estratégico 
+.3. 
+Habilidades personales y sociales del directivo 
+1.3.1.  Pensamiento estratégico 
+1.3.2.  Carácter 
+y 
+personalidad 
+del 
+alto 
+directivo 
+estratega
+2
+2.1 
+Habilidades personales para la alta dirección 
+2.1.1  Autoconocimiento 
+2.1.2  Dimensiones 
+fundamentales 
+y 
+áreas 
+del 
+autoconocimiento 
+2.1.3  Evaluación  de  habilidades:  Manejo  del  estrés  y  el 
+bienestar, 
+eliminación 
+de 
+factores 
+estresantes, 
+resiliencia y bienestar 
+2.1.4  Administración del tiempo 
+2.1.5 
+Inteligencia emocional (IE) y alta dirección 
+2.1.6  Clasificación de la IE (personal e interpersonal) y su 
+relación con el éxito del directivo 
+.2 
+Habilidades sociales para la alta dirección 
+2.2.1  Desarrollo de relaciones sociales positivas 
+2.2.2  Comunicación 
+efectiva, 
+intrapersonal 
+e 
+interpersonal 
+2.2.3  Asertividad: Características de la persona asertiva 
+2.2.4  Conducta ética  
+2.2.5  Manejo del conflicto
+3
+  3
+  3
+  3
+3.1 
+Habilidades organizacionales de comunicación  
+3.1.1  Comunicación empresarial  
+.2 
+Equipos efectivos de trabajo 
+3.2.1  Formación de equipos 
+3.2.2  Retos de los equipos de trabajo 
+3.2.3  Operación de equipos de trabajo 
+.3 
+Liderazgo estratégico 
+3.3.1  Liderazgo para el desarrollo de los colaboradores 
+3.3.2  Motivación en los equipos de trabajo 
+3.3.3  Teorías de la motivación 
+3.3.4  Motivación y desempeño 
+3.3.5  Coaching 
+3.3.6  Proceso de coaching 
+3.3.7  Coaching en la empresa 
+.4 
+Toma de decisiones 
+3.4.1  Ética en la toma de decisiones   
+.5 
+Estrategias de negociación 
+3.5.1  Técnicas de negociación 
+3.5.2  Obstáculos en las negociaciones 
+3.5.3  Relaciones públicas
+"
+IA/metodologiaInvestigacionDivulgacionCientififica_IIA2020.pdf,"1
+1.1  Conocimiento y ciencia 
+1.1.1 Tipos de conocimiento 
+1.1.2 Características y clasificación de la Ciencia 
+ 
+1.2 El método científico 
+1.2.1 Características e importancia 
+1.2.2 Etapas y elementos 
+1.2.3 Aplicación 
+.3 Metodología de la investigación científica 
+1.3.1 Etapas de la investigación 
+1.3.2 Dimensiones de la investigación 
+1.3.3 Métodos generales de la investigación 
+1.3.4 Tipos de investigación
+2
+  2
+  2
+  2
+2.1 El protocolo de investigación 
+2.1.1 Construcción del objeto de estudio 
+2.1.2 Planteamiento y delimitación del problema 
+2.1.3 Justificación 
+2.1.4 Propósitos, objetivos y metas de la 
+investigación (resultados esperados) 
+2.1.5 Formulación de hipótesis 
+.2 Diseño de la investigación 
+2.2.1 Metodología 
+2.2.2 Tipos e identificación de variables 
+2.2.3 Muestreo 
+.3 Fundamentación teórica 
+2.3.1 Funciones del marco teórico y estado del 
+arte 
+2.3.2 Proceso de revisión documental 
+2.3.3 Construcción de perspectiva teórica 
+2.3.4 Registros bibliográficos 
+2.3.5 Lenguaje académico, ética y plagio 
+.4 Recogida de datos 
+2.4.1 Técnicas de recolección de información 
+2.4.2 Instrumentos para la recopilación de datos 
+2.4.3 Experimentación 
+.5 Cronograma 
+2.5.1 Tipos y formulación
+3
+  3
+3.1 Discurso científico y comunicación científica 
+3.1.1 Estructura del discurso científico 
+3.1.2 Comunicación científica 
+.2 El informe final 
+3.2.1 Características del informe 
+3.2.2 Tipos de informe 
+3.2.3 Estructura del informe 
+3.2.4 Análisis de datos, enjuiciamiento y 
+conclusiones 
+3.2.5 Sugerencias y recomendaciones 
+.3 Exposición de textos científicos 
+3.3.1 Tipos de textos científicos 
+3.3.2 Exposición del protocolo de investigación 
+3.3.3 Preparación del material audiovisual 
+3.3.4 Aspectos importantes para la exposición 
+oral
+"
+IA/algebraLineal_IIA2020.pdf,"1.1 Sistema de Ecuaciones Lineales 
+1.1.1 Ecuaciones lineales con dos incógnitas  
+1.1.2 Ecuaciones lineales con tres incógnitas 
+1.1.3 Sistema de m ecuaciones lineales con n incógnitas  
+1.1.4 Eliminación de Gauss y de Gauss-Jordan con 
+pivoteo 
+1.1.5 Sistema de ecuaciones lineales homogéneas 
+1.2 Matrices 
+1.2.1 Representación matricial de un sistema de 
+ecuaciones 
+1.2.3 Álgebra matricial 
+1.2.4 Transpuesta de una matriz 
+1.3 Determinantes 
+1.3.1 Propiedades 
+1.3.2 Cálculo de determinantes 
+1.3.3 Regla de Cramer 
+1.4 Inversa de una Matriz 
+1.4.1 Matrices elementales y matrices equivalentes a la 
+matriz Identidad  
+1.4.2 La inversa de una matriz como producto de matrices 
+elementales 
+1.4.4 La inversa de una matriz a través de su adjunta 
+1.4.5 Solución de sistema de ecuaciones lineales usando 
+la inversa de la matriz de coeficientes
+2.1 Espacios vectoriales 
+2.1.1 Propiedades  
+2.1.2 Escalares, vectores, operaciones de vectores 
+2.2 Subespacios 
+2.2.1 Propiedades 
+2.3 Combinaciones lineales 
+2.3.1 Espacio generado 
+2.3.2 Dependencia e independencia lineal 
+2.4 Bases de un Espacio Vectorial 
+2.4.1 Dimensión de un espacio vectorial 
+2.4.1 Rango y Nulidad de una Matriz 
+2.5 Cambio de Base 
+2.5.1 Matriz Cambio de Base 
+2.6 Espacios con producto Interno 
+2.6.1 Bases ortogonales y ortonormales 
+2.6.2 Proceso de ortonormalización de Gram-Schmidt
+3.1 Transformaciones Lineales 
+3.1.1 Propiedades 
+3.1.2 Imagen y Kernel de una transformación lineal 
+3.2 Representación Matricial de una Transformación lineal 
+3.2.1 Matrices Semejantes y cambio de base en la 
+representación matricial de una transformación 
+3.3 Isomorfismos 
+3.3.1 Transformación Inversa 
+3.3.2 Ejemplos de espacios isomorfos
+4.1 Valores y vectores propios 
+4.1.1 Polinomio característico 
+4.1.2 Cálculo de vectores propios 
+4.2 Diagonalización de matrices 
+4.3 Matrices Simétricas y diagonalización ortogonal 
+4.4 Factorización LU
+"
+IA/matematicasAvanzadasIngenieria_IIA2020.pdf,"1
+  1
+  1
+  1
+  1
+1.1 El conjunto de números complejos 
+1.1.1 Números imaginarios y el plano complejo  
+1.1.2 Operaciones 
+1.1.3 Propiedades algebraicas 
+1.1.4 Vectores y valor absoluto 
+1.1.4. Conjugados  
+1.1.5 
+Formas 
+exponenciales, 
+productos, 
+potencias, 
+raíces  
+.2 Funciones analíticas  
+1.2.1 Límites 
+1.2.2. Continuidad 
+1.2.3. Derivación  
+1.2.4. Coordenadas polares 
+.3 Funciones elementales 
+1.3.1 Función exponencial 
+1.3.2 Función logaritmo 
+1.3.3 Función trigonométrica 
+1.3.4 Función hiperbólica  
+.4. Integración  
+1.4.1 Integral definida 
+1.4.2 Integral de contorno 
+.5 Series 
+1.5.1 Convergencia de series de potencias complejas 
+1.5.2 Serie de Taylor  
+1.5.3 Serie de Laurent 
+.6  Exploración  de  funciones  analíticas  y  elementales  de 
+variable compleja
+2
+  2
+  2
+  2
+  2
+2.1. Función objetivo 
+2.1.1. Derivada direccional y gradiente  
+2.1.2 Matriz Jacobiana 
+2.1.3 Matriz Hessiana 
+.2. Método de Newton-Raphson 
+.3 Optimización basada en gradiente 
+2.3.1 Descenso de gradiente  
+2.3.2 Ascenso de colinas 
+.4. Optimización restringida 
+2.4.1 Método Jacobiano 
+2.4.2 Método Lagrangiano 
+2.4.3 Método de Karush-Kuhn-Tucker (KKT) 
+.5 Ejemplos de optimización  
+2.5.1 Mínimos cuadrados lineales   
+.6 Modelado del descenso de gradiente
+3
+  3
+  3
+  3
+3.1 Normas 
+3.1.1 Norma L1, norma L2 
+3.1.2 Norma de Frobenius  
+.2. Descomposición de una matriz 
+3.2.1 Descomposición en valores propios  
+3.2.2 Descomposición en valores singulares 
+.3. Operador traza y sus propiedades 
+.4. Análisis de componentes principales 
+.5 Descomposición en valores singulares
+4
+  4
+4.1 Entropía de variable discreta 
+4.1.1 Definición de información y entropía 
+4.1.2 Entropía conjunta, condicional, relativa, cruzada 
+4.1.3 Propiedades de entropía  
+.2. Información mutua 
+.3. Aplicaciones de la teoría de información 
+4.3.1 Inteligencia artificial 
+4.3.2 Codificación de mensajes 
+4.3.2 Compresión de datos 
+4.3.3 Criptografía
+"
+IA/trabajoTerminalII_IIA2020.pdf,"1
+1.1  Implementación 
+1.1.1 
+Estándares y procedimientos de codificación o 
+implementación 
+1.1.2 
+Integración de código, prototipo o servicios 
+existentes 
+.2  Pruebas 
+1.2.1 
+Plan de pruebas 
+1.2.2 
+Elaboración de escenarios y scripts de 
+pruebas unitarias o modulares
+2
+  2
+  2
+2.1  Integración 
+2.1.1 
+Interoperabilidad de elementos  
+2.1.2 
+Pruebas de integración 
+2.1.3 
+Verificación y validación de resultados 
+.2  Análisis e interpretación de resultados 
+2.2.1 
+Identificación de oportunidades de mejora 
+.3  Trabajo a futuro 
+.4  Conclusiones
+3
+3.1  Reporte final del proyecto 
+3.1.1 
+Análisis de similitud 
+3.1.2 
+Revisión de formatos 
+ 
+3.2  Artículo técnico 
+3.2.1 
+Aplicación de formatos de escritura de un 
+artículo científico 
+.3  Presentación ejecutiva del proyecto
+"
+IA/formulacionEvaluacionProyectosInformaticos_IIA2020.pdf,"1.1 
+Concepción y planteamiento inicial de proyectos 
+1.2 
+Alcance de un proyecto 
+1.2.1  Herramientas de recopilación de requisitos 
+1.2.2  Medios de determinación de alcance 
+1.3 
+Estructura de desglose de trabajo 
+1.3.1  Análisis de entradas – salidas 
+1.3.2  Herramientas y técnicas de desglose y gestión del 
+trabajo 
+1.3.3  Verificación de alcance 
+1.4 
+Gestión del tiempo 
+1.4.1  Fundamentos de la gestión del tiempo 
+1.4.2  Aplicaciones y perspectivas 
+1.4.3  Limitantes de la administración del tiempo 
+1.4.4  Herramientas de gestión del tiempo
+2.1       Estudio de factibilidad 
+2.1.1    Factibilidad operativa 
+2.1.2    Factibilidad técnica 
+2.1.3    Factibilidad económica 
+2.1.4    Factibilidad comercial 
+2.1.5    Factibilidad económica y legal 
+2.2       Planificación y programación de actividades con 
+base en el tiempo y recursos 
+2.2.1    Diagramas de Gantt 
+2.2.2    Técnicas de revisión y evaluación de programas:  
+PERT* y ruta crítica 
+2.3        Gestión de trabajo 
+2.3.1 
+Cambio de matriz en menos de 10 minutos, SMED  
+2.3.2 
+Mapa de flujo de valor 
+2.3.3 
+Indicador Clave de Actuación (KPI) 
+2.3.4 
+Metodología Kanban 
+2.4        Gestión de costos 
+2.4.1 
+Estimación de costos  
+2.4.2 
+Presupuesto 
+2.4.3 
+Control de costos 
+ 
+*Por sus siglas en ingles
+3.1 Gestión de riesgos de un proyecto 
+3.1.1 Análisis cualitativo de los riesgos 
+3.1.2 Análisis cuantitativo de los riesgos 
+3.1.3 Planes de contingencia 
+3.1.4 
+Monitoreo y control de riesgos 
+3.2 Sistema de mejora continua 
+3.2.1 Kaizen 
+3.2.2 Metodología Gemba 
+3.2.3 Just In Time
+"
+IA/redesNeuronalesAprendizajeProfundo_IIA2020.pdf,"1
+  1
+  1
+1.1 Modelos de red neuronal 
+1.1.1 Modelo biológico 
+1.1.2 Modelo artificial 
+.2 Aplicaciones generales de las redes neurales 
+1.2.1 Clasificación 
+1.2.2 Asociación y agrupación 
+1.2.3 Optimización 
+.3 Desempeño de una red neuronal artificial 
+1.3.1 Habilidad de aproximación 
+1.3.2 Tiempo de aprendizaje 
+1.3.3 Complejidad de la red 
+.4 Modelo McCulloch-Pitts 
+1.4.1 Arquitectura 
+1.4.2 Aplicaciones
+2
+  2
+  2
+  2
+2.1 Arquitectura 
+.2 Regla de aprendizaje 
+.3 Simple 
+.4 Multicapa 
+.5 Aplicaciones
+3
+  3
+  3
+  3
+3.1 Modelo de propagación hacía atrás 
+3.1.1 Arquitectura 
+.2 Regla de aprendizaje 
+3.2.1 Fundamento teórico 
+3.2.2 Generalización 
+3.2.3 Complejidad 
+.3 Funciones de base radial 
+3.3.1 Arquitectura 
+3.3.2 Regla de aprendizaje 
+3.3.3 Aplicaciones 
+.4 Recurrentes 
+3.4.1 Memoria de Hopfield 
+3.4.2 Perceptrón multicapa recurrente 
+3.4.3 Recurrente con propagación hacía atrás 
+.5 Aplicaciones
+4
+  4
+4.1 Teoría de la resonancia adaptativa (ART) 
+4.1.1 El modelo ART discreto 
+4.1.2 El modelo ART continuo 
+4.1.3 El modelo ART difuso 
+.2 Mapas auto-organizativos de Kohonen 
+4.2.1 Regla de aprendizaje 
+4.2.2 Modelo en una dimensión 
+4.2.3 Modelo en dos dimensiones 
+.3 Aplicaciones
+5
+  5
+  5
+  5
+5.1 Redes convolucionales 
+5.1.1 Mecanismo de aprendizaje 
+.2 Métodos de regularización 
+.3 Autoencoders 
+.4 Recurrentes 
+.5 Recursivas
+"
+IA/tecnologiasDesarrolloAplicacionesWeb_IIA2020.pdf,"1
+  1
+  1
+  1
+1.1  Contextualización al desarrollo web  
+ 
+1.2  HTML (Lenguaje de marcado de hipertexto) 
+.3  Java Script  
+.4  Modelos de desarrollo 
+1.4.1 Modelos en 2 capas 
+1.4.2 Modelos en 3 capas 
+1.4.3 Modelos basados en servicios 
+.5  Arquitecturas de desarrollo web 
+1.5.1 Arquitecturas monolíticas 
+1.5.2 Arquitecturas SOAP (Protocolo Simple de Acceso a 
+Objetos) 
+1.5.3  Arquitecturas  REST 
+(Transferencia 
+de 
+Estado 
+Representacional) 
+.6  Buenas prácticas en el desarrollo web 
+1.6.1 Control de versiones 
+1.6.2 Patrones de diseño comúnmente usados 
+1.6.3 Criterios de diseño 
+1.6.4 Criterios de seguridad 
+1.6.5 Criterios de usabilidad
+2.1. 
+Uso de ORM (Mapeo Objeto-Relacional) 
+2.2. 
+Frameworks de desarrollo web 
+2.2.1. Frameworks web del lado del servidor 
+2.2.2. Características de un framework del lado del servidor 
+2.2.3. Elección de un framework web del lado del servidor 
+2.2.4.  Utilización de frameworks 
+2.3. 
+Exposición de Servicios 
+2.4. 
+Mensajes HTTPç 
+2.5. 
+Buenas prácticas 
+2.5.1. Blindado de Servicios. 
+2.5.2.  Herramientas para el desarrollo del lado del servidor. 
+2.5.3. Documentación de servicios. 
+2.5.4. Generación de componentes 
+2.5.5.  Generalización y optimización de código
+3.1. 
+Diseño de interfaces gráficas  
+3.1.1. HTML Y CSS (Hoja de estilos en cascada) 
+3.1.2. Java Script 
+3.1.3. Manejo del DOM (Modelo de Objetos del Documento) 
+3.2. 
+Frameworks de desarrollo del lado cliente 
+3.2.1. Características de un framework del lado del cliente 
+3.2.2.  Elección de un framework web del lado del cliente 
+3.2.3. Utilización de frameworks 
+3.3. 
+Consumo de servicios 
+3.4. 
+ Buenas prácticas 
+3.4.1. Responsividad 
+3.4.2.  Compatibilidad 
+3.4.3.  Validación de campos 
+3.4.4.  Manejo de recursos 
+3.4.5.  Generación de componentes 
+3.4.6.  Generalización y optimización de código
+4.1 Tipos de servidores 
+4.2 Montado de servicios 
+4.3 Configuración de servicios 
+4.4 Manejo de contenedores 
+4.5 Automatización de servidores 
+4.6 Liberación de servicios
+"
+IA/comunicacionOralEscrita_IIA2020.pdf,"1.1  Comunicación asertiva 
+1.1.1 Niveles de comunicación 
+1.1.2 Contexto de comunicación 
+1.1.3 Barreras de la comunicación 
+1.1.4 Asertividad y manejo de conflicto 
+ 
+1.2 Naturaleza social de la comunicación  
+1.2.1 Relaciones humanas y comunicación 
+1.2.2 Competencia comunicativa
+1
+  1
+1.1 Comunicación oral 
+1.1.1 Características, elementos y cualidades de 
+la comunicación oral 
+.2 Tipos de discurso oral 
+.3 Planeación y producción del discurso público 
+1.3.1 Estrategias y técnicas para la 
+presentación oral  
+1.3.2 Presentación oral del discurso
+2
+  2
+  2
+  2
+2.1 Comunicación escrita 
+2.1.1 Características, elementos y cualidades de la 
+comunicación escrita 
+.2 Normatividad de la lengua escrita 
+2.2.1 Vicios del lenguaje 
+.3 El proceso de escritura 
+2.3.1 Elementos de la redacción 
+.4 Tipos de texto 
+2.4.1 Estructuras y esquemas discursivos: 
+argumentativo, descriptivo, narrativo y expositivo 
+2.4.2 Redacción de diversos tipos de texto 
+.5 La escritura académica 
+2.5.1 Composición de textos académicos y la escritura 
+técnico-científica  
+2.5.2 Aparato crítico
+4.1 Comunicación en el siglo XXI  
+4.1.1 
+La 
+comunicación 
+como 
+manifestación 
+sociocultural 
+  
+4.2 Las Tecnologías de la Información y Comunicación 
+y sus diversos usos  
+4.2.1  Cambios 
+de 
+hábitos 
+y 
+prácticas 
+en 
+la 
+comunicación 
+4.2.2  El  acceso  y  tratamiento  de  la  información  por 
+medio de las TIC 
+4.2.3 Potencial y riesgos de las TIC
+"
+IA/aprendizajeMaquina_IIA2020.pdf,"1.1.  Tareas de una máquina de aprendizaje 
+1.1.1. Aprendizaje, aprendizaje maquina e Inteligencia 
+artificial 
+1.1.2. Descriptivas: Agrupación (clustering), asociación 
+de reglas, análisis de correlación 
+1.1.3. Predictivas: 
+Clasificación, 
+regresión, 
+optimización 
+1.2.  Teoría del aprendizaje computacional 
+1.2.1. 
+ El problema de la dimensionalidad 
+1.2.2. 
+Linealidad vs No linealidad 
+1.2.3.  Occam’s Razor 
+1.2.4. 
+Teorema del “No free lunch” 
+1.3.  Teoría Estadística del Aprendizaje 
+1.3.1. 
+Sesgo y varianza 
+1.3.2. 
+Significancia estadística 
+1.4.  Modos de aprendizaje 
+1.4.1. 
+Estático o en lote 
+1.4.2. 
+Dinámico o en línea 
+1.5.  Evaluación del desempeño 
+1.5.1. Prueba de hipótesis simple 
+1.5.2. Prueba de hipótesis múltiple
+2.1. Agrupación 
+2.1.1. Secuencial 
+2.1.2. Jerárquica 
+2.1.3. Basada en una función de optimización 
+2.2. Aprendizaje analítico 
+2.2.1. Basado en inducción 
+2.2.2. Análisis de componentes principales 
+2.3. Mapas auto organizados 
+2.4. Asociación de reglas 
+2.5. Análisis de correlación
+3.1. Clasificadores 
+3.1.1. Principios matemáticos 
+3.1.2. Bayesianos 
+3.1.3. Esperanza de maximización 
+3.2. Regresión 
+3.2.1. Lineal 
+3.2.2. No lineal 
+3.3. Máquinas de soporte vectorial 
+3.3.1. Conceptos 
+3.3.2. Algoritmos 
+3.3.3. Kernel no lineal 
+3.4. Algoritmos basados en instancias 
+3.5. Métodos de ensamble 
+3.5.1. Algoritmo 
+3.5.2. Boosting y Bagging 
+3.5.3. Bosques aleatorios
+4.1. Estacionalidad 
+4.2. Modelos autoregresivos y de promedio móvil 
+4.2.1. Proceso AR 
+4.2.2. Proceso PM 
+4.3. Modelos Ocultos de Markov
+5.1. Programación dinámica 
+5.1.1. Ecuación fundamental 
+5.1.2. Tipos de problemas de la programación dinámica 
+5.2. Aprendizaje por refuerzo 
+5.2.1. Características 
+5.2.2. Marco de trabajo 
+5.2.3. Exploración y explotación 
+5.3. Algoritmos para aprendizaje por refuerzo 
+5.3.1. Algoritmo Q 
+5.3.2. Algoritmo SARSA 
+5.3.3 Recompensas y acciones no-deterministas
+"
+IA/visionArtificial_IIA2020.pdf,"1
+  1
+1.1  Sistema visual humano 
+ 
+1.2 La naturaleza de la visión 
+  1.2.1 El proceso de reconocimiento 
+  1.2.2 Ubicación de objetos 
+  1.2.3 Análisis de escena 
+  1.2.4 Visión como gráficos inversos 
+.3 Niveles de visión artificial 
+  1.3.1 visión de bajo nivel 
+  1.3.2 Visión de nivel intermedio 
+  1.3.3 Visión de alto nivel 
+.4 Aplicaciones
+2
+  2
+  2
+2.1 Fundamentos 
+  2.1.2 Detección de puntos, líneas y bordes 
+  2.1.3 Umbralizado 
+.2 Análisis de forma en imágenes binarias 
+  2.2.1 Funciones de distancia   
+  2.2.2 Esqueletos y adelgazamiento 
+.3 Análisis de perímetro 
+  2.3.1 Seguimiento de perímetro 
+  2.3.2 Perfil centroidal 
+  2.3.3 Códigos de cadena 
+.4 Segmentación 
+  2.4.1 Conexión entre pixeles imágenes 
+  2.4.2 Etiquetado y conteo  
+  2.4.3 Filtrado de tamaño 
+  2.4.4 Segmentación por crecimiento de regiones  
+  2.4.5 Segmentación por separación-combinación de 
+regiones 
+  2.4.6 Segmentación de regiones usando 
+agrupamiento y súper pixeles
+3
+  3
+  3
+  3
+  3
+3.1 Sistemas de reconocimiento de imágenes 
+  3.1.1 Características descriptoras de imágenes 
+  3.1.2  Flujo  de  datos  en  un  sistema  de  análisis  de 
+imágenes 
+.2 Características descriptoras de perímetro 
+    3.2.1 Descriptores básicos 
+    3.2.2 Números de forma 
+    3.2.3 Descriptores de fourier 
+    3.2.4 Momentos estadísticos  
+.3 Descriptores de región 
+  3.3.1 Descriptores básicos 
+  3.3.2 Descriptores topológicos 
+  3.3.3 Descriptores de textura   
+.4 Componentes principales 
+.5 Otras medidas para reconocimiento de formas 
+.6 Clasificación 
+   3.6.1 Patrones y clases 
+   3.6.2  Patrón vectorial 
+   3.6.3  Patrón estructural 
+   3.6.4 Clasificación
+4.1 La percepción de profundidad. 
+  4.1.1 Visión estéreo y 2.5 dimensiones. 
+4.2 Múltiples dimensiones. 
+  4.2.1 Tres dimensiones. 
+  4.2.2 Más de tres dimensiones. 
+4.3 Técnicas de percepción de profundidad. 
+  4.3.1 Nubes de puntos. 
+  4.3.2 Luz estructurada. 
+4.4 Indicadores 3D en imágenes 2D. 
+  4.4.1 Perspectiva. 
+  4.4.2 Marcadores. 
+4.5. Aplicaciones. 
+  4.5.1 Reconstrucción de objetos 3D usando vistas 2D 
+  4.5.2 Render de Volúmen. 
+  4.5.3 Voxels.
+5
+  5
+  5
+5.1 Fundamentos. 
+  5.1.1 Cambios a través del tiempo. 
+  5.1.2 Detección de cambios. 
+.2 Herramientas. 
+  5.2.1 Geometría afín. 
+  5.2.2 Estructura afín. 
+  5.2.3 Triangulación. 
+.3 Flujo óptico. 
+  5.3.1 Vectores de Movimiento. 
+  5.3.2 Rutas de movimiento. 
+.4 Seguimiento de movimiento. 
+  5.4.1 Trayectorias. 
+  5.4.2 Restricciones.
+"
+IA/procesamientoSenales_IIA2020.pdf,"1
+  1
+1.1  Introducción al procesamiento de señales 
+1.1.1 Procesamiento digital frente al analógico  
+1.1.2 Elementos de un sistema PDS 
+1.1.3 Aplicaciones  
+.2 Definición de Señales en tiempo Discreto 
+1.2.1 Secuencias unidimensionales y multidimensionales 
+1.2.2 Secuencias pares e impares 
+1.2.3 Secuencias periódicas y aperiódicas 
+1.2.4 Secuencias determinísticas y aleatorias 
+1.2.5 Secuencias de energía y de potencia 
+1.2.6 Secuencias reales y complejas 
+1.2.7 Secuencias sinusoidales 
+1.2.8 Secuencias exponencial real, impulso y escalón. 
+1.2.9 Secuencias aleatorias 
+.3 Sistemas Discretos 
+1.3.1 Definición y clasificación 
+1.3.2 Linealidad 
+1.3.3 Invariancia 
+1.3.4 Estabilidad 
+1.3.5 Causalidad 
+1.3.6 Clasificación de sistema LTI: filtros FIR e IIR 
+1.3.7 Ecuaciones en diferencia 
+1.3.8 Operaciones con señales discretas 
+1.3.9 Convolución 
+1.3.10 Correlación 
+1.3.11 Autocorrelación
+2
+  2
+2.1 Transformada Discreta de Fourier  
+2.1.1 DFT y periodicidad en tiempo discreto 
+2.1.2 IDFT 
+2.1.3 Propiedades 
+.2 Transformada Rápida de Fourier 
+2.2.1 Algoritmo por diezmación en tiempo. 
+2.2.2 Aplicaciones de la transformada: convolución lineal y 
+correlación lineal. 
+.3 Ventaneo y respuesta en frecuencia 
+2.3.1 Contenido espurio en el espectro y uso de ventanas 
+2.3.2 Ancho de Banda y Resolución del Análisis Espectral
+3
+  3
+  3
+  3
+3.1 Definición y Región de Convergencia de la transformada 
+Z. 
+.2 Propiedades 
+.3 Función de transferencia, polos y ceros. 
+.4 Transformada Z inversa 
+3.4.1 Método de expansión en serie de potencias 
+3.4.2 Método de expansión en fracciones parciales 
+3.4.3 Método de Integral de Inversión  
+.5 Causalidad y estabilidad
+4
+  4
+4.1 Diseño de filtros FIR 
+4.1.1 Estructuras de filtros digitales FIR 
+4.1.2 Método de la Ventana 
+4.1.3 Método óptimo 
+.2 Diseño de filtros IIR 
+4.2.1 Estructura de filtros digitales IIR 
+4.2.3 Diseño de filtros digitales IIR por transformada bilineal. 
+4.2.3 Método óptimo 
+.3 Filtros adaptativos 
+4.3.1 Filtro FIR óptimo de Wiener 
+4.3.2 Filtros adaptable LMS 
+4.3.3 Aplicaciones
+5
+  5
+  5
+  5
+5.1 Sistema multi tasa 
+.2 Bancos de filtros 
+.3 Teoría de Wavelets 
+5.3.1 Wavelet continua y discreta 
+5.3.2 Wavelet madre y funciones wavelet 
+.4 Transformada wavelet 
+.5 Aplicaciones
+"
+IA/fundamentosProgramacion_IIA2020.pdf,"1.1. Fundamentos de programación 
+1.1.1 Arquitectura de Von Neumann 
+1.1.2 Clasificaciones de los lenguajes de programación  
+1.1.3 Herramientas de programación 
+1.2 Programación en el lenguaje C  
+1.2.1 Lenguaje en C  
+1.2.2 Tipos de datos primitivos y operadores aritméticos 
+1.2.3 Manejo de la entrada y salida estándar  
+1.2.4 Sentencias de control  
+1.2.5 Arreglos  
+1.3 Programación y diseño estructurado  
+1.3.1 Teorema de la programación estructurada  
+1.3.2 Características de un programa estructurado 
+1.3.3 Diseño estructurado - Modularidad
+2.1 Apuntadores 
+2.1.1 Apuntadores y direcciones de memoria 
+2.1.2 Operadores de dirección e indirección 
+2.1.3 Aritmética de apuntadores 
+2.1.4 Manejo de arreglos con apuntadores 
+2.2 Datos definidos por el usuario 
+2.2.1 Declaración de una estructura 
+2.2.2 Instancia de estructura y apuntador a estructura 
+2.2.3 Operadores de estructura 
+2.2.4 Arreglos de estructuras 
+2.2.5 Estructuras anidadas 
+2.3 Funciones 
+2.3.1 Funciones 
+2.3.2 Argumentos y parámetros 
+2.3.3 Paso por valor y paso por referencia 
+2.3.4 Retorno de la función 
+2.3.5 Bibliotecas creadas por el usuario 
+2.4 Funciones recursivas 
+2.4.1 Recursión 
+2.4.2 Pasos base y pasos recursivos 
+2.4.3 Tipos de recursión  
+2.4.4 Recursión versus iteración
+3.1 Arquitectura de Memoria 
+3.1.1 Harvard 
+3.1.2 Von Neumann 
+3.1.3 Memoria de un proceso en el modelo de memoria 
+única  
+3.2 Memoria dinámica 
+3.2.1 Reservación dinámica de memoria 
+3.2.2 Acceso y direccionamiento a arreglos dinámicos 
+3.2.3 Liberación de memoria 
+3.2.4 Memoria estática vs. memoria dinámica 
+3.3 Archivos 
+3.3.1 Archivos de acceso secuencial y de acceso directo 
+3.3.2 Creación y/o apertura de archivos 
+3.3.3 Lectura/escritura de archivos en modo texto 
+3.3.4 Lectura/escritura de archivos en modo binario 
+3.3.5 Cierre de archivos 
+3.3.6 Procesamiento y redireccionamiento de flujos de 
+entrada y salida
+"
+IA/fundamentosEconomicos_IIA2020.pdf,"1
+  1
+  1
+1.1 Economía 
+1.1.1 La ciencia económica y su importancia 
+1.1.2 Economía positiva y economía normativa 
+1.1.3. Campo de estudio 
+.2 Sistemas y modelos económicos 
+1.2.1 Sistemas económicos 
+1.2.2 Modelos económicos 
+.3. Campo de la economía 
+1.3.1 Microeconomía y Macroeconomía 
+1.3.3 
+Los 
+actores 
+económicos: 
+familia, 
+empresa, 
+gobierno y sector externo 
+.4 El sistema de mercado y su funcionamiento 
+1.4.1. Competencia perfecta 
+1.4.2. 
+Competencia 
+imperfecta: 
+Competencia 
+monopolística, Oligopolio, Monopolio
+2
+  2
+2.1 Elementos de Microeconomía 
+.2 El comportamiento del consumidor  
+2.2.1. Gustos y preferencias de consumo 
+2.2.2 Utilidad y preferencia (superficie de utilidad) 
+2.2.3 Curvas de indiferencia y sus características 
+2.2.4.  Posibilidades 
+de 
+consumo. 
+La 
+restricción 
+presupuestal 
+2.2.5. Utilidad Total y Utilidad Marginal  
+2.2.6.  Maximización  de  la  utilidad  y  el  equilibrio  de 
+compra del consumidor 
+.3. El comportamiento del productor  
+2.3.1. Importancia de la empresa en el ciclo económico 
+2.3.2. La empresa y su problema económico 
+2.2.3. Teoría de Producción de corto y de largo plazo 
+2.3.3. Teoría de Costos de corto y de largo plazo 
+2.3.4. El equilibrio de producción de bienes y servicios
+3
+  3
+  3
+3.1 Teoría del mercado 
+.2 Demanda 
+3.2.1 Factores de la demanda y Ley de la demanda,  
+3.2.2 Elasticidades precio, ingreso y cruzada  
+.3 Oferta 
+3.3.1 Factores de la oferta y ley de la oferta 
+3.3.2 Elasticidades precio y cruzada  
+.4 Equilibrio del mercado 
+3.4.1Precio como regulador y equilibrio del mercado
+4
+  4
+  4
+  4
+4.1 Elementos de macroeconomía 
+.2 Variables macroeconómicas en la toma de 
+decisiones. 
+4.2.1 Ciclo económico, PIB, crecimiento económico 
+desarrollo económico, empleo,  
+4.2.2 Tipo de cambio 
+4.2.4 La Inflación 
+.3 Política económica 
+4.3.1 Política Fiscal 
+4.3.2 Política Monetaria 
+4.3.3 Política Cambiaria 
+4.3.4 Medidas gubernamentales anticrisis 
+.4 Riesgo país 
+4.4.1 Calificadoras  
+4.4.2 Indicadores de referencia 
+.5 Sistema financiero mexicano 
+4.5.1 Bolsa Mexicana de Valores 
+4.5.2 Banco de México
+5
+  5
+5.1 Sistema Financiero Internacional 
+5.1.2 Fondo Monetario Internacional 
+5.1.3 OCDE 
+5.1.4 Banco Mundial 
+5.1.5 Banco Interamericano 
+5.1.6 Banco De Desarrollo 
+.2 Importancia del comercio internacional 
+5.2.1 El comercio internacional y su impacto 
+5.2.2 e-commerce y sus reglas 
+.3 Economía circular 
+5.3.1 Tecnología verde: cloud computing: 
+infraestructura, servicios y plataformas. 
+ 
+5.4 El Ingeniero en Inteligencia Artificial y la 
+sustentabilidad 
+5.4.1 Organismos internacionales 
+5.4.2 Organismos nacionales
+"
+IA/calculoMultivariable_IIA2020.pdf,"1.1. 
+Sistemas de coordenadas 
+1.2. 
+Vectores 
+1.2.1.  Producto cruz 
+1.2.2.  Producto punto 
+1.3. 
+Funciones vectoriales 
+1.4. 
+Curvas en el espacio
+2.1. 
+Funciones multivariables 
+2.2. 
+Límites y continuidad 
+2.3. 
+Derivadas parciales 
+2.3.1.  Planos tangentes  
+2.3.2.  Regla de la cadena 
+2.3.3.  Valores máximos y mínimos 
+2.3.4.  Puntos silla 
+2.4. 
+Multiplicadores de Lagrange
+3.1. 
+Integrales dobles 
+3.1.1.  Integrales sobre rectángulos 
+3.1.2.  Integrales sobre regiones generales 
+3.2. 
+Integrales iteradas 
+3.3. 
+Integrales triples 
+3.4. 
+Cambio de variable en integrales múltiples
+4
+ 
+4.1. 
+Teorema de Green 
+ 
+4.2. 
+Teorema de Stokes 
+ 
+4.3. 
+Teorema de Gauss 
+.4. 
+Aplicaciones
+"
+IA/analisisDisenoSistemas_IIA2020.pdf,"1.1  Metodologías de desarrollo 
+1.1.1 
+Características 
+de 
+las 
+metodologías 
+de 
+desarrollo 
+1.1.2 
+Desarrollos Tradicionales 
+1.1.3 
+Metodologías Ágiles 
+1.1.4 
+Programación extrema XP  
+1.1.5 
+Marco de trabajo Scrum  
+ 
+1.2  Modelado de sistemas 
+1.2.1 
+Importancia de modelar 
+1.2.2 
+Principio del modelado 
+1.2.3 
+Evolución en el modelado de sistemas 
+ 
+1.3   Lenguaje  de  modelado  unificado 
+(UML) 
+y  el 
+modelado de Sistemas 
+1.3.1 
+Orígenes 
+1.3.2 
+Notación 
+1.3.3 
+Versiones
+2.1. 
+Requerimientos 
+2.1.1. 
+Toma de Requerimientos 
+2.1.2. 
+Historias de Usuario 
+ 
+2.2. 
+Herramientas Case 
+ 
+2.3. 
+Modelado de Requerimientos 
+2.3.1. 
+Elementos de los Casos de Uso 
+2.3.2. 
+Especificación de Casos de uso 
+ 
+2.4. 
+Vistas de procesos 
+2.4.1. 
+Modelado de Procesos 
+2.4.2. 
+Diagramas de procesos 
+2.4.3. 
+Diagrama de Actividades
+3.1.  Vista Lógica 
+ 
+3.2.  Diagrama de Clases 
+ 
+3.3.  Diseño del Modelo de Datos 
+ 
+3.4.  Diagrama de Despliegue 
+ 
+3.5.  Diagrama de Paquetes 
+ 
+3.6.  Diagrama de Componentes
+"
+IA/probabilidadEstadistica_IIA2020.pdf,"1.1.  Poblaciones, 
+fuentes 
+de  muestras 
+de 
+datos 
+y 
+variabilidad 
+ 
+1.2.  Descriptores 
+muestrales 
+de 
+centralización 
+y 
+dispersión 
+1.2.1. Media y mediana muestrales 
+1.2.2. Unimodalidad y multimodalidad 
+1.2.3. Varianza muestral y desviación estándar 
+1.2.4. Intercuartiles 
+ 
+1.3.   Histogramas, gráficas de caja y bigote 
+1.3.1. Histogramas y elección de sus intervalos 
+1.3.2. Gráficas de caja 
+1.3.3. Gráficas ""bigote"" 
+ 
+1.4.   Herramientas 
+gráficas 
+para 
+observaciones 
+multivariadas 
+1.4.1. Representación 
+de 
+rasgos 
+esenciales 
+y 
+proyecciones  
+1.4.2. Representación de espacios de estados y sus 
+proyecciones 
+ 
+1.5.   Covarianza y matriz de covarianza muestral 
+1.5.1. Covarianza entre las respectivas muestras de dos 
+variables aleatorias 
+1.5.2.  Matriz de covarianza y sus propiedades
+2.1. 
+Medidas de probabilidad 
+2.1.1. 
+Eventos independientes 
+2.1.2.  Medidas discretas 
+2.1.3.  Medidas de probabilidad condicional 
+2.1.4. 
+Teorema de Bayes 
+ 
+2.2. 
+Variables aleatorias 
+2.2.1. 
+Variables aleatorias 
+2.2.2. 
+Razones de su estudio 
+ 
+2.3. 
+Funciones de distribución de probabilidad 
+2.3.1.  Propiedades  de  funciones  de  distribución  de 
+probabilidad univariadas y conjuntas. 
+2.3.2. 
+Funciones 
+de 
+densidad 
+de 
+probabilidad. 
+Mediana  y  moda.  Densidades  discretas  de 
+probabilidad 
+2.3.3. 
+Funciones  de  distribución  de  probabilidad 
+multivariadas, gaussiana y otras 
+ 
+2.4. 
+Clasificación  de  una 
+función  de  distribución  de 
+probabilidad 
+por 
+las 
+propiedades 
+del 
+proceso 
+modelado 
+2.4.1. Distribución geométrica  
+2.4.2. Distribución exponencial. 
+2.4.3. Distribución de Poisson 
+2.4.4. Distribución binomial  
+2.4.5. Distribución binomial negativa
+3.1.  Estimadores y estimación puntual 
+3.1.1. Estimadores 
+puntuales; 
+sesgo, 
+error 
+cuadrático medio, propiedades asintóticas 
+3.1.2. Estimadores 
+basados 
+en 
+momentos; 
+propiedades 
+3.1.3. Estimadores 
+basados 
+en 
+máxima 
+verosimilitud; propiedades 
+ 
+3.2.  Estimación por intervalos 
+3.2.1. Noción  de  intervalo  de  confianza  en  función 
+de la distribución del estimador 
+3.2.2. Obtención  de 
+intervalos  de  confianza  para 
+diferentes niveles de confianza 
+ 
+3.3.  Pruebas de hipótesis 
+3.3.1. Requisitos e inferencia en base a una prueba 
+de hipótesis 
+3.3.2. Intervalos 
+de 
+aceptación 
+y 
+rechazo; 
+su 
+posicionamiento y evaluación 
+3.3.3. Prueba de hipótesis simple; ejemplos 
+3.3.4. Prueba de contraste; ejemplos 
+ 
+3.4.  Elementos de inferencia estadística 
+3.4.1. Teorema de Bayes en el contexto estadístico 
+3.4.2. Distribuciones  a  priori  y  a  posteriori  con 
+respecto a una muestra; ejemplos analíticos 
+3.4.3. Evaluación 
+numérica 
+de 
+distribuciones 
+a 
+posteriori
+4.1.  Regresión lineal 
+4.1.1. Método de los mínimos cuadrados 
+4.1.2. Intervalos  de  confianza  de 
+los  parámetros 
+estimados por regresión lineal 
+4.1.3. Regresión lineal multivariable 
+ 
+4.2.  Regresión logística 
+4.2.1. Uso de la regresión logística  
+4.2.2. Intervalos 
+de 
+confianza 
+en 
+la 
+regresión 
+logística 
+ 
+4.3.  Soluciones  numéricas  del  método  de  mínimos 
+cuadrados para regresión no lineal 
+ 
+4.4.  Predicción y clasificación estadística
+5.1.  Inferencia causal 
+V.1.1 
+Objetivo 
+V.1.2 
+Modelos probabilísticos 
+V.1.3 
+Causalidad 
+ 
+5.2.  Modelos causales 
+5.1.1. Razones para estudiar causalidad 
+5.1.2. Paradoja de Simpson 
+5.1.3. Modelos causales estructurales 
+ 
+5.2.  Modelos gráficos en la estadística inferencial 
+5.2.1. Conectando modelos a datos 
+5.2.2. Cadenas y tenedores 
+ 
+5.3.  Efectos 
+de 
+intervenciones 
+en 
+la 
+estadística 
+inferencial 
+5.3.1. Intervenciones 
+5.3.2. Criterios backdoor y frontdoor
+"
+IA/fundamentosInteligenciaArtificial_IIA2020.pdf,"1
+  1
+1.1 
+Inteligencia 
+1.1.1 Tipos de Inteligencia 
+.2 
+Inteligencia Artificial 
+1.2.1 Historia 
+1.2.2 Problemas 
+1.2.3 Áreas y aplicaciones 
+.3 
+Agentes o sistemas inteligentes 
+1.3.1 Estructura 
+1.3.2 Medio ambiente de trabajo 
+1.3.3 Clasificación 
+1.3.4 Aplicaciones
+2.1. Problemas y espacios de búsqueda 
+2.1.1. Caracterización de problemas 
+2.1.2. Espacios de búsqueda 
+ 
+2.2. Algoritmos de búsqueda no informados 
+2.2.1. Búsqueda en anchura 
+2.2.2. Búsqueda en profundidad 
+ 
+2.3. Algoritmos de búsqueda informados 
+2.3.1. Heurística 
+2.3.2. Algoritmo  de  escalada  simple  y  Primero  el 
+mejor 
+2.3.3. Algoritmo A* 
+ 
+2.4. Búsqueda adversaria 
+2.4.1. Algoritmo MinMax 
+2.4.2. Algoritmo Poda Alpha Beta 
+ 
+2.5. Comparación de algoritmos búsqueda
+3
+  3
+  3
+  3
+3.1. Conocimiento 
+3.1.1. 
+Características y taxonomía  
+3.1.2.  Modelos y sus características 
+.2. Lógica de primer orden 
+3.2.1. 
+Razonamiento en la lógica proposicional 
+3.2.2. 
+Lenguaje de predicados 
+3.2.3. 
+Formas normales 
+.3. Razonamiento basado en reglas 
+3.3.1. 
+Reglas de inferencia 
+3.3.2. 
+Encadenamiento hacia adelante y hacia atrás 
+3.3.3. 
+Ontologías 
+.4. Modelos de llenado de ranuras 
+3.4.1. 
+Redes semánticas y marcos 
+3.4.2. 
+Dependencia conceptual y guiones 
+.5. Modelos de conocimiento incierto e incompleto 
+3.5.1. 
+Factores de certidumbre 
+3.5.2. 
+Lógica difusa
+4.1. 
+Aprendizaje 
+4.1.1. Modelo 
+de 
+aprendizaje 
+supervisado 
+y 
+su 
+construcción 
+4.1.2. Modelo  de  aprendizaje  no  supervisado  y  su 
+construcción 
+ 
+4.2. 
+Características de un conjunto de datos 
+4.2.1. Tipos de características 
+4.2.2. Problemas en los conjuntos de datos: Tamaño de 
+la  muestra 
+pequeño, 
+Imbalance 
+de 
+clases, 
+Complejidad,  Cambio  del  conjunto  de  datos, 
+Datos ruidosos, Valores atípicos, Costo 
+4.2.3. Selección 
+de 
+características: 
+relevancia, 
+redundancia y métodos de selección 
+ 
+4.3. 
+Algoritmos basados en distancia 
+4.3.1. Clasificación usando KNN y Clasificador mínima 
+distancia 
+4.3.2. Agrupamiento por K-Medias 
+ 
+4.4. 
+Árboles de decisión 
+4.4.1. Representación 
+4.4.2. Algoritmos id3 y C4.5 
+ 
+4.5.  Métodos de validación 
+4.5.1. Entrenamiento y prueba 
+4.5.2. Validación  cruzada:  Dejar  uno  fuera,  K  grupos, 
+bootstrap 
+4.5.3. Matriz de confusión
+"
+IA/algoritmosEstructurasDatos_IIA2020.pdf,"1
+  1
+  1
+  1
+.1 Algoritmia 
+ 
+1.1.1 Características de los algoritmos y tipos 
+1.1.2 Representación de algoritmos en pseudocódigo 
+1.1.3 Abstracción y tipo de dato abstracto 
+1.1.4 Orden de complejidad 
+ de un algoritmo 
+.2 El problema del ordenamiento 
+1.2.1 Ordenamiento por inserción  
+1.2.2 Ordenamiento por selección 
+1.2.3 Ordenamiento de burbuja 
+1.2.4 Ordenamiento por mezcla 
+1.2.5 Comparación de órdenes de complejidad 
+.3 El problema de la búsqueda 
+1.3.1 Búsqueda secuencial 
+1.3.2 Búsqueda binaria 
+1.3.3 Búsqueda indexada 
+1.2.4 Comparación de órdenes de complejidad 
+.4 Exploración exhaustiva y vuelta atrás 
+1.4.1 Exploración exhaustiva 
+1.4.2 Programación por vuelta atrás 
+1.4.3 Nociones de complejidad de la exploración 
+exhaustiva y vuelta atrás
+2
+  2
+  2
+  2
+.1 Pila 
+2.1.1 Especificación genérica  
+2.1.2 Implementación estática 
+2.1.3 Implementación dinámica 
+2.1.4 Nociones de complejidad de las operaciones 
+2.1.5 Aplicaciones  
+.2 Cola 
+2.2.1 Especificación genérica  
+2.2.2 Implementación estática 
+2.2.3 Implementación dinámica 
+2.2.4 Colas de prioridad 
+2.2.5 Nociones de complejidad de las operaciones 
+2.2.6 Aplicaciones  
+.3 Listas 
+2.2.1 Especificación genérica  
+2.3.2 Listas simplemente enlazadas 
+2.3.3 Listas doblemente enlazadas 
+2.3.4 Listas circulares 
+2.3.5 Arreglos y vectores vs listas 
+2.3.6 Nociones de complejidad de las operaciones 
+2.3.7 Implementaciones y aplicaciones 
+.4 Tablas hash 
+2.4.1 Especificación genérica  
+2.4.2 Función hash 
+2.4.3 Resolución de colisiones 
+2.4.4 Tablas hash cerradas  
+2.4.5 Tablas hash abiertas 
+2.4.6 Nociones de complejidad de las operaciones 
+2.4.7 Implementaciones y aplicaciones
+3
+  3
+.1 Árboles binarios 
+3.1.1 Transformación de árboles generales a binarios 
+3.1.2 Recorridos en un árbol binario 
+3.1.3 Árbol binario de búsqueda 
+3.1.4 Árbol balanceado rojo-negro 
+3.1.5 Montículo  
+3.1.6 Implementaciones y aplicaciones 
+3.1.7 Nociones de complejidad de las 
+implementaciones 
+3.1.8 Otros tipos de árboles  
+.2 Grafos  
+3.2.1 Representaciones matriciales y basadas en listas  
+3.2.2 Búsqueda en amplitud  
+3.2.3 Búsqueda en profundidad  
+3.2.4 Distancia más corta  
+3.2.5 Implementaciones y aplicaciones 
+3.2.6 Nociones de complejidad de los algoritmos sobre 
+grafos
+"

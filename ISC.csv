@@ -1,0 +1,3272 @@
+ISC/ecuacionesDiferenciales_ISC2020.pdf,"1
+  1
+1.1. 
+Fundamentos básicos 
+1.1.1.  Clasificación de ecuaciones diferenciales según 
+el tipo, el orden y el grado 
+1.1.2.  Linealidad de una ecuación diferencial 
+.2. 
+Solución de una ecuación diferencial 
+1.2.1.  Soluciones explícitas e implícitas 
+.3. 
+Problema de valor inicial  
+1.3.1.  Soluciones generales y particulares 
+ 
+1.4. 
+Teorema de existencia y unicidad
+2.1. Ecuaciones separables 
+2.1.1. Ecuaciones reducibles a separables 
+ 
+2.2. Ecuaciones homogéneas 
+2.2.1. Ecuaciones reducibles a Homogéneas 
+ 
+2.3. Ecuaciones Exactas 
+2.3.1. Teorema de exactitud 
+2.3.2. Ecuación diferencial transformada en Exacta 
+mediante un factor integrante 
+ 
+2.4. Ecuaciones Lineales 
+2.4.1. Aplicaciones de las ecuaciones lineales  
+ 
+2.5. Ecuaciones de Bernoulli
+3
+  3
+  3
+  3
+3.1. Ecuaciones diferenciales lineales homogéneas de 
+orden superior 
+3.1.1. Principio de superposición 
+3.1.2. Criterio para soluciones linealmente 
+independientes 
+3.1.3. Conjunto fundamental de soluciones 
+3.1.4. Reducción de orden 
+.2. Ecuaciones diferenciales lineales no homogéneas 
+de orden superior  
+3.2.1. Solución de la ecuación no homogénea 
+3.2.2. Principio de superposición para ecuaciones 
+diferenciales lineales no homogéneas 
+.3. Ecuaciones diferenciales lineales homogéneas de 
+orden superior con coeficientes constantes 
+.4. Ecuaciones diferenciales lineales no homogéneas 
+de orden superior con coeficientes constantes 
+3.4.1. Método de los coeficientes indeterminados 
+3.4.2. Método de variación de parámetros 
+3.4.3. Ecuación de Euler-Cauchy 
+.5. Aplicaciones de las ecuaciones diferenciales de 
+segundo orden  
+3.5.1. Circuitos eléctricos en serie RCL  
+3.5.2. Sistema masa-resorte
+4
+  4
+  4
+  4
+4.1. 
+Introducción al uso de la Transformada de 
+Laplace en ecuaciones diferenciales lineales 
+4.1.1.  Orden exponencial 
+4.1.2.  Manejo de tablas de la Transformada de 
+Laplace 
+4.1.3. 
+Función Gamma 
+.2. 
+Teoremas de traslación y derivadas de una 
+transformada 
+4.2.1. 
+Primer teorema de traslación 
+4.2.2. 
+Segundo teorema de traslación 
+4.2.3. 
+Teorema de la derivada de una transformada 
+.3. 
+Transformadas de derivadas, integrales y 
+funciones periódicas 
+4.3.1. 
+Transformada de una derivada 
+4.3.2. 
+Teorema de convolución 
+4.3.3. 
+Transformada de una función periódica 
+.4. 
+Transformada inversa 
+4.4.1. 
+Forma inversa del primer teorema de 
+traslación 
+4.4.2. 
+Forma inversa del segundo teorema de 
+traslación 
+4.4.3. 
+Forma inversa del teorema de convolución 
+.5. 
+Aplicaciones de la Transformada de Laplace 
+4.5.1. 
+Solución de problemas de valores iniciales  
+4.5.2. 
+Aplicaciones a circuitos eléctricos en serie 
+4.5.3. 
+La función delta de Dirac
+"
+ISC/algoritmosEstructurasDatos_ISC2020.pdf,"1
+  1
+  1
+  1
+.1 Algoritmia 
+ 
+1.1.1 Características de los algoritmos y tipos 
+1.3.1 Búsqueda secuencial 
+1.3.2 Búsqueda binaria 
+1.3.3 Búsqueda indexada 
+exhaustiva y vuelta atrás 
+ 
+C - 2020
+2
+  2
+  2
+  2
+.1 Pila 
+2.1.1 Especificación genérica  
+2.1.2 Implementación estática 
+2.1.5 Aplicaciones  
+.2 Cola 
+2.2.4 Colas de prioridad 
+2.2.6 Aplicaciones  
+.3 Listas 
+2.3.4 Listas circulares 
+.4 Tablas hash 
+2.4.2 Función hash 
+2.4.5 Tablas hash abiertas 
+C - 2020
+2.4.7 Implementaciones y aplicaciones
+3
+.1 Árboles binarios
+3.1.1 Transformación de árboles generales a binarios 
+3.1.5 Montículo  
+implementaciones 
+3.2 Grafos 
+3.2.1 Representaciones matriciales y basadas en listas  
+3.2.4 Distancia más corta  
+3.2.6 Nociones de complejidad de los algoritmos sobre 
+grafos 
+C - 2020
+"
+ISC/inteligenciaArtificial_ISC2020.pdf,"1
+  1
+  1
+.1  Inteligencia 
+1.1.1 Tipos de inteligencia 
+ 
+1.2 Historia de la Inteligencia Artificial 
+.3  Problemas,  áreas  y  aplicaciones  de  la  inteligencia 
+artificial 
+.4 Agentes inteligentes 
+1.4.1 Estructura 
+1.4.2 Medio ambiente de trabajo 
+1.4.3 Clasificación 
+1.4.4 Aplicaciones
+2
+  2
+  2
+  2
+  2
+.1  Problemas y espacios de búsqueda  
+2.1.1 Caracterización de problemas  
+2.1.2 Espacios de búsqueda 
+.2  Algoritmos de búsqueda no informados  
+2.2.1 Búsqueda en anchura  
+2.2.2 Búsqueda en profundidad  
+.3 Algoritmos de búsqueda informados 
+2.3.1 Heurística 
+2.3.2 Algoritmo de escalada simple y primero el mejor  
+2.3.3 Algoritmo A*  
+.4 Búsqueda adversaria 
+2.4.1 Algoritmo Min Max  
+2.4.2 Algoritmo Poda Alpha Beta  
+.5 Comparación de algoritmos búsqueda
+3
+  3
+  3
+  3
+.1 Conocimiento 
+     3.1.1 Características y taxonomía 
+     3.1.2 Modelos y sus características  
+.2 Lógica de primer orden 
+     3.2.1 Razonamiento en la lógica proposicional  
+     3.2.2 Lenguaje de predicados 
+ 
+3.3 Razonamiento basado en reglas  
+3.3.1 Reglas de inferencia 
+     3.3.2 Encadenamiento hacia adelante y hacia atrás  
+     3.3.3 Ontologías 
+.4. Modelos de llenado de ranuras 
+    3.4.1 Redes semánticas y marcos  
+    3.4.2 Dependencia conceptual y guiones  
+.5 Modelos de conocimiento incierto e incompleto  
+    3.5.1 Factores de certidumbre 
+    3.5.2 Lógica difusa
+4
+  4
+  4
+  4
+.1  Aprendizaje 
+     4.1.1 Aprendizaje supervisado 
+     4.1.2 Aprendizaje no supervisado 
+.2 Características de un conjunto de datos 
+     4.2.1 Tipos de características  
+     4.2.2 Problemas en los conjuntos de datos: tamaño de 
+la muestra, desequilibrio de clases, complejidad, cambio 
+del conjunto de datos, datos ruidosos, valores atípicos y 
+costo 
+    4.2.3 Selección de características: relevancia, 
+redundancia y métodos de selección 
+ 
+4.3 Algoritmos de clasificación  
+     4.3.1 Algoritmos basados en distancia: KNN y 
+clasificador de mínima distancia 
+     4.3.2 Arboles de decisión: id3 y C4.5 
+     4.3.3 Algoritmos estadísticos: Naive Bayes 
+.4. Algoritmos de agrupamiento 
+    4.4.1 Algoritmos basados en distancia: K-Medias y 
+Min-Max  
+    4.4.2 Algoritmos basados en jerarquías  
+.5 Métodos de validación  
+    4.5.1 Métodos de validación de algoritmos de 
+clasificación: Entrenamiento y prueba, validación 
+cruzada y matriz de confusión 
+    4.5.2  Métodos 
+de 
+validación 
+de 
+algoritmos 
+de 
+agrupamiento: Medidas de validación internas y externas
+5.1 Algoritmos genéticos  
+     5.1.1 Trasfondo biológico  
+     5.1.2 Algoritmo genético con representación binaria  
+     5.1.3 Operadores genéticos para 
+representaciones reales y permutaciones  
+      5.1.4 Aplicaciones  
+  
+5.2 Redes neuronales  
+    5.2.1 Modelo biológico y modelo artificial  
+    5.2.2 Modelo de McCulloch-Pitts  
+    5.2.3 Perceptrón simple y multicapa  
+    5.2.4 Propagación hacia atrás  
+    5.2.5 Aplicaciones
+"
+ISC/calculoAplicado_ISC2020.pdf,"1
+  1
+  1
+ 
+1.1 
+Área bajo la curva 
+1.1.1  Sumas de Riemman 
+.2 
+.3 
+1.3.1  Trapecio 
+1.3.2  Simpson 
+.4 
+1.4.1  Área entre curvas 
+C - 2020
+2
+ 
+2.1. 
+Formas indeterminadas 
+2.1.1.  La regla de L’ Hospital  
+2.1.2.  Otras formas indeterminadas 
+.2. 
+Integrales impropias 
+2.2.1.  Con límites de integración infinitos: convergencia 
+y divergencia 
+2.2.2.  Integrando 
+con 
+discontinuidades 
+infinitas: 
+convergencia y divergencia
+3
+  3
+  3
+ 
+3.1. 
+Sucesiones 
+3.1.1.  Propiedades 
+3.1.2.  Convergencia y divergencia 
+.2. 
+3.2.2.  Series 
+.3. 
+3.3.1.  Criterios de convergencia: el criterio de la integral 
+.4. 
+3.4.1.  Criterio de convergencia para series alternantes 
+  
+C - 2020
+4
+ 
+4.1. 
+Series de potencias 
+4.1.1.  Intervalo y radio de convergencia 
+4.1.2.  Derivación e integración de series de potencias 
+.2. 
+Series de Taylor y de McLaurin 
+4.2.1.  Serie de Taylor 
+4.2.2.  Serie de McLaurin 
+4.2.3.  Polinomio de Taylor
+"
+ISC/paradigmasProgramacion_ISC2020.pdf,"1
+  1
+    1
+.1  Lenguajes y paradigmas 
+1.1.1 Criterios de los lenguajes de programación 
+1.1.2 Relación entre los lenguajes y paradigmas de 
+programación 
+1.1.3 Paradigmas de programación fundamentales: 
+imperativo y declarativo  
+.2 Programación funcional 
+1.2.1 Lenguajes funcionales puros e híbridos 
+1.2.2 Cálculo Lambda 
+1.2.3 Funciones puras, de primer orden y de orden 
+superior  
+1.2.4 Expresiones Lambda 
+1.2.5 Aritmética de funciones 
+1.2.6 Composición y encadenamiento de funciones 
+1.2.7 Técnicas de programacion funcional: evaluación 
+estricta (eager) y no estricta (lazy) 
+1.2.8 Recursión sobre listas, con varios argumentos y 
+múltiple 
+1.2.9 Funciones polimórficas  
+.3 Programación lógica  
+1.3.1 Lenguajes lógicos  
+1.3.2 Elementos de la programación lógica: hechos, 
+reglas, relaciones y consultas   
+1.3.3 Cálculo de predicados  
+1.3.4 Lógica de primer orden 
+1.3.5 Técnicas de programación lógica: definición de 
+relaciones por hechos y reglas 
+1.3.6 Reglas recursivas
+2
+  2
+  2
+  2
+.1 Clases y objetos 
+2.1.1 Atributos y métodos 
+2.1.2 Constructores y destructores 
+2.1.3 Encapsulamiento y modificadores de acceso 
+.2 Relaciones entre clases 
+2.2.1 Asociación, agregación y composición  
+2.2.2 Herencia simple  
+2.2.3 Herencia múltiple 
+.3 Manejo de excepciones 
+2.3.1 Jerarquía de excepciones 
+2.3.2 Excepciones encadenadas 
+2.3.3 Declaración de nuevos tipos de excepciones 
+.4 Polimorfismo 
+2.4.1 Variables y funciones polimórficas  
+2.4.2 Clases abstractas 
+2.4.3 Interfaces y herencia de interfaces
+3
+  3
+  3
+.1 Lenguajes orientados a eventos  
+3.1.1 Patrón de arquitectura: Modelo-Vista-Controlador 
+3.1.2 Interfaces graficas de usuario 
+3.1.3 Tipos de eventos y notificaciones 
+3.1.4 Detección de eventos 
+.2 Lenguajes orientados a servicios  
+3.2.1 Análisis y diseño orientado a servicios  
+3.2.2 Arquitectura Orientada a Servicios 
+3.2.3 Microservicios  
+.3 Otros lenguajes de programación de uso 
+específico y tendencias 
+3.3.1 Lenguajes para bases de datos 
+3.3.2 Lenguajes para cómputo científico  
+3.3.3 Lenguajes para ciencia de datos 
+3.3.4 Lenguajes para programación asíncrona
+"
+ISC/basesDatos_ISC2020.pdf,"1.1  Aspectos básicos de las bases de datos 
+1.1.1. 
+Características 
+1.1.2. 
+Archivos vs bases de datos 
+1.1.3. 
+Usuarios 
+1.1.4. 
+Ciclo de vida 
+1.2  Sistema gestor de base de datos 
+1.2.1.  Módulos componentes 
+1.2.2. 
+Lenguajes 
+1.2.3. 
+Clasificación 
+1.3  Sistema de base de datos 
+1.3.1. 
+Arquitectura de tres niveles 
+1.3.2. 
+Independencia de datos 
+1.3.3. 
+Arquitectura cliente – servidor y 
+centralizada 
+1.4  Modelos de datos 
+1.4.1 
+Importancia 
+1.4.2 
+Clasificación
+2.1  Aspectos teóricos del modelo entidad - relación 
+2.1.1. 
+Entidades 
+2.1.2. 
+Atributos 
+2.1.3. 
+Vínculos 
+2.2 Trazado de diagramas entidad – relación 
+2.3 Modelo entidad – relación extendido 
+2.3.1. 
+Especialización y generalización 
+2.3.2. 
+Composición 
+2.3.3. 
+Unión
+3.1 Aspectos básicos del modelo relacional  
+3.1.1. 
+Esquema de base de datos relacional 
+3.1.2 
+Restricciones 
+3.2 Transformación del modelo entidad – relación 
+(extendido) al modelo relacional 
+3.3  Introducción a SQL 
+3.3.1. 
+Lenguaje de definición de datos 
+3.3.2. 
+Lenguaje de manipulación de datos 
+3.4  Dependencias funcionales  
+3.4.1. 
+Inferencia de dependencias funcionales 
+3.5  Normalización 
+3.5.1. 
+Formas normales
+4
+  4
+  4
+  4
+4.1 
+Operaciones 
+básicas 
+de 
+base 
+de 
+datos 
+relacionales 
+4.1.1 
+Selección 
+4.1.2. 
+Proyección 
+4.2 
+Operaciones de la teoría de conjuntos 
+4.2.1. 
+Compatibilidady de unión 
+4.2.2.    Operaciones de conjuntos  
+.3 
+Operaciones de reunión 
+.4 
+Funciones agregadas y agrupación 
+4.4.1.    Funciones agregadas 
+4.4.2. 
+Agrupación 
+.5 
+División 
+.6 
+Cálculo relacional
+5.1 
+Consultas simples 
+5.1.1. 
+Eliminación de duplicados 
+5.1.2.  Ordenamiento 
+5.1.3. 
+Funciones agregadas y agrupación 
+5.2 
+Consultas con más de una relación 
+5.2.1.  Operaciones de conjuntos 
+5.2.2. 
+Reunión 
+5.3 
+Subconsultas 
+5.3.1.    Consultas anidadas 
+5.3.2. 
+Consultas anidadas correlacionadas 
+5.4 
+Transacciones 
+5.4.1. 
+Propiedades 
+5.4.2. 
+Estados 
+5.5 
+Manejo de vistas 
+5.6   Disparadores y procedimientos almacenados 
+5.7 
+Asignación de permisos
+"
+ISC/ingenieriaSoftware_ISC2020.pdf,"1
+1.1  Fundamentos de ingeniería de software 
+ 
+ 
+1.2 Plan de proyecto software 
+1.2.1 Ámbito de software 
+1.2.2 Factibilidad y análisis de riesgo 
+1.2.3 Métricas y estimación 
+1.2.4 Planificación del proyecto. Herramientas para la 
+administración de proyectos 
+1.2.5 Supervisión y control del plan de proyecto 
+ 
+1.3 Modelos de procesos 
+.4 Principios y metodologías ágiles 
+1.4.1 XP 
+1.4.2 SCRUM 
+1.4.3 KANBAN 
+1.4.4 LEAN
+2
+  2
+2.1 Ingeniería de requerimientos 
+.2 Diseño del sistema software 
+2.2.1 Arquitectura lógica del sistema 
+2.2.2 Interfaz de usuario 
+2.2.3 Experiencia de usuario 
+.3 Herramientas de modelado
+3
+3.1 Tipos de pruebas 
+3.1.1 Pruebas funcionales 
+3.1.2 Pruebas no funcionales 
+ 
+3.2 Herramientas para pruebas 
+.3 Evaluación de las pruebas
+4
+  4
+4.1 Calidad del proceso software 
+ 
+4.2 Calidad del producto software 
+.3 Modelos y normas de calidad 
+4.3.1 ISO 
+4.3.2 IEEE 
+4.3.3 IEC 
+4.3.4 Otras 
+.4 Modelos de madurez 
+4.4.1 Proceso de Software Personal (PSP) 
+4.4.2 Proceso de Software de Equipo (TSP) 
+4.4.3 Modelo de Capacidad de Madurez Integrado 
+(CMMI) 
+4.4.4 MoProSoft
+"
+ISC/formulacionEvaluacionProyectosInformaticos.pdf,"1
+  1
+1.1 Proyectos  
+1.1.1 Clasificación  
+1.1.2 Proyecto informático 
+1.1.3 Elementos de un proyecto  
+  
+1.2 Ciclo de vida de los proyectos y del software  
+.3 Formulación de un proyecto informático 
+1.3.1 Planteamiento del problema y técnicas de análisis   
+1.3.2 Antecedentes y situación actual  
+1.3.3 Identificación y selección de alternativas 
+.4 Gestión de la integración del proyecto informático
+2
+2.1 Innovación  
+.2 Design thinking metodología de innovación   
+2.1.1 Empatizar con el usuario y explorar el mercado  
+2.1.2 Definir necesidades del usuario 
+2.1.3 Idear con propuesta de valor  
+2.1.4 Prototipar la idea  
+2.1.5 Testeo (validar)   
+ 
+2.3 Modelo de negocios Canvas
+3
+3.1 Plan de gestión para la dirección del proyecto    
+3.1.1 Gestión de Integración del proyecto  
+3.1.2 Gestión del conocimiento 
+   
+3.2 Plan de desarrollo del software  
+3.2.1  Actividades  para  el  análisis  de 
+requerimientos  y 
+diseño de la arquitectura del software  
+3.2.2 Actividades para la programación 
+3.2.3 Actividades para las pruebas e implementación  
+3.2.4 Actividades para el despliegue y mantenimiento 
+3.2.5 Documentación   
+.3 Gestión de sostenibilidad
+4.1 Presupuesto de inversión  
+4.1.1 Inversión propia  
+4.1.2 Inversión financiada  
+    
+4.2 Presupuestos de egresos   
+4.2.1 Costos de desarrollo   
+4.2.2 Gastos de venta  
+4.2.3 Gastos de administración  
+4.2.4 Gastos financieros  
+4.2.5 Otros gastos a ponderar  
+  
+4.3 Presupuesto de ventas o ingresos
+5
+  5
+5.1 Integración de estados financieros proforma     
+5.1.1 Estado de resultados 
+  
+5.2 Cálculo de los flujos netos de efectivo  
+.3 Indicadores financieros de evaluación de proyectos 
+informáticos  
+5.3.1 Retorno de la inversión (ROI) 
+5.3.2 Costo beneficio  
+5.3.3 Valor presente neto (VPN) y Tasa interna de retorno 
+(TIR) 
+.4 Matriz de análisis integral para la toma de decisiones
+"
+ISC/desarrolloHabilidadesSocialesAltaDireccion_ISC2020.pdf,"1
+  1
+1.1. 
+Principios de la alta dirección en la organización 
+1.1.1.  Función 
+de 
+la 
+alta 
+dirección 
+dentro 
+de 
+la 
+organización  
+1.1.2.  Alta dirección y establecimiento de políticas y 
+estrategias 
+.2. 
+Principios de la planeación estratégica aplicada 
+1.2.1.  Proceso de la planeación estratégica  
+1.2.2.  Definición  de 
+la 
+estrategia:  misión, 
+visión 
+y 
+objetivos de largo plazo 
+1.2.3.  Formulación del plan de acción estratégico  
+1.2.4.  Implementación del plan de acción estratégico  
+1.2.5.  Evaluación y ajustes al plan de acción estratégico 
+.3. 
+Habilidades personales y sociales del directivo 
+1.3.1.  Pensamiento estratégico 
+1.3.2.  Carácter 
+y 
+personalidad 
+del 
+alto 
+directivo 
+estratega
+2
+2.1 
+Habilidades personales para la alta dirección 
+2.1.1  Autoconocimiento 
+2.1.2  Dimensiones 
+fundamentales 
+y 
+áreas 
+del 
+autoconocimiento 
+2.1.3  Evaluación  de  habilidades:  Manejo  del  estrés  y  el 
+bienestar, 
+eliminación 
+de 
+factores 
+estresantes, 
+resiliencia y bienestar 
+2.1.4  Administración del tiempo 
+2.1.5 
+Inteligencia emocional (IE) y alta dirección 
+2.1.6  Clasificación de la IE (personal e interpersonal) y su 
+relación con el éxito del directivo 
+.2 
+Habilidades sociales para la alta dirección 
+2.2.1  Desarrollo de relaciones sociales positivas 
+2.2.2  Comunicación 
+efectiva, 
+intrapersonal 
+e 
+interpersonal 
+2.2.3  Asertividad: Características de la persona asertiva 
+2.2.4  Conducta ética  
+2.2.5  Manejo del conflicto
+3
+  3
+  3
+  3
+3.1 
+Habilidades organizacionales de comunicación  
+3.1.1  Comunicación empresarial  
+.2 
+Equipos efectivos de trabajo 
+3.2.1  Formación de equipos 
+3.2.2  Retos de los equipos de trabajo 
+3.2.3  Operación de equipos de trabajo 
+.3 
+Liderazgo estratégico 
+3.3.1  Liderazgo para el desarrollo de los colaboradores 
+3.3.2  Motivación en los equipos de trabajo 
+3.3.3  Teorías de la motivación 
+3.3.4  Motivación y desempeño 
+3.3.5  Coaching 
+3.3.6  Proceso de coaching 
+3.3.7  Coaching en la empresa 
+.4 
+Toma de decisiones 
+3.4.1  Ética en la toma de decisiones   
+.5 
+Estrategias de negociación 
+3.5.1  Técnicas de negociación 
+3.5.2  Obstáculos en las negociaciones 
+3.5.3  Relaciones públicas
+"
+ISC/algebraLineal_ISC2020.pdf,"1.1.3 Sistema de m ecuaciones lineales con n incógnitas  
+pivoteo 
+1.2 Matrices 
+ecuaciones 
+1.2.2 Definiciones de matrices. 
+1.2.3 Álgebra matricial 
+1.3 Determinantes 
+1.3.1 Propiedades 
+1.3.2 Cálculo de determinantes 
+1.3.3 Regla de Cramer 
+1.4 Inversa de una Matriz 
+1.4.1 Matrices elementales y matrices equivalentes a la 
+matriz Identidad 
+1.4.2 La inversa de una matriz como producto de matrices 
+elementales 
+1.4.3 Transpuesta de una matriz 
+1.4.5 Solución de sistema de ecuaciones lineales usando 
+C - 2020
+2.1 Espacios vectoriales 
+2.1.1 Propiedades básicas 
+2.1.2 Espacios vectoriales de distintos géneros 
+2.2 Subespacios 
+2.2.1 Propiedades. 
+2.3 Combinaciónes lineales 
+2.3.1 Espacio generado 
+2.4 Bases de un Espacio Vectorial 
+2.5 Cambio de Base 
+2.5.1 Matriz Cambio de Base 
+2.6 Espacios con producto Interno 
+2.6.1 Bases ortonormales
+3.1 Transformaciones Lineales 
+3.1.1 Propiedades. 
+3.1.2 Imagen y Kernel de una transformación lineal 
+3.2 Representación Matricial de una Transformación lineal 
+3.2.1 Matrices Semejantes y cambio de base en la 
+representación matricial de una transformación 
+3.3 Isomorfismos 
+3.3.1 Transformación Inversa 
+3.3.2 Ejemplos de espacios isomorfos
+4.1 Valores y vectores característicos 
+4.1.1 Polinomio característico 
+4.1.2 Cálculo de vectores característicos 
+4.2 Diagonalización de matrices 
+4.3 Matrices Simétricas y diagonalización ortogonal 
+4.4 Formas Cuadráticas y Secciones Cónicas 
+4.5 Aplicaciones a Ecuaciones diferenciales matriciales
+"
+ISC/compiladores.pdf,"1
+1.1 Fundamentos de compiladores e intérpretes 
+1.1.1 Compiladores 
+1.1.2 Intérpretes  
+ 
+1.2 
+Arquitectura 
+de 
+compiladores, 
+intérpretes 
+y 
+máquinas virtuales 
+      1.2.1 Análisis léxico 
+      1.2.2 Análisis sintáctico 
+      1.2.3 Análisis semántico 
+      1.2.4 Generación de código intermedio 
+      1.2.5 Optimización de código 
+      1.2.6 Generación de código objeto 
+.3  Frontend,  backend  y 
+traducción  dirigida  por 
+la 
+sintaxis
+2
+  2
+2.1 Componentes léxicos 
+    
+2.2 Modelado de componentes léxicos mediante 
+expresiones regulares  
+    
+2.3 Reconocimiento de componentes léxicos mediante 
+autómatas finitos 
+.4 Implementación de analizadores léxicos 
+   2.4.1 Tabla de transiciones 
+   2.4.2 Manejo del buffer de entrada  
+   2.4.3 Manejo de errores léxicos 
+.5 Generadores de analizadores léxicos
+3
+3.1 Analizadores sintácticos 
+3.1.1 Análisis sintáctico ascendente 
+3.1.2 Análisis sintáctico descendente 
+ 
+3.2 Analizadores descendentes 
+3.2.1 Por descenso recursivo sin retroceso 
+3.2.2 Por descenso recursivo con retroceso 
+3.2.3 Para gramáticas LL (1) 
+3.2.4 Implementación 
+.3 Analizadores ascendentes para gramáticas LR 
+3.3.1 Arquitectura general de la familia LR 
+3.3.2 Construcción de elementos de la familia LR 
+3.3.3 Construcción de tablas de la familia LR 
+3.3.4 Analizadores de la familia LR 
+3.3.5 Implementación mediante herramientas 
+generadoras
+4
+  4
+  4
+  4
+4.1 Análisis semántico y generación de código intermedio. 
+.2 
+Optimizaciones 
+para 
+las 
+arquitecturas 
+de 
+computadoras. 
+.3 Traducciones de programas. 
+.4  Aplicaciones  en  herramientas  de  productividad  de 
+software. 
+.5 Aplicaciones en procesamiento de lenguaje natural.
+"
+ISC/fundamentosEconomicos_ISC2020.pdf,"1
+  1
+  1
+  1
+ 
+C - 2020
+3
+3.1 El comportamiento del consumidor  
+3.1.1. Gustos y preferencias de consumo 
+3.1.2 Utilidad y preferencia (superficie de utilidad) 
+3.1.3 Curvas de indiferencia y sus características 
+3.1.4. Posibilidades de consumo: la restricción 
+presupuestal 
+3.1.5. Utilidad total y utilidad marginal  
+3.1.6. Maximización de la utilidad y el equilibrio del 
+consumidor 
+. 2. El comportamiento del productor  
+3.2.1.  Importancia de la empresa en el ciclo económico 
+3.2.2. La empresa y su problema económico 
+3.2.3. Teoría de producción de corto y de largo plazo 
+3.2.3. Teoría de costos de corto y de largo plazo 
+3.2.4. El equilibrio del productor
+3
+  3
+  3
+.1 Demanda 
+3.1.1 Factores de la demanda y ley de la demanda  
+3.1.2 Elasticidades precio, ingreso y cruzada  
+.2 Oferta 
+3.2.1 Factores de la oferta y ley de la oferta 
+3.2.2 Elasticidades precio y cruzada  
+.3 Equilibrio del mercado 
+3.3.1Precio como regulador y equilibrio del mercado
+5
+  5
+  5
+5.1 Sistema financiero internacional 
+5.1.2 Fondo Monetario Internacional 
+5.1.3 OCDE 
+5.1.4 Banco Mundial 
+5.1.5 Banco Interamericano 
+5.1.6 Banco de Desarrollo 
+.3 El papel del Ingeniero en Sistemas Computacionales 
+en la sustentabilidad 
+.4 Economía circular 
+ 
+C - 2020
+"
+ISC/ingenieriaEticaSociedad_ISC2020.pdf,"1
+  1
+1.1  Evolución del conocimiento 
+1.1.1Sujeto y sociedad 
+1.1.2 Conocimiento empírico, científico, tecnológico, 
+cultural 
+1.1.3 La ciencia como factor de cambio: trayectoria del 
+Antigüedad, Edad Media) 
+1.2.2 El impacto del avance científico y tecnológico en 
+la sociedad 
+Revolución Industrial 
+  
+ 
+C - 2020
+2
+  2
+  2
+  2
+2.1  Las  Revoluciones  Industriales:  importancia  de  la 
+ingeniería, 
+la 
+tecnología 
+y 
+su 
+impacto 
+social, 
+económico, político y cultural 
+.1.1 Primera Revolución (siglo XVIII) 
+.1.2 Segunda Revolución 
+.1.3 Tercera Revolución 
+.1.4 Cuarta Revolución: 4.0
+3
+  3
+3.1 Importancia de la ingeniería y su función social 
+3.1.1 El surgimiento de la ingeniería 
+3.1.2 Escuelas de ingeniería y sus tradiciones 
+educativas 
+3.1.3 Funciones de la ingeniería en la sociedad 
+.2 Retos de la ingeniería en el siglo XXI 
+3.2.1 Perfil del ingeniero para las organizaciones 
+inteligentes. 
+.3 La ingeniería como profesión transdisciplinar.
+5
+  5
+     
+.1 Sustentabilidad e ingeniería 
+5.1.1 Modelos productivos emergentes 
+5.1.2 Impacto ambiental de los nuevos modelos 
+productivos 
+5.1.3 Normatividad y acuerdos nacionales e 
+internacionales 
+.2 Eficiencia y eficacia, pertinencia y equidad en los 
+modelos productivos  
+5.2.1 Sistemas de calidad 
+5.2.2 Productividad y competitividad
+"
+ISC/arquitectutaComputadoras_ISC2020.pdf,"1
+1.1 Fundamentos de arquitectura de computadoras 
+1.1.1 Arquitectura y organización de computadoras 
+1.1.2 Memoria de programa 
+1.1.3 Memoria de datos 
+1.1.4 Unidad aritmética lógica 
+1.1.5 Registros 
+1.1.6 Unidad de control 
+ 
+1.2 Arquitecturas clásicas 
+1.2.1 Arquitectura Von Neuman 
+1.2.2 Arquitectura RISC y CISC 
+1.2.3 Arquitectura Hardvard 
+.3 Arquitecturas especializadas 
+1.3.1 Arquitectura Superescalar 
+1.3.2 Arquitectura vectorial
+2
+  2
+2.1 Formato de las instrucciones 
+2.1.1 Formato tipo R 
+2.1.2 Formato tipo I 
+2.1.3 Formato tipo J 
+2.1.4 Otros formatos 
+.2 Tipos de instrucción 
+2.2.1 Instrucciones de carga y almacenamiento 
+2.2.2 Instrucciones de aritméticas y lógicas 
+2.2.3 Instrucciones de corrimiento 
+2.2.4 Instrucciones de brinco condicional e 
+incondicional 
+2.2.5 Instrucciones de manejo de subrutinas 
+2.2.6 Otras instrucciones 
+.3 Programación 
+2.3.1 Instrucciones de carga y almacenamiento 
+2.3.2 Instrucciones aritméticas y lógicas 
+2.3.3 Instrucciones de corrimiento 
+2.3.4 Instrucciones de brinco condicional e 
+incondicional 
+2.3.5 Instrucciones de manejo de subrutinas 
+2.3.6 Implementación usando simuladores
+3
+  3
+  3
+  3
+3.1 Unidad aritmética y lógica 
+3.1.1 Análisis usando sumador con acarreo en cascada 
+3.1.2 Análisis usando sumador con acarreo anticipado 
+3.1.3 Análisis usando otras arquitecturas 
+3.1.4 
+Implementación 
+usando 
+HDL 
+en 
+lógica 
+reconfigurable 
+.2 Memoria de programa, datos y pila. 
+3.2.1 Análisis con ROM y RAM multipuerto 
+3.2.2 Implementación de pila en software y hardware 
+3.2.3Implementación 
+usando 
+HDL 
+en 
+lógica 
+reconfigurable 
+.3 Archivos de registros 
+3.3.1 Análisis con RAM multipuerto 
+3.3.2 Análisis usando otras arquitecturas 
+3.3.3 
+Implementación 
+usando 
+HDL 
+en 
+lógica 
+reconfigurable 
+.4 Unidad de control 
+3.4.1 Ruta de datos del procesador 
+3.4.2 Microinstrucciones 
+3.4.3 Memorias de microcódigo 
+3.4.4 Decodificador de instrucción 
+3.4.5 Registro de estado 
+3.4.6 Análisis de banderas para determinar condiciones 
+3.4.7 Autómata de control 
+3.4.8 
+Implementación 
+usando 
+HDL 
+en 
+lógica 
+reconfigurable 
+.5 Implementación de procesador RISC monociclo 
+3.5.1 
+Implementación 
+usando 
+HDL 
+en 
+lógica 
+reconfigurable 
+3.5.2 Ejecución de programas en los procesadores 
+3.5.3 Implementación de analizadores lógicos en FPGA 
+para la depuración de programas en ejecución
+4
+  4
+4.1 Segmentación 
+4.1.1 Etapas de segmentación 
+4.1.2 Registros inter etapa 
+4.1.3 
+Implementación 
+usando 
+HDL 
+en 
+lógica 
+reconfigurable 
+.2 Riesgos (Hazards) 
+4.2.1 Riesgo estructural 
+4.2.2 Riesgos de datos 
+4.2.3 Método de bypassing 
+4.2.4 Método de forwarding 
+4.2.5 
+Implementación 
+usando 
+HDL 
+en 
+lógica 
+reconfigurable 
+.3 Riesgo de Control 
+4.3.1 Predictores de salto 
+4.3.2 Predicción estática 
+4.3.3 Predicción dinámica 
+4.3.4 
+Implementación 
+usando 
+HDL 
+en 
+lógica 
+reconfigurable
+5
+  5
+5.1 Jerarquía de la memoria 
+5.1.1. Memoria principal 
+5.1.2 Memoria Caché 
+5.1.3 Memoria Virtual 
+5.1.4 Tecnologías de memorias 
+.2 Memoria caché 
+5.2.1 Cache hit y miss. 
+5.2.2.Estrategia Write Through y Write Back 
+5.2.3 Caché con mapeo directo 
+5.2.4 Caché asociativa por conjuntos 
+5.2.5 Caché completamente asociativo 
+5.2.6 Algoritmos de sustitución 
+5.2.7 
+Implementación 
+usando 
+HDL 
+en 
+lógica 
+reconfigurable  
+.3 Memoria virtual 
+5.3.1 Paginación. 
+5.3.2. Unidad de Administración de Memoria (MMU). 
+5.3.3. Tablas de páginas 
+5.3.4. Arquitecturas de TLB. 
+5.3.5. Algoritmos de reemplazo de páginas
+"
+ISC/sistemasChip_ISC2020.pdf,"1
+  1
+1.1 Arquitectura del Sistema en Chip (SoC) 
+1.1.1 Estructura básica de un sistema en chip 
+1.1.2 Características de la arquitectura 
+1.1.3  Arquitectura 
+de 
+un  Conjunto  Reducido 
+de 
+Instrucciones (RISC) 
+1.1.4 Arquitectura Harvard 
+1.1.5 Segmentación (pipeline) 
+.2 Familias y subfamilias de sistemas en chip  
+1.2.1 Memoria de programa 
+1.2.2 Memoria de datos  
+1.2.3 Recursos periféricos 
+1.2.4 Modelo de programación 
+.3 Programación del Sistema en Chip 
+1.3.1 Conjunto de instrucciones 
+1.3.2 Modos de direccionamiento 
+1.3.3 Ambiente de desarrollo de programación 
+1.3.4 Estructura de un programa en ensamblador 
+1.3.5 Manejo del simulador
+2
+  2
+2.1 Sistema de entrada / salida 
+2.1.1 Registros asociados 
+2.1.2 Configuración de puertos  
+2.1.3 Programación de puertos 
+2.1.4 Aplicaciones 
+.2 Sistema de interrupciones 
+2.2.1 Mecanismo y tipos de interrupciones 
+2.2.2 Ejecución de una interrupción 
+2.2.3 Tabla de vectores de interrupción 
+2.2.4 Registros asociados 
+2.2.5 Programación 
+.3. Temporizadores 
+2.3.1 Clasificación  
+2.3.2 Registros asociados 
+2.3.3 Configuración del sistema de interrupciones 
+2.3.4 Programación 
+2.3.5 Aplicaciones  
+2.3.6 RTCC, PWM, Perro Guardián
+3
+  3
+3.1 Estándar RS-232  
+3.1.1 Características de la comunicación 
+3.1.2 Especificaciones del estándar RS-232 
+3.1.3 Transmisor Receptor Asíncrono Universal (UART) 
+3.1.4 Registros asociados 
+3.1.5 Configuración del sistema de interrupciones 
+3.1.6 Programación  
+3.1.7 Aplicaciones 
+.2 Interfaz SPI 
+3.2.1 Características 
+3.2.2 Protocolo de comunicación 
+3.2.3 Registros asociados 
+3.2.4 Configuración del sistema de interrupciones 
+3.2.5 Programación 
+3.2.6 Aplicaciones 
+.3 Interfaz IIC 
+3.3.1 Características 
+3.3.2 Protocolo de comunicación 
+3.3.3 Registros asociados 
+3.3.4 Configuración del sistema de interrupciones 
+3.3.5 Programación 
+3.3.6 Aplicaciones 
+3.4 Otras interfaces de comunicación
+4
+4.1 Conversión analógico / digital (A/D) 
+4.1.1 Teorema de muestreo 
+4.1.2 Conceptos: rango dinámico, resolución, intervalo de 
+cuantificación, 
+relación  señal  a 
+ruido, 
+frecuencia  de 
+muestreo, interfaz de comunicación. 
+4.1.3 Sistemas de conversión A/D flash, aproximaciones 
+sucesivas y sigma-delta. 
+.2 Convertidor A/D 
+4.2.1 Características y arquitectura 
+4.2.2 Registros asociados 
+4.2.3 Modos de conversión A/D 
+4.2.4 Configuración del sistema de interrupciones 
+4.2.5 Programación 
+4.2.6 Aplicaciones
+5
+5.1 Sistema Operativo de Tiempo Real (RTOS) 
+5.1.1 Concepto y características 
+5.1.2 Arquitectura y componentes del RTOS 
+5.1.3 Administración de memoria 
+5.1.4 Planificador (Scheduler) de tareas (Task) 
+5.1.5 Programación de tareas en el Sistema en Chip 
+.2 Comunicación y sincronización de tareas 
+5.2.1  Comunicación 
+entre 
+tareas  mediante 
+colas 
+(Queues) 
+5.2.2 Programación de colas en el Sistema en Chip 
+5.2.3 
+Sincronización 
+entre 
+tareas 
+con 
+semáforos 
+(semaphores) 
+5.2.4 Programación de semáforos en el Sistema en Chip 
+5.2.5 Aplicaciones
+"
+ISC/liderazgoPersonal_ISC2020.pdf,"1
+  1
+  1
+1.1 
+Antecedentes del liderazgo 
+1.1.1  Liderazgo a través del tiempo 
+1.1.2  Liderazgo masculino 
+1.1.3  Liderazgo femenino  
+.2 
+Estudios del liderazgo 
+1.2.1  Teorías de liderazgo: De rasgos, de 
+comportamiento, de contingencia, situacional y de 
+relaciones 
+.3 
+Clasificación del liderazgo  
+1.3.1  Autocrático, democrático y liberal 
+1.3.2  Prospectiva del liderazgo 
+1.3.3  Liderazgo emprendedor  
+.4 
+Pensamiento estratégico 
+1.4.1  Misión y visión del líder
+2
+  2
+2.1 
+Desarrollo personal  
+2.1.1  Autoconocimiento 
+2.1.2  Conceptualización de la autoestima 
+2.1.3  Dimensiones de la personalidad 
+2.1.4  Motivación 
+2.1.5  Autorrealización  
+.2 
+Principios y valores 
+2.2.1  Hábitos 
+2.2.2  Actitudes 
+.3 
+Habilidades sociales 
+2.3.1  Gestión de emociones 
+2.3.2 
+Imagen personal 
+2.3.3 
+Imagen social 
+2.3.4  Comunicación asertiva 
+2.3.5  Creatividad
+3
+  3
+  3
+3.1 
+Líderes, seguidores y colaboradores   
+3.1.1  Los grupos   
+3.1.2  Los seguidores y colaboradores 
+3.1.3  El líder como seguidor y colaborador 
+3.1.4  El seguidor colaborador como líder 
+.2 
+Liderazgo de excelencia, poder, autoridad e influencia 
+3.2.1  Marcos de referencia del liderazgo: estructural, 
+recursos humanos, político y simbólico   
+3.2.2  Fuentes de poder 
+3.2.3  Tipos de poder 
+.3 
+Ética y liderazgo  
+3.3.1  Manejo del poder 
+3.3.2  Respuestas al uso del poder  
+.4 
+Retos del liderazgo  
+3.4.1  Sustentabilidad 
+3.4.2  Equidad de género 
+3.4.3  Toma  de  decisiones  y  solución  de  problemas  y 
+conflictos 
+3.4.4  Conducción de equipos en el metaverso
+"
+ISC/sistemasDistribuidos_ISC2020.pdf,"1
+  1
+1.1 
+Historia del cómputo en la nube 
+1.1.1  Características esenciales de una nube 
+.2 
+Modelos de servicios 
+1.2.1  SaaS 
+1.2.2  PaaS 
+1.2.3 
+IaaS  
+.3 
+Modelos de despliegue 
+1.3.1  Público y comunitario 
+1.3.2  Privado  
+1.3.3  Híbrido
+2
+  2
+2.1 
+Principios del cómputo en la nube 
+2.1.1  Confiabilidad, escalabilidad y disponibilidad 
+2.1.2  Transparencia, desempeño y rendimiento 
+2.1.3  Elasticidad  
+.2 
+Aspectos legales del cómputo en la nube  
+2.2.1  Acuerdo de nivel de servicio para la nube 
+2.2.2  Ciclo de vida de un producto en la nube  
+.3 
+Proveedores de servicios en la nube 
+2.3.1  Casos de estudio de proveedores: Azure, AWS, 
+Google, Oracle, entre otros  
+2.3.2  Comparación de los servicios ofrecidos  
+2.3.3  Estrategias de migración
+3
+  3
+  3
+  3
+3.1 
+Máquinas y redes virtuales 
+3.1.1  Gestión de máquinas virtuales 
+3.1.2  Comunicación entre máquinas virtuales en la nube 
+3.1.3  Respaldos en la nube 
+.2 
+Arquitecturas de almacenamiento 
+3.2.1  Blob storage 
+3.2.2  Disk storage 
+3.2.3  File storage 
+.3 
+Bases de datos en la nube 
+3.3.1 
+Implementación de bases de datos en la nube 
+3.3.2  Gestión de bases de datos en la nube 
+3.3.3  Estrategias de partición de datos 
+.4 
+Elasticidad y escalabilidad 
+3.4.1  Balanceo de carga y su administración  
+3.4.2  Tolerancia a fallas, resiliencia y confiabilidad 
+3.4.3  Replicación 
+.5 
+Procesamiento distribuido 
+3.5.1  Técnicas MapReduce
+4
+  4
+4.1 
+Importancia de la seguridad 
+4.1.1  Centros de seguridad 
+.2 
+Aspectos de seguridad de la red  
+4.2.1  Grupos de recursos 
+4.2.2  Firewall 
+.3 
+Amenazas en la nube 
+4.3.1  Ataques de negación de servicio (DoS) 
+4.3.2  Brechas  de  datos  (Data  Breaches)  y  autenticación 
+débil 
+4.3.3  Secuestro de cuentas y datos
+5
+  5
+5.1 
+Aspectos básicos de los servicios web 
+5.1.1  Arquitecturas de un servicio web 
+5.1.2  Estándares 
+.2 
+Microservicios 
+5.2.1  Aplicación monolítica vs microservicios 
+5.2.2  Características de los microservicios 
+5.2.3  Contenedores y kubernetes 
+.3 
+Tecnologías emergentes
+"
+ISC/circuitosElectricos_ISC2020.pdf,"1
+  1
+  1
+  1
+  1
+1.1 Unidades eléctricas  
+  1.1.1 Voltaje  
+  1.1.2 Corriente  
+  1.1.3 Potencia eléctrica 
+.2 Ley de Ohm  
+  1.2.1 Resistencia  
+  1.2.2 Tipos de resistencia 
+  1.2.3 Código de colores 
+.3 Elementos activos de circuitos eléctricos  
+  1.3.1 Fuentes de voltaje independientes  
+  1.3.2 Fuentes de corriente independientes 
+.4 Medición de variables eléctricas en DC  
+  1.4.1 Multímetro  
+  1.4.2 Medición de voltaje  
+  1.4.3 Medición de corriente  
+  1.4.4 Medición de resistencia 
+.5 Análisis de circuitos en CD mediante software de 
+simulación de circuitos eléctricos 
+.6 Leyes de Kirchhoff  
+  1.6.1 Nodo  
+  1.6.2 Malla  
+  1.6.3 Elementos en serie  
+  1.6.4 Elementos en paralelo  
+  1.6.5 Ley de Kirchhoff de corriente  
+  1.6.6 Ley de Kirchhoff de voltaje
+2
+  2
+  2
+  2
+2.1 Divisor de voltaje 
+.2 Divisor de corriente 
+.3 Análisis de mallas  
+  2.3.1 Análisis de mallas con fuentes de voltaje 
+independientes 
+  2.3.2 Análisis de mallas con fuentes de voltaje y de 
+corriente independientes 
+.4 Análisis de nodos  
+  2.4.1 Análisis de nodos con fuentes de corriente    
+independientes 
+  2.4.2 Análisis de nodos con fuentes de corriente y de 
+voltaje independientes 
+.5 Teoremas de circuitos  
+  2.5.1 Teorema de superposición  
+  2.5.2 Teorema del intercambio de Fuentes  
+  2.5.3 Teorema de Thevenin  
+  2.5.4 Teorema de Norton  
+  2.5.5 Teorema de máxima transferencia de potencia
+3
+  3
+  3
+  3
+3.1 Funciones eléctricas  
+3.1.1 Escalón  
+3.1.2 Cuadrada  
+3.1.3 Triangular  
+3.1.4 Sinusoidal (amplitud, frecuencia, periodo, ángulo, 
+valor medio y valor eficaz) 
+.2 Equipo electrónico para señales alternas  
+3.2.1 Osciloscopio  
+3.2.2 Generador de funciones 
+.3 Elementos pasivos de circuitos eléctricos variantes 
+en el tiempo  
+3.3.1 Capacitor  
+3.3.2 Tipos de capacitores 
+3.3.3 Relaciones integro-diferenciales de voltaje y 
+corriente del capacitor 
+3.3.4 Inductor  
+3.3.5 Relaciones integro-diferenciales de voltaje y 
+corriente del Inductor 
+.4 Dominio de la frecuencia (s)  
+3.4.1 Transformada de Laplace  
+3.4.2 Transformada de Laplace de funciones simples 
+en el tiempo  
+3.4.3 Impedancia y admitancia Z(s) y Y(s)  
+3.4.4 Reactancia y susceptancia capacitiva  
+3.4.5 Reactancia y susceptancia inductiva  
+3.4.6 Impedancias y admitancias en serie  
+3.4.7 Impedancias y admitancias en paralelo 
+.5 Análisis de circuitos en el dominio de s  
+3.5.1 Leyes de Kirchhoff  
+3.5.2 Mallas  
+3.5.3 Nodos  
+3.5.4 Polos, ceros y funciones de transferencia
+"
+ISC/analisisVectorial_ISC2020.pdf,"1
+  1
+1.1 Los espacios Euclidianos R2 y R3     
+1.1.1 Introducción a los espacios vectoriales 
+1.1.3 
+gráfica de un vector: los vectores de la base canónica, 
+1.1.4    Aplicación  de  la  suma  de  vectores  (método  del 
+paralelogramo, triángulo y polígono) y la multiplicación 
+de 
+1.2.2 El ángulo entre dos vectores: cosenos directores 
+entre dos rectas  
+C - 2020
+2
+   
+  2
+2.1 Funciones vectoriales de variable real 
+2.1.1 Funciones vectoriales 
+2.1.2 Las funciones vectoriales como curvas en el 
+curvas 
+real 
+2.2.2 Interpretación geométrica de la derivada como el 
+vectoriales 
+ 2.3.1 Funciones de varias variables, dominio y rango. 
+C - 2020
+2.4.1 Generalidades, interpretación física y 
+aplicaciones 
+2.4.2 Derivadas parciales de funciones vectoriales de 
+más de una variable    
+2.4.3 Divergencia y rotacional de un campo vectorial  
+2.4.4 Operaciones con el operador Nabla: algunas 
+identidades vectoriales
+3
+  3
+  3
+3.1 Integral de Línea 
+3.1.1 La integral de línea sobre un campo vectorial 
+3.1.2 Propiedades de las integrales de línea 
+múltiples: el Jacobiano de la transformación, integrales 
+ 
+C - 2020
+"
+ISC/analisisDisenoSistemas_ISC2020.pdf,"1
+1.1 Historia y evolución del desarrollo del software  
+1.1.1 Necesidad del análisis y diseño de sistemas 
+1.1.2 Sistemas de software 
+1.1.3 Clasificación y ejemplos de sistemas 
+ 
+1.2 Ciclo de vida del desarrollo de software 
+1.2.1 Fases del ciclo de vida 
+1.2.2  Uso  de  herramientas  especializadas  para  el 
+desarrollo del software durante el ciclo de vida 
+.3 Metodologías de desarrollo de software 
+1.3.1 Metodologías tradicionales 
+1.3.2 Metodologías estructuradas 
+1.3.3 Metodologías orientadas a objetos 
+1.3.4 Metodologías y prácticas ágiles
+2
+  2
+2.1 Análisis de los requerimientos del sistema 
+2.1.1 Identificación del problema 
+2.1.2 Técnicas de recopilación de requerimientos 
+2.1.3 Alcance del sistema 
+ 
+2.2 Especificación de requerimientos 
+2.2.1 Tipos de requerimientos 
+2.2.2 Documentación de requerimientos 
+2.2.3 Técnicas para especificación de 
+requerimientos 
+.3 Validación de requerimientos 
+.4 Aceptación de requerimientos
+3
+3.1 El proceso de modelado 
+     3.1.1 Las vistas de un sistema 
+.2 Técnicas para el modelado 
+3.2.1 Técnicas para el modelado de requerimientos 
+3.2.2 Técnicas para el modelado de datos 
+3.2.3 Técnicas para el modelado de requerimientos 
+no funcionales 
+ 
+3.3 Vistas del sistema 
+3.3.1 Vista del contexto (con el ambiente) 
+3.3.2 Vista funcional (elementos funcionales) 
+3.3.3 Vista de Información (flujo de información) 
+3.3.4  Vista  de  concurrencia  (elementos  dinámicos 
+en tiempo de ejecución) 
+3.3.5 Vista de desarrollo (procesos, pruebas y 
+mejoramiento) 
+3.3.6 Vista de despliegue (HW y SW)
+4.1 Diseño de la arquitectura 
+4.1.1 Propiedades del software asociadas con el 
+diseño 
+4.1.2 Estilos arquitectónicos de referencia 
+4.2.3 Principios de patrones de diseño 
+ 
+4.2 Consideraciones del diseño 
+4.2.1 Diseño de entrada y salida efectivas 
+4.2.2 Diseño de interfaz de usuario 
+4.2.3 Diseño de archivos y bases de datos 
+4.2.4 Diseño eficiente de la captura 
+ 
+4.3 Retos del diseño 
+4.3.1 Principios de diseño 
+4.3.2 Principios de desarrollo de patrones de 
+diseño: Singleton, Iterator, MVC
+5
+  5
+  5
+  5
+5.1 Convenciones de codificación 
+5.1.1 Fallas y errores del software 
+5.1.2 Código limpio 
+.2 Pruebas de programas 
+    5.2.1 Pruebas de unidad  
+    5.2.2 Pruebas de integración          
+.3 Pruebas de sistemas 
+    5.3.1 Pruebas funcionales 
+    5.3.2 Pruebas de desempeño 
+    5.3.3 Pruebas de aceptación 
+.4 Documentación de pruebas  
+    5.4.1 El plan de pruebas 
+    5.4.2 Diseño de pruebas 
+    5.4.3 Registro de pruebas 
+    5.4.4 Informes 
+.5 Herramientas de pruebas automatizadas  
+    5.5.1 Plataformas de trabajo colaborativo
+"
+ISC/tecnologiasDesarrolloAplicacionesWeb_ISC2020.pdf,"1.1 Evolución histórica de Internet y la WWW 
+1.2 La Internet y la WWW 
+1.2.1 Arquitectura Cliente/Servidor 
+1.2.2 Protocolo TCP/IP 
+1.2.3 Protocolo de Transferencia de Híper Texto (HTTP) 
+1.2.4 Evolución de Navegares Web  
+1.3 Estándares para la Web 
+1.4 Entornos de desarrollo para Aplicaciones Web
+2.1 Evolución del lenguaje HTML 
+2.2 Estructura de un documento HTML 
+2.3 Elementos de HTML 
+2.4 Tablas, contenedores y formularios 
+2.5 Creación y modificación de archivos HTML estáticos
+3.1 Introducción a los Servlets 
+3.2 Ciclo de vida y el API Servlet 
+3.3 HttpServlets 
+3.3.1 Parámetros 
+3.3.2 Atributos 
+3.3.3 Sesión 
+3.3.4 Redireccionamiento 
+3.3.5 Cookies
+4.1 Historia de XML 
+4.2 Elementos de XML 
+4.3 Tipo de Documento (DTD) 
+4.4 Esquema XML 
+4.5 Modelo Objeto Documento (DOM) 
+4.6 Creación, modificación y borrado de archivos 
+estáticos y dinámicos XML 
+4.6 Familia de dialectos XML
+5.1 Historia de Hojas de Estilo en Cascada (CSS) 
+5.2 Aspectos básicos de los estilos 
+5.2.1 Recomendación del W3C para las hojas de estilo 
+en cascada 
+5.3 Selectores  
+5.4 Reglas de estilo 
+5.5 Modelo de cajas 
+5.6 Propiedades generales de estilo para los elementos 
+de HTML 
+5.7 Posicionamiento de elementos (GridLayout, Flexbox) 
+5.8 Propiedades avanzadas de los estilos (CSS Nivel 3) 
+5.9 Creación, modificación y borrado de archivos CSS 
+estáticos y dinámicos XML 
+5.10 Lineamientos del diseño responsivo
+6.1 Historia de JavaScript 
+6.2 Sintaxis de Elementos de JavaScript 
+6.2.1 Modelo de Eventos 
+6.2.2 Modelo de objetos del Navegador 
+6.2.3 Manejo de Expresiones regulares 
+6.2.4 Creación, modificación y borrado de archivos 
+JavaScript estáticos y dinámicos 
+6.3 Notación JSON 
+6.4 Marcos de Trabajo JavaScript (Frameworks) 
+6.5 Historia de AJAX 
+6.5.1 Conceptos básicos de AJAX 
+6.5.2 Diferencias entre aplicaciones Web tradicionales y 
+aplicaciones Web con AJAX 
+6.5.3 Objetos de AJAX
+"
+ISC/mecanicaElectromagnetismo_ISC2020.pdf,"1
+  1
+  1
+.1 Cinemática 
+1.1.1. Movimiento rectilíneo: marco de referencia 
+1.1.2. Desplazamiento, velocidad y aceleración  
+1.1.3. Movimiento rectilíneo uniformemente acelerado: 
+caída libre  
+.2.  Dinámica 
+1.2.3.  Segunda 
+1.2.6.  Aplicaciones: 
+1.3.1  Trabajo,  energía  cinética  y  energía  potencial 
+ 
+C - 2020
+2
+  2
+  2
+.1 Campo eléctrico 
+ 2.1.1 La carga  eléctrica: conservación  y cuantización. 
+Propiedades eléctricas de las cargas y los materiales 
+2.1.2 
+2.1.3 Líneas de campo eléctrico. Campos eléctricos de 
+2.1.4 Partículas cargadas dentro de un campo eléctrico  
+2.1.5 El dipolo eléctrico 
+.2. Ley de Gauss 
+2.2.1  Flujo  de  campo  eléctrico:  superficie  cerrada, 
+2.2.2 Ley de Gauss 
+2.2.3 Aplicaciones de la Ley de Gauss: esfera, cilindro, 
+plano y línea de carga 
+.3. Potencial eléctrico 
+2.3.1  Potencial 
+superficie 
+electrostática  
+2.3.3  Potencial  eléctrico  debido  a  distribuciones  de 
+carga discreta y continua  
+ 
+C - 2020
+3
+  3
+.1 Campo magnético 
+3.1.1 Campo de inducción magnética, flujo magnético, 
+magnéticos 
+corriente 
+corriente 
+ 
+C - 2020
+"
+ISC/electronicaAnalogica_ISC2020.pdf,"1.1        Teoría de semiconductores  
+1.2        Diodos semiconductores  
+1.2.1     Diodo rectificador  
+1.2.2     Diodo zener  
+1.2.3     Diodo emisor de luz 
+1.3        Reguladores de voltaje  
+1.3.1     Reguladores de voltaje lineales fijos  
+1.3.2     Reguladores de voltaje lineales variables  
+1.4        Transistor Bipolar (BJT)  
+1.4.1     Principios de operación del BJT  
+1.4.2     Configuraciones básicas del BJT  
+1.4.3     El BJT en estado de conmutación  
+1.5        Transistor de Efecto de Campo (FET)  
+1.5.1     Principios de operación del FET  
+1.5.2     Parámetros y características de transferencia 
+1.5.3     Polarización del FET
+2.1       Aspectos principales de los amplificadores 
+operacionales 
+2.2       Configuraciones básicas  
+2.2.1    Amplificador inversor  
+2.2.2    Amplificador no-inversor  
+2.2.3    Sumador inversor  
+2.2.4    Restador  
+2.3       Configuraciones especiales  
+2.3.1    Integrador   
+2.3.2    Derivador  
+2.3.3    Antilogarítmico  
+2.3.4    Logarítmico  
+2.4       Comparadores  
+2.4.1    Detectores de cruce por cero  
+2.4.2    Detectores de nivel  
+2.4.3    Detectores con histéresis  
+2.5       Osciladores 
+2.6       Amplificador de Instrumentación
+3.1        Filtros activos  
+3.1.1     Orden del Filtro  
+3.1.2     Funciones de transferencia en S  
+3.1.3     Diagrama de Bode  
+3.2        Filtros según su función  
+3.2.1     Pasa bajas  
+3.2.2     Pasa altas  
+3.2.3     Pasa banda  
+3.2.4     Rechaza banda
+"
+ISC/disenoSistemasDigitales_ISC2020.pdf,"1
+  1
+  1
+.1 Registros y su clasificación  
+1.1.1 Registros entrada serial salida serial 
+1.1.2 Registros entrada serial salida paralela 
+1.1.3 Registros entrada paralela salida serial 
+1.1.4 Registros entrada paralela salida paralela 
+1.1.5 Registro barrel shifter 
+.2 Diseño de registros con control de carga síncrona y 
+asíncrona 
+.3 Programación de registros con lenguaje de descripción de 
+hardware
+2
+   
+.1 Autómata finito determinista con salida y sin salida 
+2.2 Máquina de Mealy y de Moore 
+2.3 Diseño de máquinas de Mealy y Moore usando FlipFlop´s 
+JK, SR, T, D 
+2.4 Reducción de estados usando método tabular e 
+implicantes primos 
+2.5 Aplicaciones con autómatas y lenguaje de descripción de 
+hardware
+3
+.1 Contadores asíncronos y síncronos 
+3.1.1 Diseño de contadores secuenciales y no secuenciales 
+3.2 Diseño de contador Johnson y su representación en HDL 
+3.3 Diseño de contador de anillo y su representación en HDL 
+3.4 Diseño de contador BCD y su representación en HDL 
+3.5 Aplicaciones con contadores y su representación en HDL
+4
+.1 Memorias y su clasificación 
+4.2 Memorias RAM, SRAM y DRAM 
+4.3 Memorias ROM, PROM, EPROM, EEPROM Y Flash 
+4.4 Tipos especiales de memorias, FIFO y NVRAM 
+4.5 Módulos de memorias 
+4.6 Manejo de arreglos y diseño de memorias RAM, ROM y 
+FIFO con lenguaje de descripción de hardware
+5
+.1 Carta ASM 
+5.2 Diseño de la ruta de datos 
+5.3 Autómata de la unidad de control 
+5.4 Manejo de archivos, funciones, procedimientos, paquetes 
+y componentes con lenguaje de descripción de hardware 
+5.5 Aplicaciones con cartas ASM y su representación con 
+HDL
+"
+ISC/metodosCuantitativosTomaDecisiones_ISC2020.pdf,"1.1 Antecedentes 
+1.1.1 Origen y desarrollo de los métodos cuantitativos y 
+cualitativos 
+1.1.2 Naturaleza de los métodos cuantitativos y 
+cualitativos 
+1.2 Campo de los métodos cuantitativos y la 
+investigación de operaciones 
+1.2.1 Importancia y aplicaciones de los métodos 
+cuantitativos y cualitativos 
+1.2.2 Estructura de una organización, un sistema y de la 
+función de optimización 
+1.3 Toma de decisiones 
+1.3.1 Fases del proceso de toma de decisiones. 
+Situaciones o contextos de decisión: ambiente de 
+certidumbre, de riesgo y de incertidumbre 
+1.4 Modelos y problemas 
+1.4.1 Tipos de modelos: icónicos, analógicos y 
+matemáticos 
+1.4.2 Tipos de problemas: determinísticos, de riesgo y 
+bajo incertidumbre 
+1.5 Metodología de la investigación de operaciones 
+1.5.1 Pasos de la metodología de la investigación de 
+operaciones 
+1.5.2 Técnicas y algoritmos usados por los métodos 
+cuantitativos 
+1.6 Técnicas de análisis cualitativo  
+1.6.1 Generalización del problema 
+1.6.2 Resultado final ideal 
+1.6.3 Los cinco ¿por qué?
+2.1 Programación lineal: aspectos básicos 
+2.1.1 Función lineal, desigualdad lineal y región factible 
+2.1.2  El  problema  de  programación 
+lineal  como  un 
+problema de optimización y sus características 
+2.2 Forma general del problema en programación lineal 
+2.2.1 Estructura general de un modelo de programación 
+lineal 
+2.3 Modelos matemáticos  
+2.3.1 
+Formulación 
+del 
+modelo 
+matemático: 
+determinación del objetivo, variables, restricciones y la 
+función objetivo 
+2.4 Método gráfico 
+2.4.1  Determinación  de  la  región  factible  y  la  solución 
+óptima 
+2.5 Método simplex algebraico 
+2.5.1 Determinación de la solución óptima en problemas 
+de maximización 
+2.5.2  Problemas  de  minimización:  uso  de  variables 
+artificiales 
+2.5.3 Método de variables artificiales
+3.1 Teoría de la dualidad 
+3.1.1 Relaciones entre el problema primal y el dual 
+3.1.2 Transformación del problema primal a su problema 
+asociado dual 
+3.2 Solución dual óptima a partir de la solución óptima del 
+problema primal 
+3.3 Interpretación económica de la dualidad 
+3.4 Método simplex dual 
+3.4.1 Criterio de factibilidad y de optimalidad 
+3.5 Análisis de sensibilidad
+4.1 Problemas de flujo en redes 
+4.1.1 Características 
+4.2 Problema del árbol de extensión mínima 
+4.3 Problemas de flujo máximo 
+4.4  Planeación  y  control  de  proyectos:  Método  de  la 
+Ruta Crítica (CPM) y Técnica de Evaluación y Revisión 
+de Proyectos (PERT) 
+4.4.1 PERT/ costo 
+4.4.2 PERT/ probabilístico 
+4.5 Formulación del problema de transporte 
+4.5.1 Regla de la esquina noroeste 
+4.5.2 Método de búsqueda de costo mínimo 
+4.5.3 Método de Vogel o de sanción
+5.1 Importancia de las decisiones de control de 
+inventario 
+5.1.1 Decisiones sobre políticas de inventarios 
+5.2 Técnicas para ahorrar costos en el transporte 
+5.2.1 Técnicas operativas para el ahorro de costos 
+en almacén 
+5.3 Técnicas para ahorrar costos operativos 
+especiales 
+5.3.1 Tipos de costos involucrados 
+5.3.2 Costos y las áreas involucradas.
+"
+ISC/trabajoTerminal_II_ISC2020.pdf,"1
+1.1  Implementación 
+1.1.1 
+Estándares y procedimientos de codificación o 
+implementación 
+1.1.2 
+Integración de código, prototipo o servicios 
+existentes 
+.2  Pruebas 
+1.2.1 
+Plan de pruebas 
+1.2.2 
+Elaboración de escenarios y scripts de 
+pruebas unitarias o modulares
+2
+  2
+  2
+2.1  Integración 
+2.1.1 
+Interoperabilidad de elementos  
+2.1.2 
+Pruebas de integración 
+2.1.3 
+Verificación y validación de resultados 
+.2  Análisis e interpretación de resultados 
+2.2.1 
+Identificación de oportunidades de mejora 
+.3  Trabajo a futuro 
+.4  Conclusiones
+3
+3.1  Reporte final del proyecto 
+3.1.1 
+Análisis de similitud 
+3.1.2 
+Revisión de formatos 
+ 
+3.2  Artículo técnico 
+3.2.1 
+Aplicación de formatos de escritura de un 
+artículo científico 
+.3  Presentación ejecutiva del proyecto
+"
+ISC/administracionServiciosRed_ISC2020.pdf,"1.1  Servicios de red 
+1.1.1 
+Clasificación de los servicios de red 
+1.1.2 
+Características de los servicios de red  
+ 
+1.2  Análisis de requerimientos para implementar los 
+servicios de red 
+1.2.1 
+Requerimientos de software 
+1.2.2 
+Requerimientos de hardware 
+1.2.3 
+Diseño de políticas 
+ 
+1.3  Tecnologías de telecomunicaciones 
+1.3.1 
+PDH y SDH 
+1.3.2 
+DWDM 
+1.3.3 
+GSM y GPRS 
+ 
+1.4  Ética informática 
+1.4.1 
+Código de ética
+2.1  Configuración avanzada de conectividad del switch y 
+ruteador 
+2.1.1 
+Balanceo de carga 
+2.1.2 
+Alta disponibilidad 
+ 
+2.2  Listas de Control de Acceso 
+2.2.1 
+Listas 
+de 
+Control 
+de 
+Acceso 
+Estándar/ 
+Extendidas 
+2.2.2 
+Listas de Control de Acceso de entrada y salida 
+ 
+2.3  Traducción de direcciones de red (NAT) 
+2.3.1 
+NAT estática 
+2.3.2 
+NAT dinámica 
+2.3.3 
+PAT 
+ 
+2.4  Redes de Área Local Virtuales (VLANs) 
+2.4.1 
+Configuración de puertos troncales 
+2.4.2 
+Etiquetado 
+ 
+2.5  Redes definidas por software
+3.1  Administración de la red 
+3.1.1 
+Protocolo de administración de red (SNMP) 
+3.1.2 
+Bitácoras 
+3.1.3 
+Sistemas administradores de red 
+ 
+3.2  Temas avanzados de calidad de servicio 
+3.2.1 
+Conformación de tráfico 
+3.2.2 
+Servicios diferenciados 
+3.2.3 
+Parametrización de los servicios 
+ 
+3.3  Monitorización para la administración de redes 
+3.3.1 
+El proceso y principios de monitorización 
+3.3.2 
+Recolección, análisis y notificación
+4.1  Administración de servicios de alto nivel con base en 
+SNMP 
+4.1.1 
+Hipertexto, 
+transferencia  de  archivos  y  correo 
+electrónico 
+4.1.2 
+Mensajería instantánea, acceso remoto y Voz/ IP 
+4.1.3 
+Sistema de archivos de red 
+ 
+4.2  Servicios de bajo nivel  
+4.2.1 
+Asignación dinámica de direcciones IP 
+4.2.2 
+Servicios de nombres 
+4.2.3 
+Servidor proxy
+5.1  Seguridad básica 
+5.1.1 
+Elementos de seguridad 
+5.1.2 
+Tipos de riesgo 
+5.1.3 
+Políticas, mecanismos y elementos de seguridad 
+ 
+5.2  Resolución de problemas 
+5.2.1 
+Mejorar el desempeño 
+5.2.2 
+Tolerancia a fallos 
+5.2.3 
+Recuperación  
+ 
+5.3  Auditoria informática 
+5.3.1 
+Objetivos y criterios 
+5.3.2 
+Planeación de la auditoria 
+5.3.3 
+Seguimiento y reportes
+"
+ISC/comunicacionOralEscrita_ISC2020.pdf,"1
+  1
+1.1  Naturaleza social de la comunicación: la lengua 
+1.1.1 Habilidades comunicativas 
+1.2 La comunicación como manifestación sociocultural 
+C - 2020
+2
+  2
+  2
+2.1 Comunicación escrita  
+2.1.1 Características  
+ 
+C - 2020
+3
+  3
+3.1  Comunicación oral 
+3.1.1Características 
+.2 Tipos de discurso oral 
+.3 Planeación y producción del discurso público 
+3.3.1 Estrategias y técnicas para la presentación 
+oral 
+3.3.2 Presentación oral del discurso
+"
+ISC/fundamentosProgramacion_ISC2020.pdf,"1.1. Fundamentos de programación 
+1.1.1 Arquitectura de Von Neumann 
+1.1.2 Clasificaciones de los lenguajes de programación  
+1.1.3 Herramientas de programación 
+1.2 Programación en el lenguaje C  
+1.2.1 Lenguaje en C  
+1.2.2 Tipos de datos primitivos y operadores aritméticos 
+1.2.3 Manejo de la entrada y salida estándar  
+1.2.4 Sentencias de control  
+1.2.5 Arreglos  
+1.3 Programación y diseño estructurado  
+1.3.1 Teorema de la programación estructurada  
+1.3.2 Características de un programa estructurado 
+1.3.3 Diseño estructurado - Modularidad
+3.1 Arquitectura de Memoria 
+3.1.1 Harvard 
+3.1.2 Von Neumann 
+3.1.3 Memoria de un proceso en el modelo de memoria 
+única  
+3.2 Memoria dinámica 
+3.2.1 Reservación dinámica de memoria 
+3.2.2 Acceso y direccionamiento a arreglos dinámicos 
+3.2.3 Liberación de memoria 
+3.2.4 Memoria estática vs. memoria dinámica 
+3.3 Archivos 
+3.3.1 Archivos de acceso secuencial y de acceso directo 
+3.3.2 Creación y/o apertura de archivos 
+3.3.3 Lectura/escritura de archivos en modo texto 
+3.3.4 Lectura/escritura de archivos en modo binario 
+3.3.5 Cierre de archivos 
+3.3.6 Procesamiento y redireccionamiento de flujos de 
+entrada y salida 
+C - 2020
+"
+ISC/teoriaComputacion_ISC2020.pdf,"1.1  Orígenes de la computación 
+1.1.1 
+Automatización del cómputo 
+1.1.2 
+Paradojas de la lógica matemática 
+1.1.3 
+Teorema de incompletitud de Gödel 
+1.1.4 
+Computabilidad y complejidad 
+1.1.5 
+Jerarquía de Chomsky 
+ 
+1.2  Autómatas y lenguajes 
+1.2.1 
+Alfabetos y cadenas 
+1.2.2 
+Operaciones con lenguajes. 
+1.2.3 
+Autómatas finitos deterministas 
+1.2.4 
+Autómatas finitos no deterministas 
+1.2.5 
+Equivalencia entre AFD y AFN 
+1.2.6 
+Expresiones regulares 
+ 
+1.3  Propiedades de los lenguajes regulares 
+ 
+1.4 Aplicaciones de los lenguajes regulares
+2
+  2
+  2
+2.1 Gramáticas independientes del contexto 
+2.1.1 Forma de Backus Naur 
+2.1.2 Derivaciones de una gramática 
+2.1.3 Árbol de sintaxis 
+2.1.4 Ambigüedad 
+2.1.5 Forma normal de Chomsky  
+2.1.6 Forma normal de Greibach 
+.2 Autómata de Pila 
+.3 Propiedades de los lenguajes independientes del 
+contexto. 
+.4 Aplicaciones de los lenguajes independientes del 
+contexto
+3
+3.1 Máquina de Turing 
+3.1.1 Funciones recursivas primitivas parciales y 
+totales 
+3.1.2 Máquina de Turing con una cinta y multicinta 
+3.1.3 Máquina de Turing no determinística 
+3.1.4 Máquina de Turing universal 
+3.1.5 Tesis Church-Turing 
+.2 Decidibilidad 
+3.2.1 Problemas decidibles  
+3.2.2 Problemas indecidibles 
+3.2.3 Problema del paro
+"
+ISC/fundamentosDisenoDigital_ISC2020.pdf,"1.1    Estado del arte de Sistemas Digitales 
+1.2    Álgebra de Boole 
+1.3    Método gráfico de Mapa de Karnaugh 
+1.4.   Método tabular de Quine-McCluskey    
+1.5    Circuitos digitales combinatorios: problemas
+2
+.1    Escala de Integración  de los Circuitos  
+         Integrados (CI) 
+2.2    Características de las Familias Lógicas 
+2.3    Dispositivos Lógicos Programables (PLD) 
+2.4    Lenguajes de Descripción de Hardware (HDL) 
+2.4.1 Estructura de un programa en HDL 
+2.4.2 Estilos de programación 
+2.4.3 Sentencias concurrentes y secuenciales
+3.1 Circuito sumador/restador y su descripción en   
+      HDL (Lenguajes de descripción de Hardware) 
+      usando dispositivos lógicos programables 
+3.2 Circuito convertidor de código y su descripción en 
+      HDL  (Lenguajes de descripción de Hardware) 
+      usando dispositivos lógico  programables 
+3.3 Circuito comparador de Magnitud y su descripción 
+      en  HDL (Lenguajes de descripción de Hardware)  
+      usando dispositivos lógicos programables 
+3.4 Circuitos multiplexor y demultiplexor 
+3.4.1 Teorema de Expansión de Shannon 
+3.4.2 Descripción en  HDL (Lenguajes de descripción  
+         de Hardware) usando dispositivos lógicos      
+         programables 
+3.5 Circuitos codificador y decodificador y su  
+      descripción en HDL (Lenguajes de descripción de  
+      Hardware) usando dispositivos lógico 
+      programables
+4
+.1    Multivibradores en configuración monoestable, 
+         biestable y astable 
+4.2    Configuraciones Monoestable y Astable del  
+         Temporizador 555 
+4.3    Elementos de memoria tipo Latch SR, JK, T y D 
+4.4    Elementos de memoria tipo Flip-Flop  SR, JK, T 
+         y  D   
+4.5   Descripción  con HDL de Elementos de Memoria
+"
+ISC/trabajoTerminal_I_ISC2020.pdf,"1
+1.1. Proceso  de  planeación  de  desarrollo  de  proyectos 
+científicos o tecnológicos en cómputo  
+1.1.1. 
+Identificación del tipo de proyecto  
+1.1.2. 
+Análisis de metodologías 
+1.1.3. 
+Metodologías 
+1.1.4. 
+El ciclo de vida del producto 
+ 
+1.2. Administración de proyectos científicos o tecnológicos 
+en cómputo 
+.3. Planeación del proyecto 
+1.3.1. 
+Equipo de trabajo 
+1.3.2. 
+Delimitación del proyecto  
+1.3.3. 
+Análisis y gestión de riesgos del proyecto 
+1.3.4. 
+Métricas y estimación del proyecto
+2
+2.1 Análisis  
+2.1.1. 
+Delimitación del proyecto (conocimiento del 
+negocio o investigación científica)  
+2.1.2. 
+Análisis de requerimientos 
+2.1.3. 
+Propuesta de arquitectura 
+.2. Diseño 
+2.2.1.  Modelado de datos 
+2.2.2. 
+Diseños funcionales
+3
+  3
+3.1. Administración de cambios 
+3.1.1. 
+Control de versiones 
+.2. Verificación y validación 
+3.2.1. 
+Verificación y validación de requerimientos 
+3.2.2. 
+Verificación y validación de diseño 
+3.2.3. 
+Verificación y validación del costo del proyecto 
+.3. Estándares de desarrollo 
+3.3.1. 
+Prototipos funcionales y no funcionales
+"
+ISC/finanzasEmpresariales_ISC2020.pdf,"1
+  1
+1.1 La empresa 
+1.1.1 Constitución jurídica 
+1.1.2 El área financiera en la estructura 
+organizacional 
+ 
+1.2 Función y objetivo de las finanzas empresariales 
+.3 Las finanzas empresariales y su relación con otras 
+disciplinas  (Ética,  Economía,  Derecho,  Matemáticas, 
+etc.) 
+.4 Factores del micro y macro ambiente que impactan 
+a la empresa y a sus finanzas
+2
+  2
+2.1 La información financiera   
+.2 Las Normas de Información Financiera (NIF) 
+.3 Estados financieros básicos 
+2.3.1  Estado 
+de 
+situación 
+financiera 
+(Balance 
+General) 
+2.3.2 Estado de Resultados
+3
+  3
+3.1 El análisis financiero de la empresa   
+.2 Métodos para el análisis financiero 
+3.2.1 Análisis vertical (razones financieras y Dupont)  
+3.2.2 Análisis horizontal 
+.3 Análisis del punto de equilibrio operacional 
+3.3.1 Modelo matemático del punto de equilibrio con 
+un producto 
+      3.3.2 Modelo matemático del punto de equilibrio con      
+multiproductos
+4
+  4
+4.1 Valor del dinero en el tiempo 
+      4.1.1 Valor presente 
+      4.1.2 Valor futuro 
+.2 Anualidades 
+.3 La planeación financiera 
+4.3.1 El presupuesto maestro 
+ 
+4.4 Estados financieros proforma
+5
+  5
+5.1 Los proyectos de inversión   
+.2 Proceso de preparación y evaluación de proyectos 
+.3 Métodos de evaluación financiera para proyectos de 
+inversión 
+5.3.1  Método  del  período  de  recuperación  de  la 
+inversión (PRI) 
+5.3.2  Método  del  rendimiento  sobre 
+la 
+inversión 
+(RSI) 
+5.3.3 Costo-beneficio 
+5.3.4 Valor presente neto (VPN) 
+5.3.5 Tasa interna de rendimiento (TIR) 
+5.3.6 índices de Rentabilidad (IR)
+"
+ISC/analisisDisenoAlgoritmos_ISC2020.pdf,"1
+1.1  Problemas computacionales 
+1.1.1 Problemas computables y no computables 
+1.1.2 Complejidad espacial y temporal de problemas y 
+algoritmos 
+1.1.3 Clases de complejidad: P, NP, NP-Completos y 
+NP-Difíciles 
+.2  Algoritmos 
+1.2.1 Eficacia y eficiencia en resolución de problemas 
+1.2.2 Funciones de complejidad 
+1.2.3 Orden de crecimiento asintótico 
+1.2.4 Notación asintótica 
+1.2.5 Análisis de casos: mejor, peor, promedio y 
+estricto 
+1.2.6 Comparativa de órdenes de complejidad 
+1.2.7 Comparativa de tiempos de ejecución 
+ 
+1.3 Cálculo de Complejidad 
+1.3.1 Operaciones secuenciales y estructuras de 
+control 
+1.3.2 Algoritmos iterativos 
+1.3.3 Algoritmos recursivos 
+1.3.4 Árboles de invocaciones recursivas 
+1.3.5 Solución de ecuaciones de recurrencia
+2
+  2
+2.1 Divide y vencerás 
+2.1.1 Formulación recursiva 
+2.1.2 Ordenamiento rápido y por mezcla 
+2.1.3 Multiplicación de enteros largos 
+2.1.4 Multiplicación de matrices 
+2.1.5 Transformada Rápida de Fourier 
+2.1.6 Resolución de problemas adicionales 
+.2 Heurísticas voraces 
+2.2.1 Factibilidad y optimalidad 
+2.2.2 Cambio de monedas 
+2.2.3 Mochila fraccionaria 
+2.2.4 Códigos de Huffman 
+2.2.5 Árboles de recubrimiento mínimo 
+2.2.6 Resolución de problemas adicionales 
+.3. Programación dinámica 
+2.3.1 Memoización y optimalidad 
+2.3.2 Sucesión de Fibonacci y coeficientes binomiales 
+2.3.3 Mochila entera 
+2.3.4 Subsecuencia común más larga 
+2.3.5 Líneas de producción 
+2.3.6 Resolución de problemas adicionales
+3
+3.1 Clases P y NP 
+3.1.1 Certificados de verificación de soluciones 
+3.1.2 Reducibilidad polinomial 
+3.1.3 Clases de complejidad P, NP, NP-Completos y 
+         NP-Difíciles. 
+3.1.3 Problemática P vs NP 
+.2. Problemas NP-Completos 
+3.2.1 Completitud en la clase NP 
+3.2.2 Problema de la mochila 
+3.2.3 Satisfacibilidad booleana 
+3.2.4 Cliqué máximo 
+3.2.5 Coloreado de grafos 
+3.2.6 Algoritmos de aproximación
+"
+ISC/procesamientoDigitalSenales_ISC2020.pdf,"1
+  1
+  1
+  1
+   
+1.1  Clasificación de señales y sistemas continuos 
+ 
+1.2  Teorema de Muestreo 
+1.2.1 Efecto Alias 
+.3  Introducción al Procesamiento Digital de Señales 
+1.3.1 Procesamiento digital frente al analógico  
+1.3.2 Elementos de un sistema PDS 
+1.3.3 Aplicaciones  
+.4 Señales en tiempo Discreto 
+1.4.1 Clasificación de secuencias discretas 
+.5 Sistemas Discretos 
+1.5.1 Clasificación 
+1.5.2 Linealidad e Invariancia 
+1.5.3 Estabilidad y Causalidad 
+1.5.4 Clasificación de sistema LTI 
+1.5.5 Ecuaciones en diferencia 
+.6 Operaciones con señales discretas 
+1.6.1 Diezmación e Interpolación 
+1.6.2 Convolución 
+1.6.3 Correlación y Autocorrelación
+2
+    2
+  2
+  2
+   
+2.1 Transformada de Fourier en tiempo discreto. 
+.2 Transformada Discreta de Fourier (DFT). 
+2.2.1 Periodicidad en tiempo-frecuencia. 
+2.2.2 Transformada Discreta Inversa de Fourier (IDFT). 
+2.2.3 Propiedades de la Transformada Discreta de Fourier 
+(DFT). 
+.3 Transformada Rápida de Fourier (FFT) 
+2.3.1 Algoritmo por diezmación en tiempo. 
+.4 Ventaneo y respuesta en frecuencia 
+2.4.1 Contenido espurio en el espectro y uso de ventanas 
+2.4.2 Ancho de Banda y Resolución del Análisis Espectral 
+.5. Aplicación de la transformada  
+2.5.1 Convolución lineal y correlación lineal. 
+2.5.2 Otras Aplicaciones
+3
+  3
+  3
+  3
+  3
+3.1 Transformada Z y Región de convergencia. 
+3.1.1 Propiedades de la Transformada Z 
+.2 Relación entre la Transformada Z y la Transformada 
+de Laplace 
+3.2.1 Ecuaciones Diferenciales y Ecuaciones en 
+diferencias. 
+.3 Estructuras y programación de ecuaciones en 
+diferencias. 
+.4 Función de transferencia, polos y ceros 
+.5 Transformada Z inversa 
+3.5.1 Método de Integral de Inversión 
+3.5.2 Método de expansión en serie de potencias 
+3.5.3 Método de expansión en fracciones parciales 
+.6 Causalidad y estabilidad
+4
+  4
+  4
+  4
+4.1    Características de los filtros Digitales 
+4.1.1 Filtros de fase mínima y de fase no mínima. 
+.2    Diseño de filtros FIR 
+4.2.1 Estructuras de filtros digitales FIR 
+4.2.2 Método de la Ventana 
+4.2.3 Método óptimo 
+.3    Diseño de filtros IIR 
+4.3.1 Estructura de filtros digitales IIR 
+4.3.2 Diseño de filtros digitales IIR por transformada 
+bilineal. 
+.4    Filtros adaptativos 
+4.4.1 Filtro FIR óptimo de Wiener 
+4.4.2 Filtros adaptable LMS 
+.5    Aplicaciones
+5
+  5
+     
+5. Teoría de Wavelets 
+5.1.1 Definición de Wavelet  
+5.1.2 Transformada Wavelet 
+.2 Wavelet continua (CoWT) 
+.3 Wavelet discreta (DWT). 
+5.3.1 DWT en una dimensión 
+5.3.2 DWT en dos dimensiones 
+5.3.3 Wavelet madre y funciones wavelet 
+5.3.4 Aplicaciones de la Transformada Wavelet
+"
+ISC/instrumentacionControl_ISC2020.pdf,"1.1         Instrumentos de medición  
+   1.1.1   Características estáticas  
+1.2         Clasificación de sensores  
+   1.2.1   Resistivos  
+   1.2.2   Generadores  
+   1.2.3   Fotovoltaicos  
+   1.2.4   Capacitivos  
+   1.2.5   Inductivos  
+1.3         Técnicas de acondicionamiento de señal  
+   1.3.1   Linealización  
+   1.3.2   Compensación  
+   1.3.3   Amplificación  
+   1.3.4   Atenuación  
+   1.3.5   Filtrado  
+   1.3.6   Acoplamiento y aislamiento  
+1.4         Sistema de acondicionamiento de señal
+2.1          Convertidores  
+   2.1.1    Señales analógicas y digitales  
+   2.1.2    Terminología de Convertidores  
+2.2          Convertidores Digital a Analógicos (CDA)  
+   2.2.1    Características Estáticas y Dinámicas de los 
+               CDA  
+   2.2.2    Convertidores de resistencias ponderadas  
+   2.2.3    Convertidor R-2R  
+2.3          Convertidores Analógicos a Digitales (CAD)  
+   2.3.1    Características Estáticas y Dinámicas de los 
+               CAD  
+   2.3.2    Convertidor de rampa simple  
+   2.3.3    Convertidor de rampa doble  
+   2.3.4    Convertidor de aproximaciones sucesivas  
+   2.3.5    Convertidor tipo Flash  
+   2.3.6    Convertidores Avanzados. Sigma-Delta. 
+2.4           Etapa de digitalización y mediciones de 
+                proyecto
+3.1          Modelado de sistemas de Control  
+3.2          Sistemas lineales e invariantes en el tiempo  
+3.3          Algebra de bloques  
+3.4          Análisis de respuesta transitoria y análisis de 
+               error en estado estacionario.  
+   3.4.1    Sistemas de primer orden  
+   3.4.2    Sistemas de segundo orden  
+   3.4.3    Análisis de error en estado estacionario  
+3.5          Análisis y diseño de sistemas de control por 
+               métodos convencionales  
+   3.5.1    Análisis de respuesta en frecuencia  
+   3.5.2    Diagramas de Bode  
+   3.5.3    Criterios de estabilidad de Nyquist  
+   3.5.4    Análisis de estabilidad  
+   3.5.5    Análisis de respuesta en frecuencia de lazo 
+               cerrado  
+3.6          Controladores clásicos  
+   3.6.1    Proporcional  
+   3.6.2    Proporcional-Derivativo  
+   3.6.3    Controlador integral  
+   3.6.4    Proporcional-Integral-Derivativo
+4.1        Arquitectura de un sistema de medición virtual  
+   4.1.1 Elementos de un Instrumento Virtual 
+   4.1.2 Hardware de Adquisición de Datos 
+   4.1.3 Software de Adquisición de Datos 
+4.2        Protocolos de comunicación en un sistema 
+             de medición virtual 
+   4.2.1 Protocolos de comunicación en   
+              Aplicaciones Industriales 
+   4.2.2   Protocolos de comunicación en Sistemas 
+              Embebidos.  
+4.3        Sistema de Medición Virtual 
+    4.3.1 Implementación de entorno grafico Virtual 
+    4.3.2 Integración de proyecto final con entorno 
+              gráfico Virtual.
+"
+ISC/matematicasDiscretas_ISC2020.pdf,"1.1 Equivalencias 
+1.1.1 Proposiciones atómicas, compuestas y jerarquía de 
+operadores 
+1.1.2 Equivalencias lógicas 
+1.1.3 Álgebra de proposiciones 
+1.1.4 Contrapositiva, recíproca e inversa de una 
+condicional 
+1.2 Inferencias  
+1.2.1 Reglas de inferencia 
+1.2.2 Demostraciones directas e indirectas 
+1.3 Cuantificadores  
+1.3.1 Proposiciones abiertas y cuantificadores 
+1.3.2 Lenguaje natural y cuantificadores 
+1.3.3 Equivalencias e inferencias con cuantificadores
+2.1 Conjuntos 
+2.1.1 Operadores, igualdad y contención de conjuntos 
+2.1.2 Álgebra de conjuntos 
+2.1.3 Propiedades de la contención 
+2.2 Cardinalidad 
+2.2.1 Fórmulas básicas de cardinalidad 
+2.2.2 Principio de inclusión y exclusión 
+2.3 Conjunto Potencia y Producto Cartesiano 
+2.3.1 Conjunto Potencia 
+2.3.2 Producto Cartesiano
+3.1 Números Enteros 
+3.1.1 Propiedades de los números enteros 
+3.2 Divisibilidad 
+3.2.1 Propiedades de la divisibilidad 
+3.2.2 Algoritmo de la división 
+3.3.5 Algoritmo de Euclides 
+3.3 Inducción matemática 
+3.3.2 Problemas de divisibilidad 
+3.3.3 Problemas de orden 
+3.3.4 Problemas de generalización 
+3.4 Sistemas de numeración 
+3.4.1 Algoritmo de cambio de base 
+3.4.2 Relación entre los sistemas binario y hexadecimal 
+3.4.3 Operaciones básicas en base b 
+C - 2020
+4.1 Álgebras y Funciones booleanas 
+4.1.1 Propiedades de las álgebras booleanas 
+4.1.2 Funciones booleanas 
+4.1.3 Sumas de minitérminos y productos de maxitérminos 
+4.2 Relaciones 
+4.2.2 Propiedades de la Inversa y la Composición de las 
+relaciones. 
+4.2.3 Propiedades de las funciones 
+antisimétricas y transitivas 
+4.3.3 Relaciones de equivalencia 
+4.4 Enteros módulo n 
+4.4.1 Congruencia módulo n como relación de equivalencia 
+4.4.2 Aritmética de los enteros módulo n 
+4.4.3 Teorema chino del residuo 
+4.5 Grafos y Árboles 
+4.5.2 Recorridos y circuitos eulerianos y hamiltonianos 
+4.5.3 Algoritmo del camino más corto 
+4.4.5 Recorridos en pre-orden, in-orden y post- orden de 
+árboles binarios 
+C - 2020
+"
+ISC/calculo_ISC2020.pdf,"1.1  Desigualdades 
+ 
+1.4.1 
+1.4.2 
+1.4.3 
+ 
+C - 2020
+2
+2.1 Límites de manera gráfica y numérica 
+.2 Cálculo analítico de límites 
+2.2.1 Límites de formas indeterminadas 
+2.2.2 Límites unilaterales 
+2.2.3 Límites de funciones trigonométricas 
+ 
+2.3 Límites infinitos y en el infinito 
+2.3.1 Asíntotas horizontales, verticales y oblicuas 
+ 
+2.4 Continuidad: en un punto y en un intervalo
+"
+ISC/desarrolloAplicacionesMovilesNativas_ISC2020.pdf,"1
+  1
+  1
+1.1. 
+Historia del dispositivo móvil 
+.2. 
+Elementos de las aplicaciones móviles (Ecosistema 
+móvil) 
+.3. 
+Tipos de aplicaciones móviles 
+1.3.1.  Web 
+1.3.2.  Nativas 
+1.3.3.  Híbridas  
+.4. 
+Ecosistema Android 
+1.4.1.  Arquitectura de Android 
+1.4.2.  Niveles de API 
+1.4.3.  Entornos de desarrollo 
+1.4.4.  Emuladores Android
+2
+  2
+  2
+  2
+2.1. 
+Fundamentos del lenguaje 
+.2. 
+Estructura de la aplicación 
+.3. 
+Vistas, distribución de componentes (Layout) y 
+temas 
+.4. 
+Formas de diseño de la interfaz de usuario  
+2.4.1. Asistente 
+2.4.2.  XML 
+2.4.3. Código 
+.5. 
+Actividades, intents, fragmentos
+3
+  3
+  3
+  3
+3.1. 
+Permisos 
+.2. 
+Preferencias compartidas (shared preferences) 
+.3. 
+Archivos 
+3.3.1. Texto plano 
+3.3.2. XML 
+3.3.3. JSON 
+.4. 
+Bases de datos 
+3.4.1. Motor de datos 
+3.4.2. Bases de datos relacionales 
+3.4.3. Mapeo objeto-relacional 
+3.4.4. Base de datos NoSQL 
+.5. 
+Proveedores de contenido
+4
+  4
+  4
+4.1. 
+Sensores 
+4.1.1. Bluetooth 
+4.1.2. Puerto USB 
+4.1.3. Geolocalización 
+4.1.4. Acelerómetro 
+4.1.5. Cámara y micrófono 
+4.1.6. Giroscopio 
+.2. 
+Servicios 
+4.2.1. Servicios web  
+4.2.2. Arquitectura orientada a servicios (SOA) 
+4.2.3. RESTful API 
+.3. 
+Servicios en la nube 
+4.3.1. Base de datos NoSQL (Cloud Firestore) 
+4.3.2. Autenticación (Authentication) 
+4.3.3. Almacenamiento en la nube (Cloud Storage) 
+4.3.4. Base de datos en tiempo real (Realtime   
+4.3.5. Realtime Database) 
+4.3.6. Mensajes en la nube (Cloud Messaging) 
+.4. 
+Notificaciones push
+5
+  5
+  5
+5.1. 
+Tienda de aplicaciones Android (Play store) 
+.2. 
+Publicación de la aplicación 
+5.2.1. Creación del apk  
+5.2.2. Firma de desarrollador 
+5.2.3. Publicidad 
+.3. 
+Interfaz de programación de aplicaciones  
+5.3.1. Realidad aumentada 
+5.3.2. QR 
+5.3.3. Otras API 
+.4. 
+Vestibles (wereables)  
+5.4.1. Reloj inteligente 
+5.4.2. Pulseras inteligentes
+"
+ISC/redesComputadoras_ISC2020.pdf,"1
+  1
+  1
+1.1 Fundamentos de redes de computadoras 
+.2 Clasificación de redes de computadoras 
+1.2.1 Redes por su área geográfica, topología y  
+         relación funcional 
+1.2.2 Redes conmutadas 
+     1.2.3Tendencias de las redes: Redes SAN, SDN 
+.3 Organizaciones de estandarización 
+1.3.1 ISO, IETF, UIT-T 
+1.3.2 Principales estándares IEEE (802.2, 802.3,   
+         802.11, 802.15 y 802.16) 
+.4 Modelo OSI y Arquitectura TCP/IP
+2
+  2
+     
+2.1   Funciones de los protocolos:  
+      2.1.1 Encapsulamiento, Control de flujo y  
+               control de error 
+      2.1.2 Segmentación y ensamblado,         
+             direccionamiento: nivel, alcance y tipos 
+      2.1.3Servicios de transmisión, control de  
+               conexión y Multicanalización / multiplexación 
+.2 Especificaciones y estándares de medios de  
+      transmisión 
+.3 Códigos de línea
+3
+  3
+  3
+   
+3.1 Fundamentos de capa física  
+      3.1.1 Ancho de banda 
+      3.1.2 Ruido y relación señal - 
+ruido 
+      3.1.3 Capacidad de canal 
+.2 Rutinas para manipular la NIC 
+      3.2.1  Rutinas  para  leer  tramas  al 
+vuelo 
+      3.2.2  Rutinas  para 
+leer 
+tramas 
+desde un archivo 
+      3.2.3 Rutinas para enviar tramas 
+.3 Estándar IEEE 802.3 
+3.3.1 Protocolo HDLC 
+3.3.2 Encabezado IEEE 802.3 
+3.3.3  Encabezado  LLC  y  análisis 
+de trama IEEE 802.3 
+.4 Tecnologías de Control de Acceso 
+al Medio
+4.1 Protocolo de Internet IP 
+   4.1.1 Direccionamiento IPv4 por clases, VLSM,  
+            CIDR 
+   4.1.2 IPv4 vs IPv6 
+   4.1.3 Encabezado IPv4 e IPv6 y análisis de tramas 
+ 
+4.2 Enrutamiento IP 
+4.2.1 Sistema autónomo  
+4.2.2 Enrutamiento estático 
+     4.2.3 Protocolos de Enrutamiento dinámico:  
+             interior y exterior 
+   
+4.3 Protocolo de Resolución de Direcciones ARP   
+4.3.1 Encabezado ARP 
+4.3.2 Análisis de tramas ARP 
+4.4 Protocolo de Mensajes de Control de Internet ICMP  
+4.4.1 Encabezado ICMP 
+4.4.2 Análisis de tramas ICMP 
+ 
+4.5 Protocolo de Administración de Grupos de Internet 
+(IGMP)  
+4.5.1 Encabezado IGMP 
+4.5.2 Análisis de tramas IGMP 
+4.5.3 IGMP vs DVMRP vs PIM vs MSDP
+5.1 Protocolo de Control de Transmisión TCP  
+4.1.1 Encabezado TCP 
+ 
+5.2 Protocolo de Datagramas de Usuario UDP  
+4.2.1 Encabezado UDP 
+ 
+5.3 Análisis de segmentos TCP y datagramas UDP
+"
+ISC/sistemasOperativos_ISC2020.pdf,"1
+  1
+  1
+  1
+1.1 Aspectos básicos del sistema operativo 
+1.1.1 Objetivos 
+1.1.2 Evolución 
+1.1.3 Tipos: mainframe, servidor, multiprocesador, 
+embebidos y tiempo real 
+.2 Fundamentos del núcleo del sistema operativo 
+1.2.1 Tipos: monolítico, por capas, micro núcleo, 
+máquina virtual 
+.3 Modos de operación de un sistema operativo 
+1.3.1 Interrupciones 
+1.3.2 Usuario y Kernel 
+1.3.3 Contadores 
+.4 Llamadas a sistema 
+1.4.1 Procesos y señales 
+1.4.2 Directorios y archivos 
+1.4.3 Protección 
+1.4.4 Diversos 
+.5 Shell 
+1.5.1 Argumentos y variables 
+1.5.2 Estructuras de control 
+1.5.3 Manipulación de cadenas 
+1.5.4 Funciones
+2
+  2
+  2
+  2
+2.1 Modelo de procesos 
+2.1.1 Fundamentos: jerarquía, bloque de control de 
+proceso(BCP) 
+2.1.2 Operaciones 
+2.1.3 Estados 
+2.1.4 Implementación 
+.2 Modelo multi-hilo 
+2.2.1 Bibliotecas 
+2.2.2 Implementación 
+2.2.3 Hilos en modo usuario y kernel 
+.3 Comunicación entre procesos 
+2.3.1 Memoria compartida 
+2.3.2 Paso de mensajes 
+2.3.3 Tuberías 
+.4 Sincronización entre procesos/hilos 
+2.4.1 Principios de la sincronización: condición de 
+carrera, sección crítica, exclusión mutua, atomicidad, 
+abrazo mortal 
+2.4.2 Semáforos y mutex 
+2.4.3 Monitores 
+.5 Planificación 
+2.5.1 Criterios 
+2.5.2 Algoritmos 
+2.5.3 Planificación de hilos
+3
+  3
+3.1 Abstracción de la memoria 
+3.1.1 Organización de la memoria 
+3.1.2 Administración del almacenamiento 
+3.1.3 Memoria de intercambio 
+3.1.4 Manejo de memoria con mapa de bits 
+3.1.5 Manejo de memoria con listas ligadas 
+.2 Memoria virtual 
+3.2.1 Paginación 
+3.2.2 Tablas de página 
+3.2.3 Algoritmos de sustitución de páginas 
+.3 Segmentación 
+3.3.1 Implementación de la segmentación pura 
+3.3.2 Segmentación con paginación
+4
+  4
+  4
+  4
+4.1 Estructura del sistema de archivos 
+4.1.1 Capa del sistema de archivos 
+.2. Implementación 
+4.2.1 De archivos 
+4.2.2 De directorios 
+4.2.3 Archivos compartidos 
+.3 Métodos de asignación de espacio 
+4.3.1 Contigua 
+4.3.2 Ligada 
+4.3.3 Indexada 
+4.3.4 Administración del espacio en disco 
+.4 Sistemas de archivos estructurados 
+4.4.1 Por bitácoras 
+4.4.2 Por diario. 
+.5 Optimización del sistema de archivos 
+4.5.1 Recuperación 
+4.5.2 Consistencia 
+4.5.3 Rendimiento
+5
+  5
+5.1 Principios del hardware de E/S 
+5.1.1 Dispositivos de E/S 
+5.1.2 Controladores de dispositivos 
+5.1.3 Interrupciones 
+5.1.4 Acceso de memoria directo (DMA) 
+.2 Principios del software de E/S 
+5.2.1 Objetivos del software de E/S 
+5.2.2 E/S programadas 
+5.2.3 E/S manejadas por interrupciones 
+5.2.4 E/S usando DMA 
+.3 Capas de software 
+5.3.1 Manejador de interrupciones 
+5.3.2 Controladores de los dispositivos 
+5.3.3 Software modo usuario para E/S
+6
+6.1 El ambiente de seguridad 
+6.1.1 Seguridad en los sistemas operativos 
+6.1.2 Control de acceso a los recursos 
+6.1.3 Implementación de matrices de acceso 
+6.1.4 Modelos formales de seguridad 
+.2 Virtualización 
+6.2.1 Emulación 
+6.2.2 Virtualización asistida por hardware 
+6.2.3 Paravirtualización 
+6.2.4 Contenedores
+"
+ISC/matematicasAvanzadasIngenieria_ISC2020.pdf,"1
+  1
+1.1  Operaciones con números complejos 
+1.1.1 Representación de un número complejo en el 
+plano complejo. Parte real e imaginaria. Módulo y 
+argumento. Igualdad de números complejos. Complejo 
+conjugado. Forma cartesiana, polar y exponencial  
+1.1.2 Operaciones: Suma, diferencia, multiplicación, 
+división. Módulo de la multiplicación y de la división. 
+Desigualdad del triángulo 
+1.1.3 Potencias y raíces de un número complejo 
+.2  Funciones de variable compleja 
+1.2.1 Conjuntos en el plano complejo 
+1.2.2 Separación de parte real e imaginaria de una 
+función de variable compleja f(z) = u + i v 
+1.2.3 Polinomios, funciones racionales, exponencial, 
+logaritmo, funciones trigonométricas, funciones 
+trigonométricas inversas. Mapeos conformes 
+1.2.4 Límite y continuidad 
+.3  Derivación de funciones de variable compleja 
+1.3.1 Ecuaciones de Cauchy- Riemann 
+1.3.2 Propiedades de las funciones analíticas. Parte 
+real e imaginaria  
+1.3.3 Reconstrucción de una función analítica a partir 
+de su parte real o su parte imaginaria
+2
+  2
+2.1 Integrales curvilíneas 
+2.1.1 Integrales de funciones analíticas y no analíticas 
+.2 Integrales cerradas 
+2.2.1 Teoremas para integrales cerradas. Dominios 
+simplemente conexo y múltiplemente conexo 
+Teorema de Cauchy-Goursat. 
+2.2.2 Series de Taylor y Series de Laurent 
+2.2.3 Cálculo de residuos 
+.3 Aplicación de integrales complejas en el cálculo de 
+integrales reales 
+2.3.1 Integrales de funciones racionales 
+2.3.2 Integrales de funciones racionales multiplicadas 
+por senos y cosenos 
+2.3.3 Integrales de funciones racionales de senos y 
+cosenos
+3
+  3
+3.1 Series de Fourier trigonométrica 
+3.3.1 Producto interno de funciones y norma. Ortogonalidad 
+de la base de funciones trigonométricas 
+3.3.2 Cálculo de los coeficientes de la serie. Condiciones 
+de Dirichlet 
+3.3.3 Serie de Fourier de funciones pares e impares 
+3.3.4 Fenómeno de Gibbs 
+3.3.5 Identidad de Parseval 
+3.3.6 Serie de Fourier para funciones discretas 
+.2 Serie de Fourier compleja 
+3.2.1 Forma exponencial compleja. Base ortogonal de 
+funciones exponenciales.  
+3.2.2 Identidad de Parseval para la serie compleja 
+.3 Transformada de Fourier 
+3.3.1 Paso de la serie de Fourier compleja a la 
+transformada de Fourier continua. Integral de Fourier. 
+3.3.2 Identidad de Parseval para la transformada de Fourier 
+3.3.3 Propiedades de la transformada de Fourier 
+3.3.4 Transformada de Fourier de: Función Pulso, Delta de 
+Dirac y Función Escalón 
+3.3.5 Cálculo de transformadas directas e inversas 
+mediante las propiedades 
+3.3.6 Aplicaciones de la transformada de Fourier: Filtro 
+pasa bajas (solución del circuito RLC), Sistema masa 
+resorte amortiguado y Construcción de la carta de Smith.
+"
+ISC/aplicacionesComunicacionesRed_ISC2020.pdf,"1.1 
+Servicios definidos en la capa de transporte 
+1.2 
+Modelo cliente-servidor 
+1.3 
+Conexiones en el dominio de internet 
+1.3.1  TCP 
+1.3.2  UDP 
+1.4 
+Sockets orientados a conexión bloqueantes 
+1.5 
+Serialización 
+1.6 
+Sockets no orientados a conexión bloqueantes
+2.1. 
+Sincronía de hilos 
+2.1.1. Instrucciones atómicas 
+2.1.2. Sección crítica 
+2.1.3. Candados 
+2.1.4. Exclusión mutua 
+2.1.5. Semáforos 
+2.1.6. Pools de hilos 
+2.2. 
+Multihilos 
+2.3. 
+Formatos de intercambio de datos
+3.1. 
+Sockets orientados a conexión no bloqueantes 
+3.2. 
+Sockets no orientados a conexión bloqueantes 
+3.3. 
+Multidifusión 
+3.3.1. Datagramas de multidifusión 
+3.3.2. Resolución de direcciones de multidifusión lógicas 
+a físicas 
+3.3.3. Protocolo IGMP 
+3.4. 
+Sockets de multidifusión
+4.1. 
+Aplicaciones no orientadas a conexión 
+4.1.1. Protocolo FTP 
+4.1.2. Protocolo DNS 
+4.1.3. Protocolo DHCP 
+4.1.4. Protocolo NFS 
+4.2. 
+Aplicaciones orientadas a conexión 
+4.2.1. Protocolo FTP 
+4.2.2. Protocolo telnet 
+4.2.3. Protocolo HTTP 
+4.2.4. Protocolo SMTP 
+4.2.5. Protocolo SNMP
+5
+  5
+ 
+5.1. Java RMI (Remote Method Invocation) 
+ 
+5.2. Implementación de Skeleton 
+.3. Implementación de Stub 
+.4. RMIRegistry
+6.1. 
+Arquitectura P2P (Peer to Peer) 
+6.1.1. Conectividad 
+6.1.2. Enrutamiento de mensajes 
+6.1.3. Búsquedas 
+6.1.4. Seguridad  
+6.2. 
+Aplicaciones P2P 
+6.2.1. Intercambio y búsqueda de archivos 
+6.2.2. Sistemas de archivos distribuidos 
+6.3. 
+Sistema de telefonía a través de P2P
+"
+ISC/gestionEmpresarial_ISC2020.pdf,"1
+  1
+  1
+1.1 
+Las organizaciones 
+1.1.1  Clasificación 
+1.1.2  Constitución legal de acuerdo con la Ley de 
+Sociedades Mercantiles y la Ley de Sociedades 
+Civiles 
+.2 
+Administración 
+1.2.1  Objetivo de la administración 
+.3 
+Gestión empresarial 
+1.3.1  Objetivo de la gestión empresarial 
+1.3.2  Funciones básicas 
+1.3.3  Clasificación 
+.4 
+Diferencias entre administrar y gestionar
+2
+  2
+  2
+  2
+2.1 
+Factores  de  competitividad  que  afectan  la  gestión 
+empresarial 
+.2 
+Filosofía  corporativa  de  empresas  de 
+innovación 
+tecnológica 
+.3 
+Estrategia  y  cultura  organizacional  de  empresas  de 
+innovación tecnológica 
+.4 
+Implementación de la estrategia, planes, programas, 
+presupuestos y procedimientos 
+2.4.1 
+ Cuadro de mando integral 
+.5 
+Herramientas de gestión estratégica  
+2.5.1  Análisis FODA y desarrollo de estrategias 
+2.5.2  Modelos de negocio 
+2.5.3  Modelo de Diamante de Porter 
+2.5.4  Plan comercial 
+2.5.5  Plan maestro
+3
+  3
+  3
+3.1 
+Estructura organizacional 
+3.1.1 
+División  del  trabajo,  coordinación,  especialización, 
+jerarquización,  departamentalización  y  unidad  de 
+mando 
+.2 
+Innovación y tecnología 
+3.2.1 
+La tecnología como factor intangible de 
+competitividad 
+3.2.2 
+Tecnologías emergentes 
+.3 
+Manejo de cambio e innovación 
+.4 
+Herramientas de gestión operativa 
+3.4.1 
+Reingeniería de los procesos de negocio 
+3.4.2 
+Transformación 
+de 
+la 
+estructura 
+y 
+la 
+cultura 
+organizacional 
+3.4.3 
+Evaluación tecnológica de la empresa 
+3.4.4  Optimización de los recursos tecnológicos
+4
+  4
+  4
+4.1 
+Capital humano  
+4.1.1 
+Funciones del departamento de capital humano 
+.2 
+Marco normativo de las relaciones laborales 
+.3 
+Calidad 
+4.3.1 
+Control estadístico  
+4.3.2 
+Calidad total 
+.4 
+Herramientas de gestión  del Capital Humano  y de 
+calidad 
+4.4.1 
+Las 5´s  
+4.4.2 
+Just in Time  
+4.4.3 
+Análisis funcional  
+4.4.4 
+Benchmarking  
+4.4.5 
+ERP
+5
+  5
+  5
+5.1 
+Aspectos legales 
+5.1.1 
+Propiedad intelectual 
+5.1.2 
+Uso de información digital 
+.2 
+Responsabilidad social y sustentabilidad  
+.3 
+Habilidades digitales 
+5.3.1 
+Learnability 
+5.3.2 
+Teamability 
+5.3.3 
+Networking 
+5.3.4 
+Adaptability 
+.4 
+Tecnologías y tendencias digitales 
+5.4.1 
+Internet de las cosas 
+5.4.2 
+Inteligencia Artificial 
+5.4.3 
+Inteligencia de negocios 
+5.4.4 
+Blockchain y la nube
+"
+ISC/probabilidadEstadistica_ISC2020.pdf,"1
+  1
+  1
+1.1 Generalidades 
+1.1.1 Modelos probabilísticos y determinísticos 
+1.1.2 Espacio de muestras y eventos 
+1.1.3 Interpretación de la probabilidad 
+ 
+1.2 Elementos de análisis combinatorio 
+1.2.1 Permutaciones 
+1.2.2 Combinaciones 
+ 
+1.3 Axiomas de probabilidad 
+.4 Probabilidad condicional 
+.5 Eventos independientes y la Regla de 
+multiplicación 
+.6 Regla de Bayes
+2
+  2
+2.1 Variables aleatorias discretas y continuas 
+2.1.1 Función masa de probabilidad 
+2.1.2 Función acumulativa de probabilidad 
+ 
+2.2. Valor esperado de variables aleatorias discretas y 
+continuas 
+.3 Función generadora de momentos de una variable 
+aleatoria discreta 
+.4 Varianza de variables aleatorias discretas y 
+continuas
+3.1 Distribuciones de probabilidad para variables 
+aleatorias discretas 
+3.1.1 Ensayos de Bernoulli 
+3.1.2 Distribuciones Binomial y Geométrica 
+3.1.3 Distribuciones Hipergeométrica y de Poisson 
+3.1.4. Aproximación entre las distribuciones 
+Binomial y Poisson 
+ 
+3.2 Distribuciones de probabilidad para variables 
+aleatorias continuas 
+3.2.1 Distribución Exponencial y Gamma 
+3.2.2. Distribución normal  (Estandarización y 
+cálculo de probabilidades utilizando las 
+tablas normales Aproximación Normal a la 
+Binomial)
+4
+  4
+  4
+  4
+  4
+  4
+4.1 Densidad conjunta y marginal 
+.2 Distribución conjunta y marginal 
+.3 Cálculo de probabilidades para densidades de dos 
+o más variables aleatorias 
+.4  Distribución ji-cuadrada, t-Student y F 
+.5 Suma de variables aleatorias 
+.6 Independencia de dos o más variables aleatorias 
+.7 Teorema de Límite Central
+5
+  5
+  5
+  5
+  5
+  5
+5.1 Estimación de parámetros 
+5.1.1 Estimación puntual 
+5.1.2 Estimación por intervalo 
+.2 Intervalos de confianza ( I de C ) 
+.3 I de C, error estándar y tamaño de muestra 
+.4 Prueba de Hipótesis 
+5.4.1 Elección de la prueba 
+5.4.2 Nivel de significancia 
+.5 Errores tipo I ( alfa) y tipo II (beta) 
+.6 Prueba de hipótesis para la media 
+.7 Prueba de hipótesis para la varianza
+"

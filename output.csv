@@ -1,0 +1,256 @@
+CD/analiticaVisualizacionDatos_LCD2020.pdf,"1
+1.1  Datos 
+1.1.1 
+Conjunto de Datos de Iris 
+1.1.2 
+Otros conjuntos de datos 
+1.1.3 
+Escalas de datos 
+.2  Relaciones 
+1.2.1 
+Representaciones de relaciones, conjuntos y 
+matrices 
+1.2.2     Medidas de disimilitud y similitud 
+1.2.3 Relaciones de secuencia 
+ 
+1.3  Preprocesamiento de datos 
+1.3.1 
+Muestreo y cuantificación 
+1.3.2 
+Tipos de error y manejo de errores 
+1.3.3 
+Filtrado 
+1.3.4 
+Transformación de datos 
+1.3.5 
+Integración de datos
+2
+  2
+  2
+2.1 Métodos de proyección lineal 
+2.1.1 Escala multidimensional 
+2.1.2 Visualización de componentes principales 
+2.1.3 Visualización de alta dimensionalidad  
+. 2 Métodos de proyección no lineal 
+2.2.1 Mapeo Sammon 
+2.2.2 Autoasociador 
+.3 Visualización de datos periódicos 
+2.3.1 Análisis espectral 
+2.3.2 Transformada del seno y coseno 
+.4 Construcción de Tableros
+3
+  3
+3.1 Correlación lineal 
+3.1.1 Coeficiente de Pearson,  
+3.1.2 Coeficiente de Rho de Spearman  
+3.1.3 Coeficiente de Tau de Kendall. 
+.2 Correlación no lineal 
+3.2.1 Prueba de chi-cuadrada para la independencia 
+.3 Correlación y causalidad
+"
+CD/finanzasEmpresariales_LCD2020.pdf,"1.1.  La empresa y su contexto 
+1.1.1. 
+Constitución jurídica 
+1.1.2. 
+El área financiera en la estructura 
+organizacional 
+1.2.  Función y objetivo de las finanzas 
+empresariales 
+1.3.  Las finanzas empresariales y su relación con 
+otras disciplinas (Ética, Economía, Derecho, 
+Matemáticas, etc.) 
+1.4.  Factores del micro y macro ambiente que 
+impactan a la empresa y a sus finanzas
+2
+  2
+2.1L a información financiera 
+.2 Las Normas de Información Financiera (NIF) 
+.3 Estados financieros básicos 
+2.3.1Estado de Situación Financiera (Balance 
+General) 
+2.3.2Estado de Resultados
+3.1  El análisis financiero en la empresa 
+ 
+3.2  Métodos para el análisis financiero 
+3.2.1  Análisis vertical 
+3.2.2  Análisis horizontal 
+ 
+3.3  Análisis del punto de equilibrio operacional 
+3.3.1  Modelo matemático del punto de 
+equilibrio con un producto 
+3.3.2  Modelo matemático del punto de 
+equilibrio con multiproductos
+4.1  Valor del dinero en el tiempo 
+4.1.1. Valor presente 
+4.1.2Valor futuro  
+ 
+4.2  Anualidades 
+ 
+4.3 La planeación financiera 
+4.3.1El presupuesto maestro 
+ 
+4.4 Estados financieros proforma
+V.1 Los proyectos de inversión 
+V.2 Proceso de preparación y evaluación de 
+proyectos 
+V.3 Métodos de evaluación de proyectos de 
+inversión 
+V.3.1 
+Método del período de recuperación de la 
+inversión (PRI) 
+V.3.2 
+Método del rendimiento sobre la inversión 
+(RSI) 
+V.3.3 
+Costo – beneficio 
+V.3.4 
+Valor presente neto (VPN) 
+V.3.5 
+Tasa interna de rendimiento (TIR) 
+V.3.6 
+índice de rentabilidad (IR)
+"
+CD/estadistica_LCD2020.pdf,"1
+  1
+  1
+  1
+1.1. Elementos de la estadística descriptiva 
+1.1.1. Poblaciones, muestras y variabilidad 
+.2 Descriptores muestrales de centralización y dispersión 
+  1.2.1 Media y mediana muestrales 
+  1.2.2 Unimodalidad y multimodalidad 
+  1.2.3 Varianza muestral y desviación estándar 
+  1.2.4 Intercuartiles 
+.3 Herramientas gráficas para observaciones univariadas 
+  1.3.1 Histogramas y elección de sus intervalos 
+  1.3.2 Gráficas de caja 
+  1.3.3 Gráficas ""bigote"" 
+.4 Herramientas gráficas para observaciones multivariadas 
+  1.4.1 Representación de rasgos esenciales y proyecciones 
+  1.4.2 Representación de espacios de estados y sus 
+proyecciones 
+.5 Covarianza y matriz de covarianza muestral 
+  1.5.1 Covarianza entre las respectivas muestras de dos 
+variables aleatorias 
+  1.5.2 Matriz de covarianza y sus propiedades
+2
+  2
+  2
+2.1 Estimadores y estimación puntual 
+  2.1.1 Estimadores puntuales; sesgo, error cuadrático 
+medio, propiedades asintóticas   
+  2.1.2 Estimadores basados en momentos; propiedades 
+  2.1.3 Estimadores basados en máxima verosimilitud; 
+propiedades 
+.2 Estimación por intervalos 
+   2.2.1 Noción de intervalo de confianza en función de la 
+distribución del estimador 
+   2.2.2 Obtención de intervalos de confianza para diferentes 
+niveles de confianza 
+.3 Pruebas de hipótesis  
+  2.3.1 Requisitos e inferencia  
+  2.3.2 Intervalos de aceptación y rechazo 
+  2.3.3 Prueba de hipótesis simple         
+  2.3.4 Prueba de contraste 
+.4 Elementos de inferencia Bayesiana 
+  2.4.1 Teorema de Bayes en el contexto estadístico 
+  2.4.2 Distribuciones a priori y a posteriori con respecto a 
+una muestra 
+  2.4.3 Evaluación numérica de distribuciones a posterior
+3
+  3
+  3
+3.1 Distribuciones no subyacentes de poblaciones y 
+estadísticas 
+.2 Elementos de re-muestreo y Bootstrap 
+  3.2.1 Ética estadística en la inferencia a partir de una 
+muestra 
+  3.2.2 Casos y aplicación de re-muestreo 
+  3.2.3 Necesidad y aplicación del Bootstrap 
+.3 Pruebas de signo y permutaciones 
+  3.3.1 Pruebas de signo 
+  3.3.2 Pruebas de rangos 
+.4 Pruebas de bondad de ajuste de distribuciones 
+  3.4.1 Pruebas de Kolmogorov-Smirnov y Lilliefors 
+  3.4.2 Prueba chi-cuadrada 
+  3.4.3 Pruebas de homogeneidad 
+  3.4.4. Elementos de tablas de contingencia
+4
+  4
+4.1. Regresión lineal 
+  4.1.1. Método de los mínimos cuadrados 
+  4.1.2. Intervalos de confianza de los parámetros estimados 
+por regresión lineal 
+  4.1.3. Regresión lineal multivariable 
+.2. Regresión logística 
+  4.2.1. Uso de la regresión logística  
+  4.2.2. Intervalos de confianza en la regresión logística 
+.3. Predicción y clasificación estadística
+5
+  5
+5.1. Estadística y modelos causales 
+  5.1.1. Razones para estudiar causalidad 
+  5.1.2. Paradoja de Simpson 
+  5.1.3. Modelos causales estructurales 
+.2. Modelos gráficos 
+  5.2.1. Conectando modelos a datos 
+  5.2.2.  Cadenas y tenedores 
+.3. Efectos de intervenciones 
+  5.3.1. Intervenciones 
+  5.3.2. Criterios backdoor y frontdoor
+"
+CD/fundamentosProgramacion_LCD2020.pdf,"1.1. Fundamentos de programación 
+1.1.1 Arquitectura de Von Neumann 
+1.1.2 Clasificaciones de los lenguajes de programación  
+1.1.3 Herramientas de programación 
+1.2 Programación en el lenguaje C  
+1.2.1 Lenguaje en C  
+1.2.2 Tipos de datos primitivos y operadores aritméticos 
+1.2.3 Manejo de la entrada y salida estándar  
+1.2.4 Sentencias de control  
+1.2.5 Arreglos  
+1.3 Programación y diseño estructurado  
+1.3.1 Teorema de la programación estructurada  
+1.3.2 Características de un programa estructurado 
+1.3.3 Diseño estructurado - Modularidad
+2.1 Apuntadores 
+2.1.1 Apuntadores y direcciones de memoria 
+2.1.2 Operadores de dirección e indirección 
+2.1.3 Aritmética de apuntadores 
+2.1.4 Manejo de arreglos con apuntadores 
+2.2 Datos definidos por el usuario 
+2.2.1 Declaración de una estructura 
+2.2.2 Instancia de estructura y apuntador a estructura 
+2.2.3 Operadores de estructura 
+2.2.4 Arreglos de estructuras 
+2.2.5 Estructuras anidadas 
+2.3 Funciones 
+2.3.1 Funciones 
+2.3.2 Argumentos y parámetros 
+2.3.3 Paso por valor y paso por referencia 
+2.3.4 Retorno de la función 
+2.3.5 Bibliotecas creadas por el usuario 
+2.4 Funciones recursivas 
+2.4.1 Recursión 
+2.4.2 Pasos base y pasos recursivos 
+2.4.3 Tipos de recursión  
+2.4.4 Recursión versus iteración
+3.1 Arquitectura de Memoria 
+3.1.1 Harvard 
+3.1.2 Von Neumann 
+3.1.3 Memoria de un proceso en el modelo de memoria 
+única  
+3.2 Memoria dinámica 
+3.2.1 Reservación dinámica de memoria 
+3.2.2 Acceso y direccionamiento a arreglos dinámicos 
+3.2.3 Liberación de memoria 
+3.2.4 Memoria estática vs. memoria dinámica 
+3.3 Archivos 
+3.3.1 Archivos de acceso secuencial y de acceso directo 
+3.3.2 Creación y/o apertura de archivos 
+3.3.3 Lectura/escritura de archivos en modo texto 
+3.3.4 Lectura/escritura de archivos en modo binario 
+3.3.5 Cierre de archivos 
+3.3.6 Procesamiento y redireccionamiento de flujos de 
+entrada y salida
+"
