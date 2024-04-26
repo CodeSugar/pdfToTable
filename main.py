@@ -49,8 +49,9 @@ def export_to_csv(data, filename):
 # Get all the files in the directory_path
 files = list_files_in_subdirectory(directory_path)
 
-# Get all the tables with section "CONTENIDO" 
-tableResults = []
+# Get all the tables with section "CONTENIDO" and extract the information,
+#  save it in tableResults
+tableResults = [["FILE" , "CONTENIDO"]]
 for file in files:
     tables = camelot.read_pdf(file, pages='all')
     tablesContenido = []
