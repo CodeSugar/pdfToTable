@@ -1,4 +1,7 @@
+# pip install levenshtein
+
 import csv
+from Levenshtein import distance
 
 def read_csv_into_memory(filename):
     """
@@ -95,8 +98,8 @@ def levenshtein_distance(str1, str2):
 # Example usage:
 str1 = "kitten"
 str2 = "sitting"
-distance = levenshtein_distance(str1, str2)
-print("Levenshtein distance between '{}' and '{}': {}".format(str1, str2, distance))
+#distance = levenshtein_distance(str1, str2)
+#print("Levenshtein distance between '{}' and '{}': {}".format(str1, str2, distance))
 
 resultTotal = []
 for rowData in data:
@@ -110,15 +113,20 @@ for rowData in data:
                 continue
 
             maxComparision = 99999999
+            maxComparissionPercentage = 100
             file = ""
             for row2 in rowData2[1]:
-                currentDistance = levenshtein_distance(row[0],row2[0]) 
+                currentDistance = distance(row[1],row2[1]) 
                 if currentDistance < maxComparision:
                     maxComparision = currentDistance
                     file = row2[0]
+                    bigger = max(len(row[1]), len(row2[1]))
+                    maxComparissionPercentage = (bigger - currentDistance) / bigger
 
+            rowResult.append(rowData2[0]) 
             rowResult.append(file)
             rowResult.append(maxComparision)
+            rowResult.append(maxComparissionPercentage)
 
         resultTotal.append(rowResult)
 
