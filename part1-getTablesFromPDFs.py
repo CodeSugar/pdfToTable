@@ -14,37 +14,9 @@ csv_filename = directory_path + '.csv'
 # END CONFIG section
 
 import camelot
-import os
-import csv
+from utilsFunctions import list_files_in_subdirectory
+from utilsFunctions import export_to_csv
 
-def list_files_in_subdirectory(directory):
-    """
-    Returns a list of all files in the specified subdirectory.
-    
-    Args:
-    - directory (str): Path to the subdirectory.
-    
-    Returns:
-    - file_list (list): List of file names in the subdirectory.
-    """
-    file_list = []
-    # Iterate through all files in the directory
-    for root, dirs, files in os.walk(directory):
-        for file in files:
-            file_list.append(os.path.join(root, file))
-    return file_list
-
-def export_to_csv(data, filename):
-    """
-    Exports a 2D array into a CSV file.
-    
-    Args:
-    - data (list of lists): 2D array to export.
-    - filename (str): Name of the CSV file to create.
-    """
-    with open(filename, 'w', newline='') as csvfile:
-        csv_writer = csv.writer(csvfile)
-        csv_writer.writerows(data)
 
 # Get all the files in the directory_path
 files = list_files_in_subdirectory(directory_path)
