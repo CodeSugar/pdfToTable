@@ -1,6 +1,11 @@
-FILE,PROPOSITO,CONTENIDO,PRACTICAS,PRACTICAS_UBICACION
-ISC/probabilidadEstadistica_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Analiza matemáticamente los problemas aleatorios y sus resultados a partir de los elementos de probabilidad.","1
+FILE,NOMBRE,UNIDAD_DE_COMPETENCIA,CONTENIDO
+ISC/probabilidadEstadistica_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Elementos de probabilidad","UNIDAD DE COMPETENCIA 
+ 
+Resuelve problemas que 
+involucren fenómenos aleatorios 
+con base en los fundamentos de 
+la probabilidad.","1
   1
   1
 1.1 Generalidades 
@@ -16,8 +21,15 @@ Analiza matemáticamente los problemas aleatorios y sus resultados a partir de l
 .4 Probabilidad condicional 
 .5 Eventos independientes y la Regla de 
 multiplicación 
-.6 Regla de Bayes
-2
+.6 Regla de Bayes"
+ISC/probabilidadEstadistica_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Variables aleatorias discretas y 
+continuas","UNIDAD DE COMPETENCIA 
+ 
+Obtiene el valor esperado y la 
+varianza de situaciones 
+propuestas a partir de variables 
+aleatorias discretas y continuas.","2
   2
 2.1 Variables aleatorias discretas y continuas 
 2.1.1 Función masa de probabilidad 
@@ -28,8 +40,21 @@ continuas
 .3 Función generadora de momentos de una variable 
 aleatoria discreta 
 .4 Varianza de variables aleatorias discretas y 
-continuas
-3.1 Distribuciones de probabilidad para variables 
+continuas"
+ISC/probabilidadEstadistica_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Distribuciones de probabilidad 
+para variables discretas y 
+continuas","S
+ 
+UNIDAD DE COMPETENCIA 
+oluciona 
+problemáticas 
+con 
+base 
+en 
+las 
+distribuciones 
+probabilísticas más conocidas.","3.1 Distribuciones de probabilidad para variables 
 aleatorias discretas 
 3.1.1 Ensayos de Bernoulli 
 3.1.2 Distribuciones Binomial y Geométrica 
@@ -43,8 +68,16 @@ aleatorias continuas
 3.2.2. Distribución normal  (Estandarización y 
 cálculo de probabilidades utilizando las 
 tablas normales Aproximación Normal a la 
-Binomial)
-4
+Binomial)"
+ISC/probabilidadEstadistica_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Distribución de varias variables 
+aleatorias","R
+ 
+UNIDAD DE COMPETENCIA 
+esuelve problemas de eventos 
+probabilísticos a partir de 
+distribuciones de varias 
+variables.","4
   4
   4
   4
@@ -57,8 +90,15 @@ o más variables aleatorias
 .4  Distribución ji-cuadrada, t-Student y F 
 .5 Suma de variables aleatorias 
 .6 Independencia de dos o más variables aleatorias 
-.7 Teorema de Límite Central
-5
+.7 Teorema de Límite Central"
+ISC/probabilidadEstadistica_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Estadística paramétrica 
+usando estimación y prueba 
+de hipótesis","UNIDAD DE COMPETENCIA 
+ 
+Toma decisiones con base en 
+la teoría de la estadística 
+inferencial.","5
   5
   5
   5
@@ -74,11 +114,21 @@ o más variables aleatorias
 5.4.2 Nivel de significancia 
 .5 Errores tipo I ( alfa) y tipo II (beta) 
 .6 Prueba de hipótesis para la media 
-.7 Prueba de hipótesis para la varianza
-",,
-ISC/formulacionEvaluacionProyectosInformaticos.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Evalúa proyectos informáticos a partir de su entorno, fases de formulación, innovación, gestión y viabilidad 
-financiera.","1
+.7 Prueba de hipótesis para la varianza"
+ISC/formulacionEvaluacionProyectosInformaticos.pdf,"UNIDAD TEMÁTICA I 
+Aspectos  generales  de  un 
+proyecto 
+y  el  análisis  del 
+entorno","I
+UNIDAD DE 
+COMPETENCIA 
+dentifica 
+los 
+aspectos 
+generales  de  la  formulación 
+de  proyectos  informáticos  a 
+partir  del  planteamiento  del 
+problema.","1
   1
 1.1 Proyectos  
 1.1.1 Clasificación  
@@ -90,8 +140,22 @@ financiera.","1
 1.3.1 Planteamiento del problema y técnicas de análisis   
 1.3.2 Antecedentes y situación actual  
 1.3.3 Identificación y selección de alternativas 
-.4 Gestión de la integración del proyecto informático
-2
+.4 Gestión de la integración del proyecto informático"
+ISC/formulacionEvaluacionProyectosInformaticos.pdf,"UNIDAD TEMÁTICA II 
+Innovación y la gestión del 
+mercado","UNIDAD DE 
+COMPETENCIA 
+ 
+Formula 
+un 
+estudio 
+de 
+mercado 
+con 
+base 
+en 
+la 
+metodología Design thinking.","2
 2.1 Innovación  
 .2 Design thinking metodología de innovación   
 2.1.1 Empatizar con el usuario y explorar el mercado  
@@ -100,8 +164,16 @@ financiera.","1
 2.1.4 Prototipar la idea  
 2.1.5 Testeo (validar)   
  
-2.3 Modelo de negocios Canvas
-3
+2.3 Modelo de negocios Canvas"
+ISC/formulacionEvaluacionProyectosInformaticos.pdf,"UNIDAD TEMÁTICA III 
+Gestión técnica y ambiental 
+del proyecto","UNIDAD DE 
+COMPETENCIA 
+ 
+Formula la estructura técnica 
+y ambiental del proyecto con 
+base en su metodología, plan 
+desarrollo y sostenibilidad.","3
 3.1 Plan de gestión para la dirección del proyecto    
 3.1.1 Gestión de Integración del proyecto  
 3.1.2 Gestión del conocimiento 
@@ -114,8 +186,21 @@ diseño de la arquitectura del software
 3.2.3 Actividades para las pruebas e implementación  
 3.2.4 Actividades para el despliegue y mantenimiento 
 3.2.5 Documentación   
-.3 Gestión de sostenibilidad
-4.1 Presupuesto de inversión  
+.3 Gestión de sostenibilidad"
+ISC/formulacionEvaluacionProyectosInformaticos.pdf,"UNIDAD TEMÁTICA IV 
+Gestión del presupuesto del 
+proyecto","UNIDAD DE 
+COMPETENCIA 
+ 
+Formula 
+los 
+presupuestos 
+requeridos en el proyecto con 
+base 
+en 
+la 
+inversión, 
+ingresos, egresos y ventas.","4.1 Presupuesto de inversión  
 4.1.1 Inversión propia  
 4.1.2 Inversión financiada  
     
@@ -126,8 +211,20 @@ diseño de la arquitectura del software
 4.2.4 Gastos financieros  
 4.2.5 Otros gastos a ponderar  
   
-4.3 Presupuesto de ventas o ingresos
-5
+4.3 Presupuesto de ventas o ingresos"
+ISC/formulacionEvaluacionProyectosInformaticos.pdf,"UNIDAD TEMÁTICA V 
+Evaluación Financiera del 
+proyecto","UNIDAD DE 
+COMPETENCIA 
+ 
+Evalúa 
+el 
+proyecto 
+informático  con  base  en  los 
+indicadores 
+financieros  y 
+la 
+matriz de análisis integral.","5
   5
 5.1 Integración de estados financieros proforma     
 5.1.1 Estado de resultados 
@@ -139,19 +236,20 @@ informáticos
 5.3.2 Costo beneficio  
 5.3.3 Valor presente neto (VPN) y Tasa interna de retorno 
 (TIR) 
-.4 Matriz de análisis integral para la toma de decisiones
-",5,"Aula  
+.4 Matriz de análisis integral para la toma de decisiones"
+ISC/trabajoTerminal_I_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Planeación de proyecto","D
  
-Aula  
- 
-Aula 
- 
-Aula 
- 
-Aula"
-ISC/trabajoTerminal_I_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla  la  primera  fase  de  un  proyecto  científico  o  tecnológico  en  cómputo  viable  y  factible  con  base  en 
-metodologías y técnicas de desarrollo de sistemas.","1
+UNIDAD DE 
+COMPETENCIA 
+etermina el plan de proyecto 
+con 
+base 
+en 
+su 
+tipo 
+y 
+metodología","1
 1.1. Proceso  de  planeación  de  desarrollo  de  proyectos 
 científicos o tecnológicos en cómputo  
 1.1.1. 
@@ -173,8 +271,21 @@ Delimitación del proyecto
 1.3.3. 
 Análisis y gestión de riesgos del proyecto 
 1.3.4. 
-Métricas y estimación del proyecto
-2
+Métricas y estimación del proyecto"
+ISC/trabajoTerminal_I_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Análisis y diseño","P
+ 
+UNIDAD DE 
+COMPETENCIA 
+ropone  el  diseño 
+de 
+un 
+proyecto 
+a 
+partir 
+de 
+su 
+análisis de requerimientos.","2
 2.1 Análisis  
 2.1.1. 
 Delimitación del proyecto (conocimiento del 
@@ -186,8 +297,16 @@ Propuesta de arquitectura
 .2. Diseño 
 2.2.1.  Modelado de datos 
 2.2.2. 
-Diseños funcionales
-3
+Diseños funcionales"
+ISC/trabajoTerminal_I_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Prototipos","C
+ 
+UNIDAD DE 
+COMPETENCIA 
+onstruye  un  prototipo  con 
+base  en 
+los  estándares  de 
+desarrollo.","3
   3
 3.1. Administración de cambios 
 3.1.1. 
@@ -201,11 +320,17 @@ Verificación y validación de diseño
 Verificación y validación del costo del proyecto 
 .3. Estándares de desarrollo 
 3.3.1. 
-Prototipos funcionales y no funcionales
-",7,"Salas de trabajo 
-terminal"
-ISC/analisisDisenoSistemas_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla un sistema de cómputo con base en el análisis de requerimientos y técnicas de diseño.","1
+Prototipos funcionales y no funcionales"
+ISC/analisisDisenoSistemas_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Fundamentos de análisis y 
+diseño de sistemas","UNIDAD DE COMPETENCIA 
+ 
+Identifica los conceptos 
+fundamentales del análisis y 
+diseño, así como las principales 
+metodologías de desarrollo de 
+los sistemas software con base 
+en el ciclo de vida del software.","1
 1.1 Historia y evolución del desarrollo del software  
 1.1.1 Necesidad del análisis y diseño de sistemas 
 1.1.2 Sistemas de software 
@@ -219,8 +344,14 @@ desarrollo del software durante el ciclo de vida
 1.3.1 Metodologías tradicionales 
 1.3.2 Metodologías estructuradas 
 1.3.3 Metodologías orientadas a objetos 
-1.3.4 Metodologías y prácticas ágiles
-2
+1.3.4 Metodologías y prácticas ágiles"
+ISC/analisisDisenoSistemas_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+El proceso de análisis del 
+sistema","UNIDAD DE COMPETENCIA 
+Aplica las tareas fundamentales 
+del análisis de sistemas con 
+base en criterios de validación y 
+aceptación.","2
   2
 2.1 Análisis de los requerimientos del sistema 
 2.1.1 Identificación del problema 
@@ -233,8 +364,12 @@ desarrollo del software durante el ciclo de vida
 2.2.3 Técnicas para especificación de 
 requerimientos 
 .3 Validación de requerimientos 
-.4 Aceptación de requerimientos
-3
+.4 Aceptación de requerimientos"
+ISC/analisisDisenoSistemas_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Modelado del sistema","UNIDAD DE COMPETENCIA 
+Construye modelos de sistemas 
+de software con base en las 
+distintas vistas del sistema.","3
 3.1 El proceso de modelado 
      3.1.1 Las vistas de un sistema 
 .2 Técnicas para el modelado 
@@ -251,8 +386,14 @@ no funcionales
 en tiempo de ejecución) 
 3.3.5 Vista de desarrollo (procesos, pruebas y 
 mejoramiento) 
-3.3.6 Vista de despliegue (HW y SW)
-4.1 Diseño de la arquitectura 
+3.3.6 Vista de despliegue (HW y SW)"
+ISC/analisisDisenoSistemas_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+El proceso de diseño del 
+sistema","UNIDAD DE COMPETENCIA 
+Determina la arquitectura de un 
+sistema de software con base 
+en los estilos arquitectónicos de 
+referencia.","4.1 Diseño de la arquitectura 
 4.1.1 Propiedades del software asociadas con el 
 diseño 
 4.1.2 Estilos arquitectónicos de referencia 
@@ -267,8 +408,13 @@ diseño
 4.3 Retos del diseño 
 4.3.1 Principios de diseño 
 4.3.2 Principios de desarrollo de patrones de 
-diseño: Singleton, Iterator, MVC
-5
+diseño: Singleton, Iterator, MVC"
+ISC/analisisDisenoSistemas_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Codificación y pruebas","UNIDAD DE COMPETENCIA 
+Implementa la validación de 
+sistemas de software con base 
+en un plan de pruebas y 
+herramientas automatizadas.","5
   5
   5
   5
@@ -288,13 +434,17 @@ diseño: Singleton, Iterator, MVC
     5.4.3 Registro de pruebas 
     5.4.4 Informes 
 .5 Herramientas de pruebas automatizadas  
-    5.5.1 Plataformas de trabajo colaborativo
-",11,"Laboratorio de 
-cómputo / aula de 
-clases"
-ISC/aplicacionesComunicacionesRed_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla aplicaciones de red, con base en interfaces de programación y arquitectura de comunicaciones, con alto 
-nivel de calidad y eficiencia.","1.1 
+    5.5.1 Plataformas de trabajo colaborativo"
+ISC/aplicacionesComunicacionesRed_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Sockets bloqueantes","P
+ 
+UNIDAD DE COMPETENCIA 
+rograma  aplicaciones  en  red 
+con base en el modelo cliente-
+servidor, 
+usando 
+sockets 
+bloqueantes.","1.1 
 Servicios definidos en la capa de transporte 
 1.2 
 Modelo cliente-servidor 
@@ -307,8 +457,20 @@ Sockets orientados a conexión bloqueantes
 1.5 
 Serialización 
 1.6 
-Sockets no orientados a conexión bloqueantes
-2.1. 
+Sockets no orientados a conexión bloqueantes"
+ISC/aplicacionesComunicacionesRed_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Arquitectura multihilos para 
+servidores","P
+   
+ 
+UNIDAD DE COMPETENCIA 
+rograma aplicaciones cliente-
+servidor  con  base  en  el  uso 
+hilos, 
+y 
+mecanismos 
+de 
+sincronización.","2.1. 
 Sincronía de hilos 
 2.1.1. Instrucciones atómicas 
 2.1.2. Sección crítica 
@@ -319,8 +481,18 @@ Sincronía de hilos
 2.2. 
 Multihilos 
 2.3. 
-Formatos de intercambio de datos
-3.1. 
+Formatos de intercambio de datos"
+ISC/aplicacionesComunicacionesRed_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Sockets no bloqueantes","P
+ 
+UNIDAD DE COMPETENCIA 
+rograma aplicaciones cliente-
+servidor, con base en el uso de 
+sockets 
+no 
+bloqueantes 
+y 
+multidifusión.","3.1. 
 Sockets orientados a conexión no bloqueantes 
 3.2. 
 Sockets no orientados a conexión bloqueantes 
@@ -331,8 +503,17 @@ Multidifusión
 a físicas 
 3.3.3. Protocolo IGMP 
 3.4. 
-Sockets de multidifusión
-4.1. 
+Sockets de multidifusión"
+ISC/aplicacionesComunicacionesRed_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Protocolos de la capa de 
+aplicación","P
+ 
+UNIDAD DE COMPETENCIA 
+rograma  aplicaciones  de  red 
+con  base  en  especificaciones 
+de  protocolos  de  aplicaciones 
+orientadas  y  no  orientadas  a 
+conexión.","4.1. 
 Aplicaciones no orientadas a conexión 
 4.1.1. Protocolo FTP 
 4.1.2. Protocolo DNS 
@@ -344,16 +525,43 @@ Aplicaciones orientadas a conexión
 4.2.2. Protocolo telnet 
 4.2.3. Protocolo HTTP 
 4.2.4. Protocolo SMTP 
-4.2.5. Protocolo SNMP
-5
+4.2.5. Protocolo SNMP"
+ISC/aplicacionesComunicacionesRed_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Invocación a métodos remotos","P
+ 
+UNIDAD DE COMPETENCIA 
+rograma 
+aplicaciones 
+distribuidas 
+con 
+base 
+en 
+el 
+modelo 
+cliente-servidor 
+e 
+interfaces  de  programación  de 
+comunicación 
+entre 
+procesos 
+remotos  de  alta  usabilidad  con 
+optimización de recursos.","5
   5
  
 5.1. Java RMI (Remote Method Invocation) 
  
 5.2. Implementación de Skeleton 
 .3. Implementación de Stub 
-.4. RMIRegistry
-6.1. 
+.4. RMIRegistry"
+ISC/aplicacionesComunicacionesRed_ISC2020.pdf,"UNIDAD TEMÁTICA VI 
+Aplicaciones P2P","P
+ 
+UNIDAD DE COMPETENCIA 
+rograma 
+aplicaciones 
+distribuidas  con  base  en  el 
+modelo P2P de alta usabilidad 
+con optimización de recursos.","6.1. 
 Arquitectura P2P (Peer to Peer) 
 6.1.1. Conectividad 
 6.1.2. Enrutamiento de mensajes 
@@ -364,12 +572,19 @@ Aplicaciones P2P
 6.2.1. Intercambio y búsqueda de archivos 
 6.2.2. Sistemas de archivos distribuidos 
 6.3. 
-Sistema de telefonía a través de P2P
-",11,"Laboratorio de 
-redes de 
-computadoras."
-ISC/circuitosElectricos_ISC2020.pdf,"UNIDAD ACADÉMICA: ESCUELA SUPERIOR DE CÓMPUTO, UNIDAD PROFESIONAL INTERDISCIPLINARIA 
-DE INGENIERÍA, CAMPUS ZACATECAS","1
+Sistema de telefonía a través de P2P"
+ISC/circuitosElectricos_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Fundamentos de circuitos 
+eléctricos","A
+ 
+UNIDAD DE COMPETENCIA 
+naliza  circuitos  eléctricos  con 
+base en las técnicas de análisis 
+básicas 
+e 
+instrumentos 
+de 
+medición.","1
   1
   1
   1
@@ -398,8 +613,19 @@ simulación de circuitos eléctricos
   1.6.3 Elementos en serie  
   1.6.4 Elementos en paralelo  
   1.6.5 Ley de Kirchhoff de corriente  
-  1.6.6 Ley de Kirchhoff de voltaje
-2
+  1.6.6 Ley de Kirchhoff de voltaje"
+ISC/circuitosElectricos_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Análisis de circuitos en corriente 
+directa","R
+ 
+UNIDAD DE COMPETENCIA 
+esuelve problemas de circuitos 
+eléctricos  con  base  en  técnicas 
+de 
+análisis 
+avanzadas 
+y 
+teoremas de circuitos.","2
   2
   2
   2
@@ -420,8 +646,21 @@ voltaje independientes
   2.5.2 Teorema del intercambio de Fuentes  
   2.5.3 Teorema de Thevenin  
   2.5.4 Teorema de Norton  
-  2.5.5 Teorema de máxima transferencia de potencia
-3
+  2.5.5 Teorema de máxima transferencia de potencia"
+ISC/circuitosElectricos_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Análisis de circuitos en el 
+dominio de la frecuencia","R
+ 
+UNIDAD DE COMPETENCIA 
+esuelve problemas de circuitos 
+eléctricos  en  el  dominio  de 
+la 
+frecuencia 
+con 
+base 
+en 
+la 
+transformada de Laplace.","3
   3
   3
   3
@@ -456,16 +695,28 @@ en el tiempo
 3.5.1 Leyes de Kirchhoff  
 3.5.2 Mallas  
 3.5.3 Nodos  
-3.5.4 Polos, ceros y funciones de transferencia
-",9,Laboratorio
-ISC/calculo_ISC2020.pdf,Soluciona problemas del área de la ingeniería a partir del cálculo diferencial y técnicas de integración.,"1.1  Desigualdades 
+3.5.4 Polos, ceros y funciones de transferencia"
+ISC/calculo_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Funciones algebraicas y 
+trascendentes","A
+UNIDAD DE COMPETENCIA 
+naliza las funciones a partir de 
+sus propiedades y las diferentes 
+representaciones.","1.1  Desigualdades 
  
 1.4.1 
 1.4.2 
 1.4.3 
  
-C - 2020
-2
+C - 2020"
+ISC/calculo_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Límites de funciones y 
+continuidad","A
+UNIDAD DE COMPETENCIA 
+naliza 
+la  continuidad  de  una 
+función a partir de su límite. 
+IS","2
 2.1 Límites de manera gráfica y numérica 
 .2 Cálculo analítico de límites 
 2.2.1 Límites de formas indeterminadas 
@@ -475,23 +726,60 @@ C - 2020
 2.3 Límites infinitos y en el infinito 
 2.3.1 Asíntotas horizontales, verticales y oblicuas 
  
-2.4 Continuidad: en un punto y en un intervalo
-",4,"Laboratorio de 
-cómputo"
-ISC/comunicacionOralEscrita_ISC2020.pdf,"Presenta discursos con base en la comunicación oral, escrita y su contexto.","1
+2.4 Continuidad: en un punto y en un intervalo"
+ISC/comunicacionOralEscrita_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+La comunicación en el siglo XXI","UNIDAD DE COMPETENCIA 
+Identifica 
+la 
+importancia  de 
+la 
+comunicación  a  partir  de 
+las 
+habilidades 
+comunicativas, 
+las 
+manifestaciones  socioculturales 
+y las Tecnologías de Información 
+y Comunicación.","1
   1
 1.1  Naturaleza social de la comunicación: la lengua 
 1.1.1 Habilidades comunicativas 
 1.2 La comunicación como manifestación sociocultural 
-C - 2020
-2
+C - 2020"
+ISC/comunicacionOralEscrita_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Comunicación escrita","D
+UNIDAD DE COMPETENCIA 
+istingue 
+la 
+comunicación 
+escrita 
+a 
+partir 
+de 
+sus 
+características, 
+elementos, 
+la 
+normatividad 
+y 
+los 
+textos 
+académicos.","2
   2
   2
 2.1 Comunicación escrita  
 2.1.1 Características  
  
-C - 2020
-3
+C - 2020"
+ISC/comunicacionOralEscrita_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Comunicación oral","R
+UNIDAD DE COMPETENCIA 
+ealiza  un  discurso  oral  con 
+base 
+en 
+la 
+producción del discurso público. 
+IS","3
   3
 3.1  Comunicación oral 
 3.1.1Características 
@@ -499,10 +787,16 @@ C - 2020
 .3 Planeación y producción del discurso público 
 3.3.1 Estrategias y técnicas para la presentación 
 oral 
-3.3.2 Presentación oral del discurso
-",,
-ISC/matematicasAvanzadasIngenieria_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Obtiene las bases matemáticas de la  teoría de variable  compleja y el análisis de Fourier a partir de teoremas y 
+3.3.2 Presentación oral del discurso"
+ISC/matematicasAvanzadasIngenieria_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Operaciones con números 
+complejos y derivación de 
+funciones de variable compleja","UNIDAD DE COMPETENCIA 
+ 
+Calcula operaciones con 
+números complejos y derivadas 
+de funciones de variable 
+compleja a partir de sus 
 propiedades fundamentales.","1
   1
 1.1  Operaciones con números complejos 
@@ -527,8 +821,15 @@ trigonométricas inversas. Mapeos conformes
 1.3.2 Propiedades de las funciones analíticas. Parte 
 real e imaginaria  
 1.3.3 Reconstrucción de una función analítica a partir 
-de su parte real o su parte imaginaria
-2
+de su parte real o su parte imaginaria"
+ISC/matematicasAvanzadasIngenieria_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Integración de funciones de 
+variable compleja","UNIDAD DE COMPETENCIA 
+ 
+Calcula integrales de funciones 
+de variable compleja a partir de 
+teoremas sobre integrales 
+complejas.","2
   2
 2.1 Integrales curvilíneas 
 2.1.1 Integrales de funciones analíticas y no analíticas 
@@ -544,8 +845,16 @@ integrales reales
 2.3.2 Integrales de funciones racionales multiplicadas 
 por senos y cosenos 
 2.3.3 Integrales de funciones racionales de senos y 
-cosenos
-3
+cosenos"
+ISC/matematicasAvanzadasIngenieria_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Series y transformadas de 
+Fourier","UNIDAD DE 
+COMPETENCIA 
+ 
+Calcula series y 
+transformadas de Fourier, a 
+partir de sus propiedades 
+fundamentales.","3
   3
 3.1 Series de Fourier trigonométrica 
 3.3.1 Producto interno de funciones y norma. Ortogonalidad 
@@ -571,11 +880,17 @@ Dirac y Función Escalón
 mediante las propiedades 
 3.3.6 Aplicaciones de la transformada de Fourier: Filtro 
 pasa bajas (solución del circuito RLC), Sistema masa 
-resorte amortiguado y Construcción de la carta de Smith.
-",,
-ISC/electronicaAnalogica_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Resuelve circuitos con dispositivos electrónicos con base en sus características eléctricas, sus aplicaciones y las 
-leyes que los fundamentan.","1.1        Teoría de semiconductores  
+resorte amortiguado y Construcción de la carta de Smith."
+ISC/electronicaAnalogica_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Dispositivos 
+semiconductores","UNIDAD DE 
+COMPETENCIA 
+ 
+Resuelve problemas 
+aplicados a partir de las 
+características de los 
+dispositivos 
+semiconductores.","1.1        Teoría de semiconductores  
 1.2        Diodos semiconductores  
 1.2.1     Diodo rectificador  
 1.2.2     Diodo zener  
@@ -590,8 +905,18 @@ leyes que los fundamentan.","1.1        Teoría de semiconductores
 1.5        Transistor de Efecto de Campo (FET)  
 1.5.1     Principios de operación del FET  
 1.5.2     Parámetros y características de transferencia 
-1.5.3     Polarización del FET
-2.1       Aspectos principales de los amplificadores 
+1.5.3     Polarización del FET"
+ISC/electronicaAnalogica_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Amplificadores operacionales","UNIDAD DE 
+COMPETENCIA 
+ 
+Aplica las características de 
+los amplificadores 
+operacionales, con base en 
+el análisis de los dispositivos 
+semiconductores en circuitos 
+acondicionadores de 
+señales.","2.1       Aspectos principales de los amplificadores 
 operacionales 
 2.2       Configuraciones básicas  
 2.2.1    Amplificador inversor  
@@ -608,8 +933,13 @@ operacionales
 2.4.2    Detectores de nivel  
 2.4.3    Detectores con histéresis  
 2.5       Osciladores 
-2.6       Amplificador de Instrumentación
-3.1        Filtros activos  
+2.6       Amplificador de Instrumentación"
+ISC/electronicaAnalogica_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Filtros activos","UNIDAD DE COMPETENCIA 
+ 
+Diseña filtros activos a partir de 
+las aplicaciones con 
+amplificadores operacionales.","3.1        Filtros activos  
 3.1.1     Orden del Filtro  
 3.1.2     Funciones de transferencia en S  
 3.1.3     Diagrama de Bode  
@@ -617,11 +947,18 @@ operacionales
 3.2.1     Pasa bajas  
 3.2.2     Pasa altas  
 3.2.3     Pasa banda  
-3.2.4     Rechaza banda
-",10,Laboratorio
-ISC/algebraLineal_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE: 
-Aplica los métodos de eliminación de Gauss-Jordan matricial con pivoteo a partir de las transformaciones lineales, 
-los espacios vectoriales, valores y vectores propios.","1.1.3 Sistema de m ecuaciones lineales con n incógnitas  
+3.2.4     Rechaza banda"
+ISC/algebraLineal_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Sistemas de Ecuaciones 
+Lineales","UNIDAD DE 
+COMPETENCIA 
+Resuelve 
+sistemas 
+de 
+ecuaciones lineales con base 
+en 
+los  métodos  de  Gauss-
+Jordan y la matriz inversa.","1.1.3 Sistema de m ecuaciones lineales con n incógnitas  
 pivoteo 
 1.2 Matrices 
 ecuaciones 
@@ -638,8 +975,21 @@ matriz Identidad
 elementales 
 1.4.3 Transpuesta de una matriz 
 1.4.5 Solución de sistema de ecuaciones lineales usando 
-C - 2020
-2.1 Espacios vectoriales 
+C - 2020"
+ISC/algebraLineal_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+ 
+Espacios vectoriales","UNIDAD DE 
+COMPETENCIA 
+Construye 
+las 
+bases 
+de 
+espacios 
+vectoriales 
+mediante 
+combinaciones 
+lineales, independencia lineal 
+y espacios generados.","2.1 Espacios vectoriales 
 2.1.1 Propiedades básicas 
 2.1.2 Espacios vectoriales de distintos géneros 
 2.2 Subespacios 
@@ -650,8 +1000,18 @@ C - 2020
 2.5 Cambio de Base 
 2.5.1 Matriz Cambio de Base 
 2.6 Espacios con producto Interno 
-2.6.1 Bases ortonormales
-3.1 Transformaciones Lineales 
+2.6.1 Bases ortonormales"
+ISC/algebraLineal_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+ 
+Transformaciones lineales","UNIDAD DE 
+COMPETENCIA 
+Aplica 
+las 
+transformaciones 
+lineales a partir del Kernel, la 
+imagen, matrices semejantes 
+y los espacios isomorfos. 
+IS","3.1 Transformaciones Lineales 
 3.1.1 Propiedades. 
 3.1.2 Imagen y Kernel de una transformación lineal 
 3.2 Representación Matricial de una Transformación lineal 
@@ -659,17 +1019,33 @@ C - 2020
 representación matricial de una transformación 
 3.3 Isomorfismos 
 3.3.1 Transformación Inversa 
-3.3.2 Ejemplos de espacios isomorfos
-4.1 Valores y vectores característicos 
+3.3.2 Ejemplos de espacios isomorfos"
+ISC/algebraLineal_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+ 
+Valores y Vectores Propios","UNIDAD DE 
+COMPETENCIA 
+Aplica 
+las 
+matrices 
+diagonalizables a partir de los 
+valores y vectores propios.","4.1 Valores y vectores característicos 
 4.1.1 Polinomio característico 
 4.1.2 Cálculo de vectores característicos 
 4.2 Diagonalización de matrices 
 4.3 Matrices Simétricas y diagonalización ortogonal 
 4.4 Formas Cuadráticas y Secciones Cónicas 
-4.5 Aplicaciones a Ecuaciones diferenciales matriciales
-",,
-ISC/instrumentacionControl_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Construye sistemas de medición y control a partir de sensores, acondicionamiento e instrumentación electrónica.","1.1         Instrumentos de medición  
+4.5 Aplicaciones a Ecuaciones diferenciales matriciales"
+ISC/instrumentacionControl_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Sensores y Acondicionamiento 
+de Señales","UNIDAD DE COMPETENCIA 
+Identifica 
+los 
+sensores 
+y 
+transductores  de  señal  y  sus 
+mediciones  de  acuerdo  con  las 
+técnicas  de  acondicionamiento 
+de señal.","1.1         Instrumentos de medición  
    1.1.1   Características estáticas  
 1.2         Clasificación de sensores  
    1.2.1   Resistivos  
@@ -684,8 +1060,16 @@ Construye sistemas de medición y control a partir de sensores, acondicionamient
    1.3.4   Atenuación  
    1.3.5   Filtrado  
    1.3.6   Acoplamiento y aislamiento  
-1.4         Sistema de acondicionamiento de señal
-2.1          Convertidores  
+1.4         Sistema de acondicionamiento de señal"
+ISC/instrumentacionControl_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Convertidores","UNIDAD DE COMPETENCIA 
+Aplica los convertidores, digital a 
+analógico y analógico digital con 
+base 
+en 
+sus 
+características 
+estáticas y dinámicas.","2.1          Convertidores  
    2.1.1    Señales analógicas y digitales  
    2.1.2    Terminología de Convertidores  
 2.2          Convertidores Digital a Analógicos (CDA)  
@@ -702,8 +1086,13 @@ Construye sistemas de medición y control a partir de sensores, acondicionamient
    2.3.5    Convertidor tipo Flash  
    2.3.6    Convertidores Avanzados. Sigma-Delta. 
 2.4           Etapa de digitalización y mediciones de 
-                proyecto
-3.1          Modelado de sistemas de Control  
+                proyecto"
+ISC/instrumentacionControl_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Sistemas de Control","UNIDAD DE COMPETENCIA 
+Analiza la respuesta de una 
+variable de un sistema con base 
+en la teoría de los controladores 
+clásicos.","3.1          Modelado de sistemas de Control  
 3.2          Sistemas lineales e invariantes en el tiempo  
 3.3          Algebra de bloques  
 3.4          Análisis de respuesta transitoria y análisis de 
@@ -723,8 +1112,13 @@ Construye sistemas de medición y control a partir de sensores, acondicionamient
    3.6.1    Proporcional  
    3.6.2    Proporcional-Derivativo  
    3.6.3    Controlador integral  
-   3.6.4    Proporcional-Integral-Derivativo
-4.1        Arquitectura de un sistema de medición virtual  
+   3.6.4    Proporcional-Integral-Derivativo"
+ISC/instrumentacionControl_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Sistemas de medición virtual","UNIDAD DE COMPETENCIA 
+Construye un sistema de 
+medición con base en la 
+arquitectura de un instrumento 
+virtual","4.1        Arquitectura de un sistema de medición virtual  
    4.1.1 Elementos de un Instrumento Virtual 
    4.1.2 Hardware de Adquisición de Datos 
    4.1.3 Software de Adquisición de Datos 
@@ -737,11 +1131,17 @@ Construye sistemas de medición y control a partir de sensores, acondicionamient
 4.3        Sistema de Medición Virtual 
     4.3.1 Implementación de entorno grafico Virtual 
     4.3.2 Integración de proyecto final con entorno 
-              gráfico Virtual.
-",12,"Laboratorio E1, E2"
-ISC/matematicasDiscretas_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE: 
-Plantea  algoritmos matemáticos  y  estructuras  discretas  con  base  en  sus  propiedades  y  argumentos  válidos  con 
-lenguaje formal.","1.1 Equivalencias 
+              gráfico Virtual."
+ISC/matematicasDiscretas_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+ 
+Lógica","UNIDAD DE 
+COMPETENCIA 
+Demuestra 
+argumentos 
+y 
+equivalencias con base en el 
+álgebra  de  proposiciones  y 
+las reglas de inferencia.","1.1 Equivalencias 
 1.1.1 Proposiciones atómicas, compuestas y jerarquía de 
 operadores 
 1.1.2 Equivalencias lógicas 
@@ -754,8 +1154,20 @@ condicional
 1.3 Cuantificadores  
 1.3.1 Proposiciones abiertas y cuantificadores 
 1.3.2 Lenguaje natural y cuantificadores 
-1.3.3 Equivalencias e inferencias con cuantificadores
-2.1 Conjuntos 
+1.3.3 Equivalencias e inferencias con cuantificadores"
+ISC/matematicasDiscretas_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+ 
+Teoría de Conjuntos","UNIDAD DE 
+COMPETENCIA 
+Aplica 
+las  propiedades  de 
+los conjuntos con base en su 
+álgebra 
+y 
+fórmulas 
+de 
+cardinalidad. 
+IS","2.1 Conjuntos 
 2.1.1 Operadores, igualdad y contención de conjuntos 
 2.1.2 Álgebra de conjuntos 
 2.1.3 Propiedades de la contención 
@@ -764,8 +1176,18 @@ condicional
 2.2.2 Principio de inclusión y exclusión 
 2.3 Conjunto Potencia y Producto Cartesiano 
 2.3.1 Conjunto Potencia 
-2.3.2 Producto Cartesiano
-3.1 Números Enteros 
+2.3.2 Producto Cartesiano"
+ISC/matematicasDiscretas_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+ 
+Números Enteros","UNIDAD DE 
+COMPETENCIA 
+Aplica 
+la 
+inducción 
+matemática y los algoritmos 
+con base en las propiedades 
+algebraicas y de divisibilidad 
+de los números enteros.","3.1 Números Enteros 
 3.1.1 Propiedades de los números enteros 
 3.2 Divisibilidad 
 3.2.1 Propiedades de la divisibilidad 
@@ -779,8 +1201,16 @@ condicional
 3.4.1 Algoritmo de cambio de base 
 3.4.2 Relación entre los sistemas binario y hexadecimal 
 3.4.3 Operaciones básicas en base b 
-C - 2020
-4.1 Álgebras y Funciones booleanas 
+C - 2020"
+ISC/matematicasDiscretas_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Estructuras Discretas para 
+la Computación","UNIDAD DE 
+COMPETENCIA 
+Integra estructuras discretas 
+en 
+problemas 
+computacionales  con  base 
+en sus propiedades.","4.1 Álgebras y Funciones booleanas 
 4.1.1 Propiedades de las álgebras booleanas 
 4.1.2 Funciones booleanas 
 4.1.3 Sumas de minitérminos y productos de maxitérminos 
@@ -799,10 +1229,23 @@ antisimétricas y transitivas
 4.5.3 Algoritmo del camino más corto 
 4.4.5 Recorridos en pre-orden, in-orden y post- orden de 
 árboles binarios 
-C - 2020
-",,
-ISC/sistemasDistribuidos_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Diseña soluciones tecnológicas confiables y escalables con base en servicios basados en cómputo en la nube.","1
+C - 2020"
+ISC/sistemasDistribuidos_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Antecedentes del cómputo 
+en la nube","I
+   
+ 
+UNIDAD DE 
+COMPETENCIA 
+dentifica las características 
+y  componentes  presentes 
+en los sistemas de cómputo 
+en la nube con base en los 
+modelos 
+de 
+servicio 
+y 
+despliegue.","1
   1
 1.1 
 Historia del cómputo en la nube 
@@ -817,8 +1260,26 @@ IaaS
 Modelos de despliegue 
 1.3.1  Público y comunitario 
 1.3.2  Privado  
-1.3.3  Híbrido
-2
+1.3.3  Híbrido"
+ISC/sistemasDistribuidos_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Aspectos básicos del 
+cómputo en la nube","D
+ 
+UNIDAD DE 
+COMPETENCIA 
+escribe 
+los 
+principios 
+básicos  del  cómputo  en  la 
+nube 
+con 
+base 
+en 
+sus 
+aspectos 
+legales 
+y 
+proveedores de servicio.","2
   2
 2.1 
 Principios del cómputo en la nube 
@@ -834,8 +1295,26 @@ Proveedores de servicios en la nube
 2.3.1  Casos de estudio de proveedores: Azure, AWS, 
 Google, Oracle, entre otros  
 2.3.2  Comparación de los servicios ofrecidos  
-2.3.3  Estrategias de migración
-3
+2.3.3  Estrategias de migración"
+ISC/sistemasDistribuidos_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Servicios distribuidos","A
+ 
+UNIDAD DE 
+COMPETENCIA 
+plica  servicios  escalables 
+y 
+confiables 
+a 
+partir 
+de 
+estructuras 
+de 
+almacenamiento,  bases  de 
+datos 
+y 
+técnicas 
+de 
+procesamiento.","3
   3
   3
   3
@@ -862,8 +1341,20 @@ Elasticidad y escalabilidad
 3.4.3  Replicación 
 .5 
 Procesamiento distribuido 
-3.5.1  Técnicas MapReduce
-4
+3.5.1  Técnicas MapReduce"
+ISC/sistemasDistribuidos_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Seguridad en la nube","UNIDAD DE 
+COMPETENCIA 
+Diseña 
+en 
+términos 
+de 
+seguridad 
+las 
+soluciones 
+con  base  en  las  principales 
+amenazas  del  cómputo  en 
+la nube.","4
   4
 4.1 
 Importancia de la seguridad 
@@ -877,8 +1368,23 @@ Amenazas en la nube
 4.3.1  Ataques de negación de servicio (DoS) 
 4.3.2  Brechas  de  datos  (Data  Breaches)  y  autenticación 
 débil 
-4.3.3  Secuestro de cuentas y datos
-5
+4.3.3  Secuestro de cuentas y datos"
+ISC/sistemasDistribuidos_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Servicios web y microservicios","UNIDAD DE COMPETENCIA 
+Evalúa 
+la 
+creación, 
+consulta, 
+mantenimiento 
+y 
+puesta 
+en 
+marcha de microservicios a partir 
+de 
+estándares 
+digitales 
+y 
+tecnologías emergentes.","5
   5
 5.1 
 Aspectos básicos de los servicios web 
@@ -890,12 +1396,19 @@ Microservicios
 5.2.2  Características de los microservicios 
 5.2.3  Contenedores y kubernetes 
 .3 
-Tecnologías emergentes
-",11,"Laboratorio de 
-redes"
-ISC/desarrolloAplicacionesMovilesNativas_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla  aplicaciones  móviles  nativas  escalables,  seguras  y  confiables  con  base  en  los  componentes  de  la 
-plataforma de desarrollo Android alimentada por fuentes de datos locales y remotos.","1
+Tecnologías emergentes"
+ISC/desarrolloAplicacionesMovilesNativas_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Aspectos básicos en el 
+desarrollo de aplicaciones 
+móviles","I
+   
+ 
+UNIDAD DE 
+COMPETENCIA 
+dentifica 
+los  elementos  de 
+las  aplicaciones  móviles  con 
+base en el ecosistema móvil.","1
   1
   1
 1.1. 
@@ -913,8 +1426,25 @@ Ecosistema Android
 1.4.1.  Arquitectura de Android 
 1.4.2.  Niveles de API 
 1.4.3.  Entornos de desarrollo 
-1.4.4.  Emuladores Android
-2
+1.4.4.  Emuladores Android"
+ISC/desarrolloAplicacionesMovilesNativas_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Estructura y componentes de 
+la interfaz de usuario","UNIDAD DE 
+COMPETENCIA 
+ 
+Distingue 
+los 
+elementos 
+involucrados  en  el  desarrollo 
+de  una  aplicación  móvil  a 
+partir 
+de 
+la 
+interfaz 
+de 
+programación 
+de 
+aplicaciones de Android.","2
   2
   2
   2
@@ -931,8 +1461,24 @@ Formas de diseño de la interfaz de usuario
 2.4.2.  XML 
 2.4.3. Código 
 .5. 
-Actividades, intents, fragmentos
-3
+Actividades, intents, fragmentos"
+ISC/desarrolloAplicacionesMovilesNativas_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Almacenamiento y manejo 
+de datos","UNIDAD DE 
+COMPETENCIA 
+ 
+Describe 
+los 
+diferentes 
+mecanismos 
+de 
+almacenamiento y manejo de 
+datos 
+para 
+aplicaciones 
+la 
+móviles  de  acuerdo  con 
+API de Android.","3
   3
   3
   3
@@ -952,8 +1498,20 @@ Bases de datos
 3.4.3. Mapeo objeto-relacional 
 3.4.4. Base de datos NoSQL 
 .5. 
-Proveedores de contenido
-4
+Proveedores de contenido"
+ISC/desarrolloAplicacionesMovilesNativas_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Servicios y comunicaciones","UNIDAD DE 
+COMPETENCIA 
+ 
+Desarrolla 
+aplicaciones 
+móviles 
+a 
+partir 
+de 
+los 
+sensores  del  dispositivo,  los 
+servicios web y de la nube.","4
   4
   4
 4.1. 
@@ -978,8 +1536,20 @@ Servicios en la nube
 4.3.5. Realtime Database) 
 4.3.6. Mensajes en la nube (Cloud Messaging) 
 .4. 
-Notificaciones push
-5
+Notificaciones push"
+ISC/desarrolloAplicacionesMovilesNativas_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Publicación y API’s","E
+       
+ 
+UNIDAD DE 
+COMPETENCIA 
+jemplifica 
+la 
+forma 
+de 
+publicar  una  aplicación  en  la 
+tienda de google con base en 
+las políticas establecidas.","5
   5
   5
 5.1. 
@@ -997,11 +1567,15 @@ Interfaz de programación de aplicaciones
 .4. 
 Vestibles (wereables)  
 5.4.1. Reloj inteligente 
-5.4.2. Pulseras inteligentes
-",9,"Laboratorio de 
-cómputo"
-ISC/fundamentosProgramacion_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE: 
-Programa aplicaciones a partir de sentencias de control, funciones, apuntadores y archivos.","1.1. Fundamentos de programación 
+5.4.2. Pulseras inteligentes"
+ISC/fundamentosProgramacion_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+ 
+Programación Estructurada","UNIDAD DE 
+COMPETENCIA 
+Analiza  la  programación  de 
+computadoras a partir de sus 
+fundamentos, el lenguaje C y 
+el diseño estructurado.","1.1. Fundamentos de programación 
 1.1.1 Arquitectura de Von Neumann 
 1.1.2 Clasificaciones de los lenguajes de programación  
 1.1.3 Herramientas de programación 
@@ -1014,8 +1588,24 @@ Programa aplicaciones a partir de sentencias de control, funciones, apuntadores 
 1.3 Programación y diseño estructurado  
 1.3.1 Teorema de la programación estructurada  
 1.3.2 Características de un programa estructurado 
-1.3.3 Diseño estructurado - Modularidad
-3.1 Arquitectura de Memoria 
+1.3.3 Diseño estructurado - Modularidad"
+ISC/fundamentosProgramacion_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Manejo de Memoria 
+Dinámica y Archivos","UNIDAD DE 
+COMPETENCIA 
+Elabora 
+programas 
+de 
+computadora 
+a 
+partir 
+del  
+manejo de archivos de texto, 
+binarios 
+y 
+la 
+memoria 
+dinámica.","3.1 Arquitectura de Memoria 
 3.1.1 Harvard 
 3.1.2 Von Neumann 
 3.1.3 Memoria de un proceso en el modelo de memoria 
@@ -1033,12 +1623,18 @@ Programa aplicaciones a partir de sentencias de control, funciones, apuntadores 
 3.3.5 Cierre de archivos 
 3.3.6 Procesamiento y redireccionamiento de flujos de 
 entrada y salida 
-C - 2020
-",12,"Laboratorio de 
-cómputo"
-ISC/inteligenciaArtificial_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla sistemas inteligentes a partir de algoritmos de aprendizaje, modelos de representación de conocimiento 
-y el aprendizaje de máquina.","1
+C - 2020"
+ISC/inteligenciaArtificial_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Introducción a la inteligencia 
+artificial","D
+ 
+UNIDAD DE COMPETENCIA 
+iferencia el tipo de problemas 
+de 
+la 
+inteligencia  artificial  a 
+partir de sus aplicaciones y los 
+agentes inteligentes.","1
   1
   1
 .1  Inteligencia 
@@ -1051,8 +1647,20 @@ artificial
 1.4.1 Estructura 
 1.4.2 Medio ambiente de trabajo 
 1.4.3 Clasificación 
-1.4.4 Aplicaciones
-2
+1.4.4 Aplicaciones"
+ISC/inteligenciaArtificial_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Algoritmos de búsqueda","I
+ 
+UNIDAD DE COMPETENCIA 
+mplementa 
+el 
+algoritmo 
+de 
+búsqueda correspondiente con 
+base  en 
+la  caracterización  y 
+espacio de búsqueda en torno 
+a una problemática.","2
   2
   2
   2
@@ -1070,8 +1678,26 @@ artificial
 .4 Búsqueda adversaria 
 2.4.1 Algoritmo Min Max  
 2.4.2 Algoritmo Poda Alpha Beta  
-.5 Comparación de algoritmos búsqueda
-3
+.5 Comparación de algoritmos búsqueda"
+ISC/inteligenciaArtificial_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Modelos de representación del 
+conocimiento","C
+ 
+UNIDAD DE COMPETENCIA 
+rea 
+modelos 
+de 
+representación 
+del 
+conocimiento 
+con 
+base 
+en 
+razonamiento 
+basado 
+en 
+reglas  y  razonamiento  incierto 
+e incompleto.","3
   3
   3
   3
@@ -1091,8 +1717,19 @@ artificial
     3.4.2 Dependencia conceptual y guiones  
 .5 Modelos de conocimiento incierto e incompleto  
     3.5.1 Factores de certidumbre 
-    3.5.2 Lógica difusa
-4
+    3.5.2 Lógica difusa"
+ISC/inteligenciaArtificial_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Aprendizaje de máquina","C
+ 
+UNIDAD DE COMPETENCIA 
+onstruye 
+algoritmos de 
+aprendizaje  válidos  a  partir  de 
+los 
+diferentes 
+tipos 
+de 
+aprendizaje de máquina.","4
   4
   4
   4
@@ -1127,8 +1764,21 @@ validación
 de 
 algoritmos 
 de 
-agrupamiento: Medidas de validación internas y externas
-5.1 Algoritmos genéticos  
+agrupamiento: Medidas de validación internas y externas"
+ISC/inteligenciaArtificial_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Algoritmos bioinspirados","UNIDAD DE COMPETENCIA  
+  
+Construye 
+algoritmos 
+de 
+aprendizaje 
+u 
+optimización 
+válidos 
+a 
+partir 
+de 
+modelos bioinspirados.","5.1 Algoritmos genéticos  
      5.1.1 Trasfondo biológico  
      5.1.2 Algoritmo genético con representación binaria  
      5.1.3 Operadores genéticos para 
@@ -1140,13 +1790,19 @@ representaciones reales y permutaciones
     5.2.2 Modelo de McCulloch-Pitts  
     5.2.3 Perceptrón simple y multicapa  
     5.2.4 Propagación hacia atrás  
-    5.2.5 Aplicaciones
-",14,"Laboratorio 
-de computación"
-ISC/sistemasChip_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla  aplicaciones  embebidas  y  de  procesamiento  digital  de  señales  a  partir  de 
-los  diversos  recursos 
-periféricos de un sistema en chip, lenguaje ensamblador y un lenguaje de alto nivel.","1
+    5.2.5 Aplicaciones"
+ISC/sistemasChip_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Arquitectura del Sistema en 
+Chip","A
+ 
+UNIDAD DE COMPETENCIA 
+naliza 
+la 
+estructura 
+de 
+programación  del  Sistema  en 
+Chip con base en su arquitectura 
+y familias","1
   1
 1.1 Arquitectura del Sistema en Chip (SoC) 
 1.1.1 Estructura básica de un sistema en chip 
@@ -1168,8 +1824,21 @@ Instrucciones (RISC)
 1.3.2 Modos de direccionamiento 
 1.3.3 Ambiente de desarrollo de programación 
 1.3.4 Estructura de un programa en ensamblador 
-1.3.5 Manejo del simulador
-2
+1.3.5 Manejo del simulador"
+ISC/sistemasChip_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Periféricos básicos del Sistema 
+en Chip","P
+ 
+UNIDAD DE COMPETENCIA 
+rograma 
+recursos 
+periféricos 
+básicos del Sistema en Chip con 
+base en el sistema de  entrada  / 
+salida, 
+interrupciones 
+y 
+temporizadores.","2
   2
 2.1 Sistema de entrada / salida 
 2.1.1 Registros asociados 
@@ -1188,8 +1857,21 @@ Instrucciones (RISC)
 2.3.3 Configuración del sistema de interrupciones 
 2.3.4 Programación 
 2.3.5 Aplicaciones  
-2.3.6 RTCC, PWM, Perro Guardián
-3
+2.3.6 RTCC, PWM, Perro Guardián"
+ISC/sistemasChip_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Interfaces de comunicación 
+del Sistema en Chip","P
+ 
+UNIDAD DE COMPETENCIA 
+rograma 
+las 
+diferentes 
+interfaces 
+de 
+comunicación 
+del Sistema en Chip a partir de 
+la  configuración  del  UART, 
+SPI e IIC.","3
   3
 3.1 Estándar RS-232  
 3.1.1 Características de la comunicación 
@@ -1213,8 +1895,22 @@ Instrucciones (RISC)
 3.3.4 Configuración del sistema de interrupciones 
 3.3.5 Programación 
 3.3.6 Aplicaciones 
-3.4 Otras interfaces de comunicación
-4
+3.4 Otras interfaces de comunicación"
+ISC/sistemasChip_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Convertidor analógico digital","UNIDAD DE COMPETENCIA 
+Programa 
+el 
+convertidor 
+analógico digital en el Sistema 
+en  Chip 
+con  base  en 
+los 
+modos 
+de 
+operación 
+y 
+el 
+desarrollo de aplicaciones.","4
 4.1 Conversión analógico / digital (A/D) 
 4.1.1 Teorema de muestreo 
 4.1.2 Conceptos: rango dinámico, resolución, intervalo de 
@@ -1231,8 +1927,18 @@ sucesivas y sigma-delta.
 4.2.3 Modos de conversión A/D 
 4.2.4 Configuración del sistema de interrupciones 
 4.2.5 Programación 
-4.2.6 Aplicaciones
-5
+4.2.6 Aplicaciones"
+ISC/sistemasChip_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Sistemas operativos de tiempo 
+real","UNIDAD DE COMPETENCIA 
+Programa 
+un 
+Sistema 
+Operativo de Tiempo Real en el 
+Sistema  en  Chip  en  base  a  la 
+administración, mecanismos de 
+comunicación  y  sincronización 
+de tareas.","5
 5.1 Sistema Operativo de Tiempo Real (RTOS) 
 5.1.1 Concepto y características 
 5.1.2 Arquitectura y componentes del RTOS 
@@ -1254,12 +1960,14 @@ con
 semáforos 
 (semaphores) 
 5.2.4 Programación de semáforos en el Sistema en Chip 
-5.2.5 Aplicaciones
-",8,"Laboratorio de 
-Electrónica 
-Digital"
-ISC/basesDatos_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Implementa bases de datos a partir de los diferentes modelos de datos.","1.1  Aspectos básicos de las bases de datos 
+5.2.5 Aplicaciones"
+ISC/basesDatos_ISC2020.pdf,"UNIDAD TEMÁTICA I  
+Introducción a las bases de 
+datos","UNIDAD DE COMPETENCIA 
+ 
+Describe los sistemas de base 
+de datos a partir de sus 
+aspectos básicos.","1.1  Aspectos básicos de las bases de datos 
 1.1.1. 
 Características 
 1.1.2. 
@@ -1286,8 +1994,13 @@ centralizada
 1.4.1 
 Importancia 
 1.4.2 
-Clasificación
-2.1  Aspectos teóricos del modelo entidad - relación 
+Clasificación"
+ISC/basesDatos_ISC2020.pdf,"UNIDAD TEMÁTICA II  
+Modelo Entidad – Relación","UNIDAD DE COMPETENCIA 
+ 
+Construye  modelos  entidad  – 
+relación a partir de un problema 
+dado.","2.1  Aspectos teóricos del modelo entidad - relación 
 2.1.1. 
 Entidades 
 2.1.2. 
@@ -1301,8 +2014,13 @@ Especialización y generalización
 2.3.2. 
 Composición 
 2.3.3. 
-Unión
-3.1 Aspectos básicos del modelo relacional  
+Unión"
+ISC/basesDatos_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Modelo relacional","UNIDAD DE COMPETENCIA 
+ 
+Implementa una base de datos 
+a partir del modelo de datos 
+relacional.","3.1 Aspectos básicos del modelo relacional  
 3.1.1. 
 Esquema de base de datos relacional 
 3.1.2 
@@ -1319,8 +2037,17 @@ Lenguaje de manipulación de datos
 Inferencia de dependencias funcionales 
 3.5  Normalización 
 3.5.1. 
-Formas normales
-4
+Formas normales"
+ISC/basesDatos_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Álgebra y cálculo relacional","R
+ 
+UNIDAD DE COMPETENCIA 
+esuelve  consultas  a  partir  de 
+los 
+operadores 
+de 
+álgebra 
+relacional.","4
   4
   4
   4
@@ -1351,8 +2078,15 @@ Agrupación
 .5 
 División 
 .6 
-Cálculo relacional
-5.1 
+Cálculo relacional"
+ISC/basesDatos_ISC2020.pdf,"UNIDAD TEMÁTICA V  
+Lenguaje SQL","R
+ 
+UNIDAD DE COMPETENCIA 
+esuelve 
+consultas 
+de 
+acuerdo a la sintaxis de SQL.","5.1 
 Consultas simples 
 5.1.1. 
 Eliminación de duplicados 
@@ -1379,14 +2113,20 @@ Estados
 Manejo de vistas 
 5.6   Disparadores y procedimientos almacenados 
 5.7 
-Asignación de permisos
-",12,"Salón de clases/ 
-Laboratorio de 
-cómputo"
-ISC/metodosCuantitativosTomaDecisiones_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla planes de acción relacionados con el área de sistemas computacionales en cualquier giro de empresa, 
-a partir de la optimización de los recursos, el uso de la metodología de métodos cuantitativos, criterios de 
-sustentabilidad, e indicadores de toma de decisiones.","1.1 Antecedentes 
+Asignación de permisos"
+ISC/metodosCuantitativosTomaDecisiones_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Estructura de los métodos 
+cuantitativos para la toma de 
+decisiones","R
+ 
+UNIDAD DE COMPETENCIA 
+esuelve  problemas  del  área 
+de  ingeniería  con  base  en  la 
+metodología 
+de 
+la 
+investigación de operaciones y 
+métodos cuantitativos","1.1 Antecedentes 
 1.1.1 Origen y desarrollo de los métodos cuantitativos y 
 cualitativos 
 1.1.2 Naturaleza de los métodos cuantitativos y 
@@ -1414,8 +2154,16 @@ cuantitativos
 1.6 Técnicas de análisis cualitativo  
 1.6.1 Generalización del problema 
 1.6.2 Resultado final ideal 
-1.6.3 Los cinco ¿por qué?
-2.1 Programación lineal: aspectos básicos 
+1.6.3 Los cinco ¿por qué?"
+ISC/metodosCuantitativosTomaDecisiones_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Programación lineal","UNIDAD DE COMPETENCIA 
+Realiza 
+modelos 
+de 
+programación  lineal  con  base 
+en 
+la  aplicación  del  método 
+simplex gráfico y algebraico.","2.1 Programación lineal: aspectos básicos 
 2.1.1 Función lineal, desigualdad lineal y región factible 
 2.1.2  El  problema  de  programación 
 lineal  como  un 
@@ -1439,8 +2187,23 @@ función objetivo
 de maximización 
 2.5.2  Problemas  de  minimización:  uso  de  variables 
 artificiales 
-2.5.3 Método de variables artificiales
-3.1 Teoría de la dualidad 
+2.5.3 Método de variables artificiales"
+ISC/metodosCuantitativosTomaDecisiones_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Análisis de dualidad y 
+sensibilidad","R
+ 
+UNIDAD DE COMPETENCIA 
+ealizar 
+una 
+interpretación 
+económica  de 
+los  problemas 
+de  optimización  con  base  en 
+los  problemas 
+duales 
+y 
+su 
+primal correspondiente.","3.1 Teoría de la dualidad 
 3.1.1 Relaciones entre el problema primal y el dual 
 3.1.2 Transformación del problema primal a su problema 
 asociado dual 
@@ -1449,8 +2212,17 @@ problema primal
 3.3 Interpretación económica de la dualidad 
 3.4 Método simplex dual 
 3.4.1 Criterio de factibilidad y de optimalidad 
-3.5 Análisis de sensibilidad
-4.1 Problemas de flujo en redes 
+3.5 Análisis de sensibilidad"
+ISC/metodosCuantitativosTomaDecisiones_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Modelos de redes y de 
+transporte","R
+ 
+UNIDAD DE COMPETENCIA 
+esuelve  modelos  de  redes  y 
+de  transporte  con  base  en  las 
+técnicas  y  algoritmos  que 
+le 
+ofrezcan la solución óptima.","4.1 Problemas de flujo en redes 
 4.1.1 Características 
 4.2 Problema del árbol de extensión mínima 
 4.3 Problemas de flujo máximo 
@@ -1462,8 +2234,21 @@ de Proyectos (PERT)
 4.5 Formulación del problema de transporte 
 4.5.1 Regla de la esquina noroeste 
 4.5.2 Método de búsqueda de costo mínimo 
-4.5.3 Método de Vogel o de sanción
-5.1 Importancia de las decisiones de control de 
+4.5.3 Método de Vogel o de sanción"
+ISC/metodosCuantitativosTomaDecisiones_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Logística y control de modelos 
+de inventarios","R
+ 
+UNIDAD DE COMPETENCIA 
+esuelve  modelos  de  control 
+de inventarios y técnicas de los 
+misms, involucrando los costos 
+de 
+ahorro 
+que 
+ofrezcan 
+la 
+solución óptima","5.1 Importancia de las decisiones de control de 
 inventario 
 5.1.1 Decisiones sobre políticas de inventarios 
 5.2 Técnicas para ahorrar costos en el transporte 
@@ -1472,17 +2257,24 @@ en almacén
 5.3 Técnicas para ahorrar costos operativos 
 especiales 
 5.3.1 Tipos de costos involucrados 
-5.3.2 Costos y las áreas involucradas.
-",10,"Aula 
+5.3.2 Costos y las áreas involucradas."
+ISC/administracionServiciosRed_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Fundamentos de los 
+servicios de red","A
  
-Salas de cómputo 
-de la Unida0d 
-Académica"
-ISC/administracionServiciosRed_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Implementa  servicios  de 
-red  de  computadoras,  con  base  en 
-las  mejores  prácticas  de  administración  y 
-monitorización.","1.1  Servicios de red 
+UNIDAD DE 
+COMPETENCIA 
+naliza las características de 
+operatividad 
+de 
+los 
+elementos  de  una 
+red  de 
+servicios 
+informáticos 
+de 
+acuerdo  con  los  estándares 
+aplicables.","1.1  Servicios de red 
 1.1.1 
 Clasificación de los servicios de red 
 1.1.2 
@@ -1507,8 +2299,19 @@ GSM y GPRS
  
 1.4  Ética informática 
 1.4.1 
-Código de ética
-2.1  Configuración avanzada de conectividad del switch y 
+Código de ética"
+ISC/administracionServiciosRed_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Temas avanzados de 
+conectividad","C
+ 
+UNIDAD DE 
+COMPETENCIA 
+onstruye una 
+infraestructura de servicios 
+de conectividad con base en 
+el control de tráfico, 
+traducciones de red y redes 
+virtuales.","2.1  Configuración avanzada de conectividad del switch y 
 ruteador 
 2.1.1 
 Balanceo de carga 
@@ -1541,8 +2344,23 @@ Configuración de puertos troncales
 2.4.2 
 Etiquetado 
  
-2.5  Redes definidas por software
-3.1  Administración de la red 
+2.5  Redes definidas por software"
+ISC/administracionServiciosRed_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+SNMP, monitoreo y calidad","UNIDAD DE 
+COMPETENCIA 
+ 
+Construye  una  herramienta 
+de 
+software 
+de 
+almacenamiento 
+de 
+información 
+de 
+los 
+parámetros  de  servicios  en 
+red con base en el protocolo 
+SNMP.","3.1  Administración de la red 
 3.1.1 
 Protocolo de administración de red (SNMP) 
 3.1.2 
@@ -1562,8 +2380,19 @@ Parametrización de los servicios
 3.3.1 
 El proceso y principios de monitorización 
 3.3.2 
-Recolección, análisis y notificación
-4.1  Administración de servicios de alto nivel con base en 
+Recolección, análisis y notificación"
+ISC/administracionServiciosRed_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Implementación de los 
+servicios de red","M
+ 
+UNIDAD DE 
+COMPETENCIA 
+ide  el  nivel  de 
+recursos 
+utilizados en la prestación de 
+servicios  estandarizados  en 
+red con base en el protocolo 
+SNMP.","4.1  Administración de servicios de alto nivel con base en 
 SNMP 
 4.1.1 
 Hipertexto, 
@@ -1580,8 +2409,25 @@ Asignación dinámica de direcciones IP
 4.2.2 
 Servicios de nombres 
 4.2.3 
-Servidor proxy
-5.1  Seguridad básica 
+Servidor proxy"
+ISC/administracionServiciosRed_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Gestión de la seguridad y el 
+desempeño","UNIDAD DE 
+COMPETENCIA 
+ 
+Evalúa 
+los 
+niveles 
+de 
+seguridad 
+y 
+desempeño 
+implementados en una red de 
+comunicaciones con base en 
+mecanismos 
+y 
+políticas, 
+elementos de seguridad.","5.1  Seguridad básica 
 5.1.1 
 Elementos de seguridad 
 5.1.2 
@@ -1603,12 +2449,14 @@ Objetivos y criterios
 5.3.2 
 Planeación de la auditoria 
 5.3.3 
-Seguimiento y reportes
-",13,"Laboratorio de 
-Redes"
-ISC/trabajoTerminal_II_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Implementa un proyecto científico o tecnológico en cómputo, con base en técnicas y herramientas de desarrollo, y 
-en la documentación sistemática.","1
+Seguimiento y reportes"
+ISC/trabajoTerminal_II_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Implementación y pruebas","V
+ 
+UNIDAD DE COMPETENCIA 
+erifica la implementación de las 
+partes de un proyecto a partir de 
+pruebas unitarias o modulares.","1
 1.1  Implementación 
 1.1.1 
 Estándares y procedimientos de codificación o 
@@ -1621,8 +2469,21 @@ existentes
 Plan de pruebas 
 1.2.2 
 Elaboración de escenarios y scripts de 
-pruebas unitarias o modulares
-2
+pruebas unitarias o modulares"
+ISC/trabajoTerminal_II_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Integración y resultados","E
+ 
+UNIDAD DE COMPETENCIA 
+valúa 
+los 
+resultados 
+del 
+proyecto 
+con 
+base 
+en 
+las 
+pruebas de integración.","2
   2
   2
 2.1  Integración 
@@ -1636,8 +2497,15 @@ Verificación y validación de resultados
 2.2.1 
 Identificación de oportunidades de mejora 
 .3  Trabajo a futuro 
-.4  Conclusiones
-3
+.4  Conclusiones"
+ISC/trabajoTerminal_II_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Presentación y defensa  del 
+proyecto final","J
+ 
+UNIDAD DE COMPETENCIA 
+ustifica  el  resultado  final  de  un 
+proyecto a partir de un reporte y 
+una presentación ejecutiva.","3
 3.1  Reporte final del proyecto 
 3.1.1 
 Análisis de similitud 
@@ -1648,11 +2516,25 @@ Revisión de formatos
 3.2.1 
 Aplicación de formatos de escritura de un 
 artículo científico 
-.3  Presentación ejecutiva del proyecto
-",8,"Salas de Trabajo 
-Terminal"
-ISC/analisisVectorial_ISC2020.pdf,"Resuelve problemas geométricos y físicos a partir del estudio de las propiedades de los vectores, las funciones 
-vectoriales en el espacio tridimensional y los teoremas integrales de Gauss, Green y Stokes.","1
+.3  Presentación ejecutiva del proyecto"
+ISC/analisisVectorial_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Los espacios Euclidianos  R2 y 
+R3 dimensional","UNIDAD DE COMPETENCIA 
+ 
+Resuelve 
+problemas 
+geomé-
+tricos  y  físicos  con  base  en  los 
+fundamentos 
+del 
+álgebra 
+vectorial,  el  producto  escalar,  el 
+producto 
+cruz 
+y 
+los 
+triples 
+productos entre vectores.","1
   1
 1.1 Los espacios Euclidianos R2 y R3     
 1.1.1 Introducción a los espacios vectoriales 
@@ -1663,8 +2545,19 @@ paralelogramo, triángulo y polígono) y la multiplicación
 de 
 1.2.2 El ángulo entre dos vectores: cosenos directores 
 entre dos rectas  
-C - 2020
-2
+C - 2020"
+ISC/analisisVectorial_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Cálculo Diferencial Vectorial","A
+   
+UNIDAD DE COMPETENCIA 
+plica  la  regla  de  la  cadena,  el 
+gradiente, 
+la  divergencia  y  el 
+rotacional con base en el estudio 
+de  las  funciones  vectoriales  de 
+variable real y su derivación. 
+ 
+IS","2
    
   2
 2.1 Funciones vectoriales de variable real 
@@ -1682,8 +2575,13 @@ aplicaciones
 más de una variable    
 2.4.3 Divergencia y rotacional de un campo vectorial  
 2.4.4 Operaciones con el operador Nabla: algunas 
-identidades vectoriales
-3
+identidades vectoriales"
+ISC/analisisVectorial_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Cálculo Integral Vectorial","UNIDAD DE COMPETENCIA 
+ 
+Aplica los teoremas integrales a 
+partir  de  las  integrales  de  línea, 
+de superficie y de volumen.","3
   3
   3
 3.1 Integral de Línea 
@@ -1691,12 +2589,24 @@ identidades vectoriales
 3.1.2 Propiedades de las integrales de línea 
 múltiples: el Jacobiano de la transformación, integrales 
  
-C - 2020
-",3,"Laboratorio de 
-Cómputo"
-ISC/desarrolloHabilidadesSocialesAltaDireccion_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla habilidades personales, sociales y directivas en la integración de equipos directivos, con base en una 
-visión estratégica de liderazgo y de toma de decisiones.","1
+C - 2020"
+ISC/desarrolloHabilidadesSocialesAltaDireccion_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Fundamentos de la alta 
+dirección y planeación 
+estratégica","E
+ 
+UNIDAD DE 
+COMPETENCIA 
+xplica las bases sobre alta 
+dirección 
+y 
+planeación 
+estratégica, con base en los 
+principios  de  desarrollo  de   
+habilidades 
+personales 
+y 
+sociales.","1
   1
 1.1. 
 Principios de la alta dirección en la organización 
@@ -1732,8 +2642,30 @@ personalidad
 del 
 alto 
 directivo 
-estratega
-2
+estratega"
+ISC/desarrolloHabilidadesSocialesAltaDireccion_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Habilidades personales y 
+sociales para la alta 
+dirección","D
+ 
+UNIDAD DE 
+COMPETENCIA 
+esarrolla 
+habilidades 
+personales 
+y 
+sociales 
+requeridas 
+en 
+la 
+alta 
+dirección 
+a 
+partir 
+del 
+autoconocimiento 
+e 
+inteligencia emocional.","2
 2.1 
 Habilidades personales para la alta dirección 
 2.1.1  Autoconocimiento 
@@ -1765,8 +2697,22 @@ e
 interpersonal 
 2.2.3  Asertividad: Características de la persona asertiva 
 2.2.4  Conducta ética  
-2.2.5  Manejo del conflicto
-3
+2.2.5  Manejo del conflicto"
+ISC/desarrolloHabilidadesSocialesAltaDireccion_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Habilidades directivas","G
+UNIDAD DE 
+COMPETENCIA 
+estiona 
+equipos 
+de 
+trabajo 
+en 
+las 
+organizaciones  a  partir  del 
+desarrollo 
+de 
+habilidades 
+directivas.","3
   3
   3
   3
@@ -1794,10 +2740,18 @@ Toma de decisiones
 Estrategias de negociación 
 3.5.1  Técnicas de negociación 
 3.5.2  Obstáculos en las negociaciones 
-3.5.3  Relaciones públicas
-",5,Aula
-ISC/gestionEmpresarial_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Gestiona organizaciones de innovación tecnológica con base en las competencias gerenciales.","1
+3.5.3  Relaciones públicas"
+ISC/gestionEmpresarial_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Aspectos básicos de la 
+gestión empresarial","UNIDAD DE 
+COMPETENCIA 
+Analiza 
+la 
+gestión 
+empresarial con base en su 
+clasificación 
+y 
+constitucional legal.","1
   1
   1
 1.1 
@@ -1815,8 +2769,24 @@ Gestión empresarial
 1.3.2  Funciones básicas 
 1.3.3  Clasificación 
 .4 
-Diferencias entre administrar y gestionar
-2
+Diferencias entre administrar y gestionar"
+ISC/gestionEmpresarial_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Gestión estratégica en las 
+empresas de innovación 
+tecnológica","UNIDAD DE 
+COMPETENCIA 
+Aplica la gestión estratégica 
+en 
+las 
+empresas 
+de 
+innovación  tecnológica  con 
+base 
+en 
+las 
+diferentes 
+herramientas,  la  filosofía  y 
+su cultura organizacional.","2
   2
   2
   2
@@ -1841,8 +2811,20 @@ Herramientas de gestión estratégica
 2.5.2  Modelos de negocio 
 2.5.3  Modelo de Diamante de Porter 
 2.5.4  Plan comercial 
-2.5.5  Plan maestro
-3
+2.5.5  Plan maestro"
+ISC/gestionEmpresarial_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Gestión operativa de la 
+empresa","UNIDAD DE 
+COMPETENCIA 
+ 
+Integra la gestión operativa 
+en la empresa, con base en 
+su 
+estructura 
+organizacional 
+y 
+la 
+innovación tecnológica.","3
   3
   3
 3.1 
@@ -1875,8 +2857,20 @@ cultura
 organizacional 
 3.4.3 
 Evaluación tecnológica de la empresa 
-3.4.4  Optimización de los recursos tecnológicos
-4
+3.4.4  Optimización de los recursos tecnológicos"
+ISC/gestionEmpresarial_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Gestión del capital humano 
+y la calidad","UNIDAD DE 
+COMPETENCIA 
+ 
+Integra 
+la 
+gestión 
+del 
+capital humano y la calidad 
+en la empresa, con base en 
+el  marco  normativo  de  las 
+relaciones laborales.","4
   4
   4
 4.1 
@@ -1903,8 +2897,16 @@ Análisis funcional
 4.4.4 
 Benchmarking  
 4.4.5 
-ERP
-5
+ERP"
+ISC/gestionEmpresarial_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Tendencias en la 
+gestión empresarial","UNIDAD DE 
+COMPETENCIA 
+ 
+Aplica los aspectos legales 
+y  sus  habilidades  digitales 
+con base en las tendencias 
+y tecnologías digitales.","5
   5
   5
 5.1 
@@ -1934,9 +2936,14 @@ Inteligencia Artificial
 5.4.3 
 Inteligencia de negocios 
 5.4.4 
-Blockchain y la nube
-",16,Aula
-ISC/calculoAplicado_ISC2020.pdf,Resuelve problemas de ingeniería a partir del cálculo diferencial e integral.,"1
+Blockchain y la nube"
+ISC/calculoAplicado_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+La integral definida y sus 
+aplicaciones","UNIDAD DE COMPETENCIA 
+Resuelve problemas de área de 
+regiones, volumen, área 
+superficial y longitud de arco a 
+partir de la integral definida.","1
   1
   1
  
@@ -1949,8 +2956,15 @@ ISC/calculoAplicado_ISC2020.pdf,Resuelve problemas de ingeniería a partir del c
 1.3.2  Simpson 
 .4 
 1.4.1  Área entre curvas 
-C - 2020
-2
+C - 2020"
+ISC/calculoAplicado_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Formas indeterminadas e 
+integrales impropias","UNIDAD DE COMPETENCIA 
+Establece la convergencia o 
+divergencia de una integral 
+impropia a partir de los límites 
+de formas indeterminadas.  
+IS","2
  
 2.1. 
 Formas indeterminadas 
@@ -1964,8 +2978,14 @@ y divergencia
 con 
 discontinuidades 
 infinitas: 
-convergencia y divergencia
-3
+convergencia y divergencia"
+ISC/calculoAplicado_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Sucesiones y series","UNIDAD DE COMPETENCIA 
+Establece la convergencia o 
+divergencia de sucesiones y 
+series a partir de sus 
+propiedades, características y 
+criterios.","3
   3
   3
  
@@ -1980,8 +3000,14 @@ Sucesiones
 .4. 
 3.4.1.  Criterio de convergencia para series alternantes 
   
-C - 2020
-4
+C - 2020"
+ISC/calculoAplicado_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Series de potencia","UNIDAD DE COMPETENCIA 
+Representa funciones como 
+series de potencias a partir de 
+las series de Taylor y de 
+McLaurin. 
+IS","4
  
 4.1. 
 Series de potencias 
@@ -1991,12 +3017,25 @@ Series de potencias
 Series de Taylor y de McLaurin 
 4.2.1.  Serie de Taylor 
 4.2.2.  Serie de McLaurin 
-4.2.3.  Polinomio de Taylor
-",4,"Aula y laboratorio 
-de cómputo"
-ISC/redesComputadoras_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Diseña las topologías lógica y física de una red de área local a partir de sus fundamentos, técnicas de transmisión 
-de datos, capas de acceso a la red, Internet y transporte.","1
+4.2.3.  Polinomio de Taylor"
+ISC/redesComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Fundamentos de redes","UNIDAD DE COMPETENCIA 
+Analiza 
+los 
+fundamentos 
+de 
+redes 
+de 
+computadoras 
+con 
+base 
+en 
+su 
+clasificación, 
+organizaciones 
+de 
+estandarización,  el modelo OSI, 
+la arquitectura TCP/IP.","1
   1
   1
 1.1 Fundamentos de redes de computadoras 
@@ -2009,8 +3048,33 @@ de datos, capas de acceso a la red, Internet y transporte.","1
 1.3.1 ISO, IETF, UIT-T 
 1.3.2 Principales estándares IEEE (802.2, 802.3,   
          802.11, 802.15 y 802.16) 
-.4 Modelo OSI y Arquitectura TCP/IP
-2
+.4 Modelo OSI y Arquitectura TCP/IP"
+ISC/redesComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Transmisión de datos","A
+UNIDAD DE COMPETENCIA 
+naliza 
+los  mecanismos 
+de 
+transmisión 
+de 
+datos 
+que 
+garantizan 
+una 
+comunicación 
+confiable 
+con 
+base 
+en 
+las 
+funciones 
+de 
+los 
+protocolos, 
+especificaciones 
+y 
+estándares 
+de medios de transmisión.","2
   2
      
 2.1   Funciones de los protocolos:  
@@ -2022,8 +3086,22 @@ de datos, capas de acceso a la red, Internet y transporte.","1
                conexión y Multicanalización / multiplexación 
 .2 Especificaciones y estándares de medios de  
       transmisión 
-.3 Códigos de línea
-3
+.3 Códigos de línea"
+ISC/redesComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Capa de Acceso a la Red","E
+    E
+UNIDAD DE COMPETENCIA 
+xamina  la  capa  de  acceso  a  la  red  a 
+partir  de rutinas  para manipular la NIC, 
+estándares  aplicables  y  tecnologías  de 
+control de acceso al medio. 
+xamina  la  capa  de  acceso  a  la  red  a 
+partir del uso de rutinas de manipulación 
+de 
+la  NIC,  estándares  aplicables 
+y 
+tecnologías  de  control  de  acceso  al 
+medio.","3
   3
   3
    
@@ -2046,8 +3124,24 @@ desde un archivo
 3.3.3  Encabezado  LLC  y  análisis 
 de trama IEEE 802.3 
 .4 Tecnologías de Control de Acceso 
-al Medio
-4.1 Protocolo de Internet IP 
+al Medio"
+ISC/redesComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Capa de Internet","UNIDAD DE COMPETENCIA 
+Administra 
+problemas 
+entre 
+redes 
+IP 
+con 
+base 
+en 
+el 
+direccionamiento 
+IPv4 
+y 
+los 
+protocolos  ARP,  IP,  ICMP,  IGMP 
+y de enrutamiento.","4.1 Protocolo de Internet IP 
    4.1.1 Direccionamiento IPv4 por clases, VLSM,  
             CIDR 
    4.1.2 IPv4 vs IPv6 
@@ -2070,48 +3164,89 @@ al Medio
 (IGMP)  
 4.5.1 Encabezado IGMP 
 4.5.2 Análisis de tramas IGMP 
-4.5.3 IGMP vs DVMRP vs PIM vs MSDP
-5.1 Protocolo de Control de Transmisión TCP  
+4.5.3 IGMP vs DVMRP vs PIM vs MSDP"
+ISC/redesComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Capa de Transporte","A
+UNIDAD DE COMPETENCIA 
+naliza los servicios de la capa 
+de Transporte a partir de los 
+protocolos TCP Y UDP para una 
+comunicación confiable extremo 
+a extremo.","5.1 Protocolo de Control de Transmisión TCP  
 4.1.1 Encabezado TCP 
  
 5.2 Protocolo de Datagramas de Usuario UDP  
 4.2.1 Encabezado UDP 
  
-5.3 Análisis de segmentos TCP y datagramas UDP
-",15,"Laboratorio de 
-redes"
-ISC/tecnologiasDesarrolloAplicacionesWeb_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla  aplicaciones  Web  con  base  en  las  tecnologías  HTML,  XML,  Java,  JavaScript,  AJAX,  un  framework 
-JavaScript y la conexión a bases de datos.","1.1 Evolución histórica de Internet y la WWW 
+5.3 Análisis de segmentos TCP y datagramas UDP"
+ISC/tecnologiasDesarrolloAplicacionesWeb_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Aspectos básicos del 
+desarrollo de aplicaciones web","I
+UNIDAD DE COMPETENCIA 
+dentifica 
+los 
+elementos 
+principales  en el desarrollo  de 
+las aplicaciones Web así como 
+las buenas prácticas a partir de 
+la arquitectura y los estándares 
+de la Web.","1.1 Evolución histórica de Internet y la WWW 
 1.2 La Internet y la WWW 
 1.2.1 Arquitectura Cliente/Servidor 
 1.2.2 Protocolo TCP/IP 
 1.2.3 Protocolo de Transferencia de Híper Texto (HTTP) 
 1.2.4 Evolución de Navegares Web  
 1.3 Estándares para la Web 
-1.4 Entornos de desarrollo para Aplicaciones Web
-2.1 Evolución del lenguaje HTML 
+1.4 Entornos de desarrollo para Aplicaciones Web"
+ISC/tecnologiasDesarrolloAplicacionesWeb_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Páginas Web con HTML","D
+UNIDAD DE COMPETENCIA 
+iseña contenido web estático 
+y  dinámico  con  base  en  el 
+lenguaje de marcas HTML.","2.1 Evolución del lenguaje HTML 
 2.2 Estructura de un documento HTML 
 2.3 Elementos de HTML 
 2.4 Tablas, contenedores y formularios 
-2.5 Creación y modificación de archivos HTML estáticos
-3.1 Introducción a los Servlets 
+2.5 Creación y modificación de archivos HTML estáticos"
+ISC/tecnologiasDesarrolloAplicacionesWeb_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Java Servlets","D
+UNIDAD DE COMPETENCIA 
+iseña  aplicaciones  web  con 
+base en Servlets.","3.1 Introducción a los Servlets 
 3.2 Ciclo de vida y el API Servlet 
 3.3 HttpServlets 
 3.3.1 Parámetros 
 3.3.2 Atributos 
 3.3.3 Sesión 
 3.3.4 Redireccionamiento 
-3.3.5 Cookies
-4.1 Historia de XML 
+3.3.5 Cookies"
+ISC/tecnologiasDesarrolloAplicacionesWeb_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Lenguaje de Marcado 
+eXtensible (XML)","D
+ 
+UNIDAD DE COMPETENCIA 
+iseña 
+contenido  web 
+con 
+base  en 
+los  documentos 
+y 
+reglas XML.","4.1 Historia de XML 
 4.2 Elementos de XML 
 4.3 Tipo de Documento (DTD) 
 4.4 Esquema XML 
 4.5 Modelo Objeto Documento (DOM) 
 4.6 Creación, modificación y borrado de archivos 
 estáticos y dinámicos XML 
-4.6 Familia de dialectos XML
-5.1 Historia de Hojas de Estilo en Cascada (CSS) 
+4.6 Familia de dialectos XML"
+ISC/tecnologiasDesarrolloAplicacionesWeb_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Hojas de estilo en cascada","D
+       
+ 
+UNIDAD DE COMPETENCIA 
+iseña maquetado responsivo 
+con base en las hojas de estilo 
+en cascada (CSS).","5.1 Historia de Hojas de Estilo en Cascada (CSS) 
 5.2 Aspectos básicos de los estilos 
 5.2.1 Recomendación del W3C para las hojas de estilo 
 en cascada 
@@ -2124,8 +3259,15 @@ de HTML
 5.8 Propiedades avanzadas de los estilos (CSS Nivel 3) 
 5.9 Creación, modificación y borrado de archivos CSS 
 estáticos y dinámicos XML 
-5.10 Lineamientos del diseño responsivo
-6.1 Historia de JavaScript 
+5.10 Lineamientos del diseño responsivo"
+ISC/tecnologiasDesarrolloAplicacionesWeb_ISC2020.pdf,"UNIDAD TEMÁTICA VI 
+JavaScript y AJAX","UNIDAD DE COMPETENCIA 
+Desarrolla  aplicaciones  Web 
+usando AJAX y JSON a partir 
+del  manejo 
+de  marcos 
+de 
+trabajo Javascript.","6.1 Historia de JavaScript 
 6.2 Sintaxis de Elementos de JavaScript 
 6.2.1 Modelo de Eventos 
 6.2.2 Modelo de objetos del Navegador 
@@ -2138,14 +3280,19 @@ JavaScript estáticos y dinámicos
 6.5.1 Conceptos básicos de AJAX 
 6.5.2 Diferencias entre aplicaciones Web tradicionales y 
 aplicaciones Web con AJAX 
-6.5.3 Objetos de AJAX
-",13,".
-                 
-Laboratorio de 
-Cómputo."
-ISC/analisisDisenoAlgoritmos_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Evalúa  la  resolución  de  problemas  computacionales  con  base  en  las  técnicas  de  análisis  de  complejidad  y  las 
-estrategias de diseño de algoritmos.","1
+6.5.3 Objetos de AJAX"
+ISC/analisisDisenoAlgoritmos_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Análisis de complejidad 
+computacional","UNIDAD DE COMPETENCIA 
+ 
+Analiza la complejidad 
+computacional temporal de 
+algoritmos iterativos y recursivos 
+con base en el conteo de 
+operaciones secuenciales, 
+estructuras de control y la 
+resolución de ecuaciones de 
+recurrencia.","1
 1.1  Problemas computacionales 
 1.1.1 Problemas computables y no computables 
 1.1.2 Complejidad espacial y temporal de problemas y 
@@ -2168,8 +3315,17 @@ control
 1.3.2 Algoritmos iterativos 
 1.3.3 Algoritmos recursivos 
 1.3.4 Árboles de invocaciones recursivas 
-1.3.5 Solución de ecuaciones de recurrencia
-2
+1.3.5 Solución de ecuaciones de recurrencia"
+ISC/analisisDisenoAlgoritmos_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Estrategias de diseño de 
+algoritmos","UNIDAD DE COMPETENCIA 
+ 
+Diseña soluciones 
+algorítmicas a problemas 
+computacionales a partir de 
+las estrategias de divide y 
+vencerás, heurísticas voraces 
+y programación dinámica.","2
   2
 2.1 Divide y vencerás 
 2.1.1 Formulación recursiva 
@@ -2191,8 +3347,17 @@ control
 2.3.3 Mochila entera 
 2.3.4 Subsecuencia común más larga 
 2.3.5 Líneas de producción 
-2.3.6 Resolución de problemas adicionales
-3
+2.3.6 Resolución de problemas adicionales"
+ISC/analisisDisenoAlgoritmos_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Problemas NP","UNIDAD DE COMPETENCIA 
+ 
+Plantea soluciones a 
+problemas NP de acuerdo con 
+el análisis de su complejidad 
+computacional y la aplicación 
+de algoritmos de aproximación 
+junto con las estrategias de 
+diseño.","3
 3.1 Clases P y NP 
 3.1.1 Certificados de verificación de soluciones 
 3.1.2 Reducibilidad polinomial 
@@ -2205,16 +3370,36 @@ control
 3.2.3 Satisfacibilidad booleana 
 3.2.4 Cliqué máximo 
 3.2.5 Coloreado de grafos 
-3.2.6 Algoritmos de aproximación
-",6,"Laboratorio de 
-Cómputo"
-ISC/fundamentosEconomicos_ISC2020.pdf,Analiza la toma de decisiones económicas con base en su entorno nacional e internacional.,"1
+3.2.6 Algoritmos de aproximación"
+ISC/fundamentosEconomicos_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Fundamentos de la Economía","I
+ 
+UNIDAD DE COMPETENCIA 
+dentifica 
+la 
+importancia  de 
+la 
+economía y su campo de acción 
+con  base  en  sus 
+fundamentos 
+generales.","1
   1
   1
   1
  
-C - 2020
-3
+C - 2020"
+ISC/fundamentosEconomicos_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Microeconomía: teoría del 
+comportamiento del consumidor 
+y del productor","UNIDAD DE COMPETENCIA 
+ 
+Diferencia la toma de decisiones 
+económicas entre consumidores 
+y  productores  con  base  en  las 
+restricciones 
+y 
+IS
+corto y largo plazo","3
 3.1 El comportamiento del consumidor  
 3.1.1. Gustos y preferencias de consumo 
 3.1.2 Utilidad y preferencia (superficie de utilidad) 
@@ -2229,8 +3414,26 @@ consumidor
 3.2.2. La empresa y su problema económico 
 3.2.3. Teoría de producción de corto y de largo plazo 
 3.2.3. Teoría de costos de corto y de largo plazo 
-3.2.4. El equilibrio del productor
-3
+3.2.4. El equilibrio del productor"
+ISC/fundamentosEconomicos_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Teoría del mercado:  oferta, 
+demanda y precio","UNIDAD DE COMPETENCIA 
+ 
+Explica 
+la 
+determinación 
+del 
+precio con base en factores que 
+influyen 
+en 
+la 
+oferta 
+y 
+la 
+demanda,  así  como 
+las 
+leyes 
+que las rigen.","3
   3
   3
 .1 Demanda 
@@ -2240,8 +3443,22 @@ consumidor
 3.2.1 Factores de la oferta y ley de la oferta 
 3.2.2 Elasticidades precio y cruzada  
 .3 Equilibrio del mercado 
-3.3.1Precio como regulador y equilibrio del mercado
-5
+3.3.1Precio como regulador y equilibrio del mercado"
+ISC/fundamentosEconomicos_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Economía internacional y 
+sustentabilidad","UNIDAD DE COMPETENCIA 
+Distingue 
+la 
+importancia  del 
+comercio y el sector financiero 
+internacional en el desempeño 
+de la economía global, a partir 
+de 
+su 
+impacto 
+en 
+la 
+sustentabilidad.","5
   5
   5
 5.1 Sistema financiero internacional 
@@ -2254,12 +3471,14 @@ consumidor
 en la sustentabilidad 
 .4 Economía circular 
  
-C - 2020
-",6,"Laboratorio de 
-cómputo"
-ISC/arquitectutaComputadoras_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Implementa un procesador  de arquitectura RISC con base en  un lenguaje de  descripción de hardware (HDL) y 
-dispositivos reconfigurables del tipo FPGA.","1
+C - 2020"
+ISC/arquitectutaComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Organización y arquitectura de 
+computadoras","UNIDAD DE COMPETENCIA 
+Identifica la organización de una 
+computadora de propósito 
+general con base en su 
+arquitectura.","1
 1.1 Fundamentos de arquitectura de computadoras 
 1.1.1 Arquitectura y organización de computadoras 
 1.1.2 Memoria de programa 
@@ -2274,8 +3493,16 @@ dispositivos reconfigurables del tipo FPGA.","1
 1.2.3 Arquitectura Hardvard 
 .3 Arquitecturas especializadas 
 1.3.1 Arquitectura Superescalar 
-1.3.2 Arquitectura vectorial
-2
+1.3.2 Arquitectura vectorial"
+ISC/arquitectutaComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Arquitectura del conjunto de 
+instrucciones de RISC","UNIDAD DE COMPETENCIA 
+Analiza la arquitectura del 
+conjunto de instrucciones del 
+procesador RISC con base en 
+los formatos y tipos de 
+instrucciones y su programación 
+con simuladores.","2
   2
 2.1 Formato de las instrucciones 
 2.1.1 Formato tipo R 
@@ -2297,8 +3524,15 @@ incondicional
 2.3.4 Instrucciones de brinco condicional e 
 incondicional 
 2.3.5 Instrucciones de manejo de subrutinas 
-2.3.6 Implementación usando simuladores
-3
+2.3.6 Implementación usando simuladores"
+ISC/arquitectutaComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Diseño e implementación de un 
+procesador monociclo de 
+arquitectura RISC","UNIDAD DE COMPETENCIA 
+Implementa un procesador 
+monociclo de arquitectura RISC 
+con base en el uso de lógica 
+reconfigurable.","3
   3
   3
   3
@@ -2357,8 +3591,14 @@ lógica
 reconfigurable 
 3.5.2 Ejecución de programas en los procesadores 
 3.5.3 Implementación de analizadores lógicos en FPGA 
-para la depuración de programas en ejecución
-4
+para la depuración de programas en ejecución"
+ISC/arquitectutaComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Segmentación de la ruta de 
+datos de un procesador RISC","UNIDAD DE COMPETENCIA 
+Implementa las etapas de 
+segmentación en un procesador 
+RISC a partir del uso de lógica 
+reconfigurable.","4
   4
 4.1 Segmentación 
 4.1.1 Etapas de segmentación 
@@ -2392,8 +3632,14 @@ usando
 HDL 
 en 
 lógica 
-reconfigurable
-5
+reconfigurable"
+ISC/arquitectutaComputadoras_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Organización del Sistema de 
+Memoria","UNIDAD DE COMPETENCIA 
+Diseña la jerarquía de memoria 
+de una computadora mediante 
+el uso de la lógica 
+reconfigurable.","5
   5
 5.1 Jerarquía de la memoria 
 5.1.1. Memoria principal 
@@ -2419,10 +3665,16 @@ reconfigurable
 5.3.2. Unidad de Administración de Memoria (MMU). 
 5.3.3. Tablas de páginas 
 5.3.4. Arquitecturas de TLB. 
-5.3.5. Algoritmos de reemplazo de páginas
-",11,"Laboratorio de 
-Electrónica Digital"
-ISC/algoritmosEstructurasDatos_ISC2020.pdf,Utiliza algoritmos y estructuras de datos con base en sus órdenes de complejidad y características.,"1
+5.3.5. Algoritmos de reemplazo de páginas"
+ISC/algoritmosEstructurasDatos_ISC2020.pdf,"UNIDAD TEMÁTICA I
+Algoritmos fundamentales","UNIDAD DE COMPETENCIA
+Identifica 
+algoritmos 
+fundamentales 
+de 
+la 
+computación  con  base  en  sus 
+órdenes de complejidad.","1
   1
   1
   1
@@ -2434,8 +3686,16 @@ ISC/algoritmosEstructurasDatos_ISC2020.pdf,Utiliza algoritmos y estructuras de d
 1.3.3 Búsqueda indexada 
 exhaustiva y vuelta atrás 
  
-C - 2020
-2
+C - 2020"
+ISC/algoritmosEstructurasDatos_ISC2020.pdf,"UNIDAD TEMÁTICA II
+Estructuras de datos lineales","UNIDAD DE COMPETENCIA
+Construye  estructuras  de  datos 
+lineales 
+a 
+partir 
+de 
+especificaciones genéricas.  
+IS","2
   2
   2
   2
@@ -2452,8 +3712,19 @@ C - 2020
 2.4.2 Función hash 
 2.4.5 Tablas hash abiertas 
 C - 2020
-2.4.7 Implementaciones y aplicaciones
-3
+2.4.7 Implementaciones y aplicaciones"
+ISC/algoritmosEstructurasDatos_ISC2020.pdf,"UNIDAD TEMÁTICA III
+Estructuras de datos no lineales","UNIDAD DE COMPETENCIA
+Manipula estructuras de datos no 
+lineales 
+a 
+partir 
+de 
+sus 
+aplicaciones, 
+complejidad 
+y 
+representaciones.","3
 .1 Árboles binarios
 3.1.1 Transformación de árboles generales a binarios 
 3.1.5 Montículo  
@@ -2463,16 +3734,35 @@ implementaciones
 3.2.4 Distancia más corta  
 3.2.6 Nociones de complejidad de los algoritmos sobre 
 grafos 
-C - 2020
-",12,"Laboratorio de 
-cómputo"
-ISC/fundamentosDisenoDigital_ISC2020.pdf,"UNIDAD ACADÉMICA: ESCUELA SUPERIOR DE CÓMPUTO, UNIDAD PROFESIONAL INTERDISCIPLINARIA 
-DE INGENIERÍA, CAMPUS ZACATECAS","1.1    Estado del arte de Sistemas Digitales 
+C - 2020"
+ISC/fundamentosDisenoDigital_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Principios del diseño de 
+sistemas digitales","UNIDAD DE COMPETENCIA 
+ 
+Resuelve problemas de diseño 
+de sistemas digitales 
+combinatorios a partir del 
+álgebra de Boole y las técnicas 
+de minimización.","1.1    Estado del arte de Sistemas Digitales 
 1.2    Álgebra de Boole 
 1.3    Método gráfico de Mapa de Karnaugh 
 1.4.   Método tabular de Quine-McCluskey    
-1.5    Circuitos digitales combinatorios: problemas
-2
+1.5    Circuitos digitales combinatorios: problemas"
+ISC/fundamentosDisenoDigital_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Tecnología y lenguajes de 
+programación de dispositivos 
+reconfigurables","U
+UNIDAD DE COMPETENCIA 
+tiliza 
+los  dispositivos 
+lógicos 
+programables 
+y 
+lenguajes 
+de 
+descripción de hardware a partir 
+de su tecnología y sentencias de 
+programación.","2
 .1    Escala de Integración  de los Circuitos  
          Integrados (CI) 
 2.2    Características de las Familias Lógicas 
@@ -2480,8 +3770,21 @@ DE INGENIERÍA, CAMPUS ZACATECAS","1.1    Estado del arte de Sistemas Digitales
 2.4    Lenguajes de Descripción de Hardware (HDL) 
 2.4.1 Estructura de un programa en HDL 
 2.4.2 Estilos de programación 
-2.4.3 Sentencias concurrentes y secuenciales
-3.1 Circuito sumador/restador y su descripción en   
+2.4.3 Sentencias concurrentes y secuenciales"
+ISC/fundamentosDisenoDigital_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+        Lógica combinacional","D
+UNIDAD DE COMPETENCIA 
+esarrolla 
+circuitos 
+de 
+lógica 
+combinacional  a  partir  de  su 
+representación 
+  booleana  y  su 
+descripción 
+en 
+dispositivos 
+lógicos programables.","3.1 Circuito sumador/restador y su descripción en   
       HDL (Lenguajes de descripción de Hardware) 
       usando dispositivos lógicos programables 
 3.2 Circuito convertidor de código y su descripción en 
@@ -2498,8 +3801,19 @@ DE INGENIERÍA, CAMPUS ZACATECAS","1.1    Estado del arte de Sistemas Digitales
 3.5 Circuitos codificador y decodificador y su  
       descripción en HDL (Lenguajes de descripción de  
       Hardware) usando dispositivos lógico 
-      programables
-4
+      programables"
+ISC/fundamentosDisenoDigital_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Elementos básicos de  
+Memoria digital","UNIDAD DE COMPETENCIA 
+ 
+Desarrolla los elementos básicos 
+de  memoria 
+a 
+partir 
+de 
+los 
+multivibradores  astables en CI y 
+biestables en Flip-Flops.","4
 .1    Multivibradores en configuración monoestable, 
          biestable y astable 
 4.2    Configuraciones Monoestable y Astable del  
@@ -2507,11 +3821,13 @@ DE INGENIERÍA, CAMPUS ZACATECAS","1.1    Estado del arte de Sistemas Digitales
 4.3    Elementos de memoria tipo Latch SR, JK, T y D 
 4.4    Elementos de memoria tipo Flip-Flop  SR, JK, T 
          y  D   
-4.5   Descripción  con HDL de Elementos de Memoria
-",9,"Laboratorio de 
-Electrónica Digital"
-ISC/finanzasEmpresariales_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Utiliza las herramientas matemáticas y financieras a partir de la información generada en la empresa.","1
+4.5   Descripción  con HDL de Elementos de Memoria"
+ISC/finanzasEmpresariales_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+La empresa y su entorno","UNIDAD DE COMPETENCIA 
+ 
+Reconoce el papel de las 
+finanzas a partir del contexto 
+empresarial.","1
   1
 1.1 La empresa 
 1.1.1 Constitución jurídica 
@@ -2523,8 +3839,15 @@ organizacional
 disciplinas  (Ética,  Economía,  Derecho,  Matemáticas, 
 etc.) 
 .4 Factores del micro y macro ambiente que impactan 
-a la empresa y a sus finanzas
-2
+a la empresa y a sus finanzas"
+ISC/finanzasEmpresariales_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Importancia y utilización de la 
+información financiera","UNIDAD DE COMPETENCIA 
+ 
+Construye los estados 
+financieros básicos con base en 
+las Normas de Información 
+Financiera (NIF).","2
   2
 2.1 La información financiera   
 .2 Las Normas de Información Financiera (NIF) 
@@ -2535,8 +3858,15 @@ situación
 financiera 
 (Balance 
 General) 
-2.3.2 Estado de Resultados
-3
+2.3.2 Estado de Resultados"
+ISC/finanzasEmpresariales_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Análisis de la información 
+financiera","UNIDAD DE COMPETENCIA 
+ 
+Analiza la información de los 
+estados financieros con base en 
+los métodos de análisis 
+financiero.","3
   3
 3.1 El análisis financiero de la empresa   
 .2 Métodos para el análisis financiero 
@@ -2546,8 +3876,17 @@ General)
 3.3.1 Modelo matemático del punto de equilibrio con 
 un producto 
       3.3.2 Modelo matemático del punto de equilibrio con      
-multiproductos
-4
+multiproductos"
+ISC/finanzasEmpresariales_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Elementos de matemáticas 
+financieras y la planeación 
+financiera","UNIDAD DE COMPETENCIA 
+ 
+Construye estados financieros 
+proforma a partir de los 
+elementos de matemáticas 
+financieras y del presupuesto 
+maestro.","4
   4
 4.1 Valor del dinero en el tiempo 
       4.1.1 Valor presente 
@@ -2556,8 +3895,16 @@ multiproductos
 .3 La planeación financiera 
 4.3.1 El presupuesto maestro 
  
-4.4 Estados financieros proforma
-5
+4.4 Estados financieros proforma"
+ISC/finanzasEmpresariales_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Métodos de evaluación de 
+proyectos de inversión","UNIDAD DE COMPETENCIA 
+ 
+Aplica los métodos de 
+evaluación de proyectos de 
+inversión con base en las 
+herramientas de matemáticas 
+financieras.","5
   5
 5.1 Los proyectos de inversión   
 .2 Proceso de preparación y evaluación de proyectos 
@@ -2572,11 +3919,13 @@ inversión
 5.3.3 Costo-beneficio 
 5.3.4 Valor presente neto (VPN) 
 5.3.5 Tasa interna de rendimiento (TIR) 
-5.3.6 índices de Rentabilidad (IR)
-",5,Aula
-ISC/compiladores.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Desarrolla un compilador con base en el uso de generadores de analizadores léxicos y sintácticos e infraestructuras 
-de desarrollo de compiladores.","1
+5.3.6 índices de Rentabilidad (IR)"
+ISC/compiladores.pdf,"UNIDAD TEMÁTICA I 
+Arquitectura de los 
+compiladores","UNIDAD DE COMPETENCIA 
+Describe la arquitectura de un 
+compilador con base en sus 
+componentes.","1
 1.1 Fundamentos de compiladores e intérpretes 
 1.1.1 Compiladores 
 1.1.2 Intérpretes  
@@ -2597,8 +3946,14 @@ máquinas virtuales
 .3  Frontend,  backend  y 
 traducción  dirigida  por 
 la 
-sintaxis
-2
+sintaxis"
+ISC/compiladores.pdf,"UNIDAD TEMÁTICA II 
+Analizador léxico","UNIDAD DE COMPETENCIA 
+Implementa un analizador léxico 
+con base en expresiones 
+regulares, autómatas y 
+generadores de analizadores 
+léxicos.","2
   2
 2.1 Componentes léxicos 
     
@@ -2611,8 +3966,14 @@ autómatas finitos
    2.4.1 Tabla de transiciones 
    2.4.2 Manejo del buffer de entrada  
    2.4.3 Manejo de errores léxicos 
-.5 Generadores de analizadores léxicos
-3
+.5 Generadores de analizadores léxicos"
+ISC/compiladores.pdf,"UNIDAD TEMÁTICA III 
+Analizador sintáctico","UNIDAD DE COMPETENCIA 
+Diseña analizadores 
+sintácticos a partir de 
+gramáticas LL, LR y 
+generadores de analizadores 
+sintácticos.","3
 3.1 Analizadores sintácticos 
 3.1.1 Análisis sintáctico ascendente 
 3.1.2 Análisis sintáctico descendente 
@@ -2628,8 +3989,14 @@ autómatas finitos
 3.3.3 Construcción de tablas de la familia LR 
 3.3.4 Analizadores de la familia LR 
 3.3.5 Implementación mediante herramientas 
-generadoras
-4
+generadoras"
+ISC/compiladores.pdf,"UNIDAD TEMÁTICA IV 
+Aplicaciones de los 
+compiladores","UNIDAD DE COMPETENCIA 
+Desarrolla aplicaciones con 
+base en el análisis semántico 
+y generación de código 
+intermedio.","4
   4
   4
   4
@@ -2644,11 +4011,29 @@ computadoras.
 .3 Traducciones de programas. 
 .4  Aplicaciones  en  herramientas  de  productividad  de 
 software. 
-.5 Aplicaciones en procesamiento de lenguaje natural.
-",10,"Laboratorio de 
-programación"
-ISC/ingenieriaEticaSociedad_ISC2020.pdf,"Explica el papel de la ingeniería en la sociedad a partir de la historia del conocimiento humano, su relación con la 
-ciencia y tecnología, sus implicaciones éticas y el impacto ambiental.","1
+.5 Aplicaciones en procesamiento de lenguaje natural."
+ISC/ingenieriaEticaSociedad_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Desarrollo histórico del 
+conocimiento científico y 
+tecnológico","D
+UNIDAD DE COMPETENCIA 
+istingue  el  dinamismo  en 
+la 
+evolución  de 
+la 
+ciencia 
+y 
+la 
+tecnología  de  acuerdo  con 
+la 
+forma 
+de 
+interpretación 
+y 
+producción 
+del 
+conocimiento 
+científico y tecnológico.","1
   1
 1.1  Evolución del conocimiento 
 1.1.1Sujeto y sociedad 
@@ -2661,8 +4046,22 @@ la sociedad
 Revolución Industrial 
   
  
-C - 2020
-2
+C - 2020"
+ISC/ingenieriaEticaSociedad_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Revoluciones industriales","A
+   
+UNIDAD DE COMPETENCIA 
+naliza  las  diferentes  fases  de 
+las 
+revoluciones 
+partir 
+de 
+la 
+reconfiguración 
+social, 
+económica, 
+cultural. 
+IS","2
   2
   2
   2
@@ -2678,8 +4077,19 @@ económico, político y cultural
 .1.1 Primera Revolución (siglo XVIII) 
 .1.2 Segunda Revolución 
 .1.3 Tercera Revolución 
-.1.4 Cuarta Revolución: 4.0
-3
+.1.4 Cuarta Revolución: 4.0"
+ISC/ingenieriaEticaSociedad_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Ingeniería y sociedad","D
+     
+UNIDAD DE COMPETENCIA 
+istingue 
+el 
+quehacer 
+del 
+ingeniero  en  su  entorno  social, 
+académico  y  profesional a  partir 
+de sus funciones y retos para el 
+siglo XXI.","3
   3
 3.1 Importancia de la ingeniería y su función social 
 3.1.1 El surgimiento de la ingeniería 
@@ -2689,8 +4099,30 @@ educativas
 .2 Retos de la ingeniería en el siglo XXI 
 3.2.1 Perfil del ingeniero para las organizaciones 
 inteligentes. 
-.3 La ingeniería como profesión transdisciplinar.
-5
+.3 La ingeniería como profesión transdisciplinar."
+ISC/ingenieriaEticaSociedad_ISC2020.pdf,"I
+UNIDAD TEMÁTICA V 
+ngeniería, productividad y 
+sustentabilidad","E
+   
+UNIDAD DE COMPETENCIA 
+xamina 
+el 
+papel 
+de 
+la 
+ingeniería 
+en 
+los  modelos 
+productivos  del  siglo  XXI  a 
+partir  de 
+su 
+impacto  en 
+la 
+productividad 
+y 
+la 
+sustentabilidad.","5
   5
      
 .1 Sustentabilidad e ingeniería 
@@ -2702,10 +4134,20 @@ internacionales
 .2 Eficiencia y eficacia, pertinencia y equidad en los 
 modelos productivos  
 5.2.1 Sistemas de calidad 
-5.2.2 Productividad y competitividad
-",,
-ISC/liderazgoPersonal_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Evalúa el desarrollo personal en una organización, con base en los principios del liderazgo personal y social.","1
+5.2.2 Productividad y competitividad"
+ISC/liderazgoPersonal_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Fundamentos teóricos del 
+liderazgo","UNIDAD DE 
+COMPETENCIA 
+ 
+Analiza el liderazgo a partir 
+de 
+sus 
+antecedentes, 
+clasificación 
+y 
+el 
+pensamiento estratégico.","1
   1
   1
 1.1 
@@ -2725,8 +4167,19 @@ Clasificación del liderazgo
 1.3.3  Liderazgo emprendedor  
 .4 
 Pensamiento estratégico 
-1.4.1  Misión y visión del líder
-2
+1.4.1  Misión y visión del líder"
+ISC/liderazgoPersonal_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Conceptualización de la 
+gestión del liderazgo y 
+desarrollo humano","D
+ 
+UNIDAD DE 
+COMPETENCIA 
+esarrolla 
+habilidades 
+personales  y  sociales  con 
+base  en  las  actitudes  y  la 
+comunicación asertiva.","2
   2
 2.1 
 Desarrollo personal  
@@ -2747,8 +4200,25 @@ Imagen personal
 2.3.3 
 Imagen social 
 2.3.4  Comunicación asertiva 
-2.3.5  Creatividad
-3
+2.3.5  Creatividad"
+ISC/liderazgoPersonal_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Liderazgo social","P
+ 
+UNIDAD DE 
+COMPETENCIA 
+lanifica 
+actividades 
+en 
+diversos 
+marcos 
+de 
+referencia del liderazgo, con 
+base  en 
+ 
+la  autoridad,  el 
+poder, la ética, el respeto a 
+la  equidad  de  género  y  la 
+sustentabilidad.","3
   3
   3
 3.1 
@@ -2773,15 +4243,14 @@ Retos del liderazgo
 3.4.2  Equidad de género 
 3.4.3  Toma  de  decisiones  y  solución  de  problemas  y 
 conflictos 
-3.4.4  Conducción de equipos en el metaverso
-",3,"Laboratorio  
+3.4.4  Conducción de equipos en el metaverso"
+ISC/ecuacionesDiferenciales_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Introducción a las ecuaciones 
+diferenciales","UNIDAD DE COMPETENCIA 
  
-Laboratorio 
- 
-Extra aula"
-ISC/ecuacionesDiferenciales_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Resuelve  problemas  de  circuitos  eléctricos  y  de  otros  sistemas  dinámicos  a  partir  de  ecuaciones  diferenciales 
-ordinarias.","1
+Clasifica ecuaciones 
+diferenciales de acuerdo con su 
+tipo, orden y grado.","1
   1
 1.1. 
 Fundamentos básicos 
@@ -2796,8 +4265,16 @@ Problema de valor inicial
 1.3.1.  Soluciones generales y particulares 
  
 1.4. 
-Teorema de existencia y unicidad
-2.1. Ecuaciones separables 
+Teorema de existencia y unicidad"
+ISC/ecuacionesDiferenciales_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Ecuaciones diferenciales de 
+primer orden","UNIDAD DE COMPETENCIA 
+ 
+Resuelve modelos matemáticos 
+con base en los métodos de 
+solución de las ecuaciones 
+diferenciales ordinarias de 
+primer orden.","2.1. Ecuaciones separables 
 2.1.1. Ecuaciones reducibles a separables 
  
 2.2. Ecuaciones homogéneas 
@@ -2811,8 +4288,17 @@ mediante un factor integrante
 2.4. Ecuaciones Lineales 
 2.4.1. Aplicaciones de las ecuaciones lineales  
  
-2.5. Ecuaciones de Bernoulli
-3
+2.5. Ecuaciones de Bernoulli"
+ISC/ecuacionesDiferenciales_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Ecuaciones diferenciales 
+lineales de segundo orden y 
+orden superior","UNIDAD DE COMPETENCIA 
+ 
+Construye modelos 
+matemáticos de circuitos RLC y 
+sistemas masa-resorte con base 
+en las ecuaciones diferenciales 
+ordinarias de segundo orden.","3
   3
   3
   3
@@ -2838,8 +4324,14 @@ de orden superior con coeficientes constantes
 .5. Aplicaciones de las ecuaciones diferenciales de 
 segundo orden  
 3.5.1. Circuitos eléctricos en serie RCL  
-3.5.2. Sistema masa-resorte
-4
+3.5.2. Sistema masa-resorte"
+ISC/ecuacionesDiferenciales_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Transformada de Laplace","UNIDAD DE COMPETENCIA 
+ 
+Aplica la transformada de 
+Laplace a problemas de 
+circuitos RLC con base en sus 
+propiedades y teoremas.","4
   4
   4
   4
@@ -2886,11 +4378,14 @@ Solución de problemas de valores iniciales
 4.5.2. 
 Aplicaciones a circuitos eléctricos en serie 
 4.5.3. 
-La función delta de Dirac
-",,
-ISC/teoriaComputacion_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Construye soluciones a problemas computacionales con base en los modelos de cómputo para lenguajes regulares, 
-lenguajes independientes del contexto y la noción de computabilidad.","1.1  Orígenes de la computación 
+La función delta de Dirac"
+ISC/teoriaComputacion_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Lenguajes regulares","UNIDAD DE COMPETENCIA 
+ 
+Explica la automatización del 
+cómputo a partir de los 
+lenguajes regulares y los 
+autómatas finitos.","1.1  Orígenes de la computación 
 1.1.1 
 Automatización del cómputo 
 1.1.2 
@@ -2918,8 +4413,16 @@ Expresiones regulares
  
 1.3  Propiedades de los lenguajes regulares 
  
-1.4 Aplicaciones de los lenguajes regulares
-2
+1.4 Aplicaciones de los lenguajes regulares"
+ISC/teoriaComputacion_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Lenguajes independientes del 
+contexto","UNIDAD DE COMPETENCIA 
+ 
+Estructura  los lenguajes 
+independientes del contexto a 
+partir de las gramáticas 
+independientes del contexto y 
+los autómatas de pila.","2
   2
   2
 2.1 Gramáticas independientes del contexto 
@@ -2933,8 +4436,18 @@ Expresiones regulares
 .3 Propiedades de los lenguajes independientes del 
 contexto. 
 .4 Aplicaciones de los lenguajes independientes del 
-contexto
-3
+contexto"
+ISC/teoriaComputacion_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+              Computabilidad","C
+ 
+UNIDAD DE COMPETENCIA 
+lasifica 
+los 
+problemas 
+en 
+computables  y    no  computables 
+a partir de la máquina de Turing 
+y la noción de decidibilidad.","3
 3.1 Máquina de Turing 
 3.1.1 Funciones recursivas primitivas parciales y 
 totales 
@@ -2945,11 +4458,25 @@ totales
 .2 Decidibilidad 
 3.2.1 Problemas decidibles  
 3.2.2 Problemas indecidibles 
-3.2.3 Problema del paro
-",8,"Laboratorio de 
-Cómputo"
-ISC/mecanicaElectromagnetismo_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Aplica la mecánica y el electromagnetismo a problemas teóricos a partir de sus principios teóricos básicos.","1
+3.2.3 Problema del paro"
+ISC/mecanicaElectromagnetismo_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Mecánica","UNIDAD DE COMPETENCIA 
+Resuelve 
+problemas 
+de 
+ingeniería 
+a 
+partir 
+de 
+los 
+principios 
+básicos 
+de 
+la 
+cinemática, 
+dinámica 
+y 
+conservación de la energía.","1
   1
   1
 .1 Cinemática 
@@ -2962,8 +4489,21 @@ caída libre
 1.2.6.  Aplicaciones: 
 1.3.1  Trabajo,  energía  cinética  y  energía  potencial 
  
-C - 2020
-2
+C - 2020"
+ISC/mecanicaElectromagnetismo_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Electrostática","UNIDAD DE COMPETENCIA 
+Resuelve 
+ejercicios 
+típicos 
+y 
+problemas  de  ingeniería  a  partir 
+de 
+los 
+principios 
+básicos 
+de 
+campo eléctrico, Ley de Gauss y 
+el potencial eléctrico.","2
   2
   2
 .1 Campo eléctrico 
@@ -2985,8 +4525,15 @@ electrostática
 2.3.3  Potencial  eléctrico  debido  a  distribuciones  de 
 carga discreta y continua  
  
-C - 2020
-3
+C - 2020"
+ISC/mecanicaElectromagnetismo_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Magnetismo","UNIDAD DE COMPETENCIA 
+Resuelve 
+problemas 
+de 
+Ingeniería  a  partir  de  las  leyes 
+físicas  que  involucran  el  campo 
+magnético y la fuerza magnética.","3
   3
 .1 Campo magnético 
 3.1.1 Campo de inducción magnética, flujo magnético, 
@@ -2994,12 +4541,14 @@ magnéticos
 corriente 
 corriente 
  
-C - 2020
-",9,"Laboratorio de 
-Física"
-ISC/procesamientoDigitalSenales_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE: 
-Diseña aplicaciones eficientes en el procesamiento digital de señales en tiempo y frecuencia a partir de la teoría de 
-análisis de señales y sistemas.","1
+C - 2020"
+ISC/procesamientoDigitalSenales_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Señales y Sistemas","D
+   
+UNIDAD DE COMPETENCIA 
+istingue  señales  y  sistemas 
+con base en su clasificación y 
+procesamiento.","1
   1
   1
   1
@@ -3023,8 +4572,21 @@ análisis de señales y sistemas.","1
 .6 Operaciones con señales discretas 
 1.6.1 Diezmación e Interpolación 
 1.6.2 Convolución 
-1.6.3 Correlación y Autocorrelación
-2
+1.6.3 Correlación y Autocorrelación"
+ISC/procesamientoDigitalSenales_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Análisis de Fourier en tiempo 
+Discreto","UNIDAD DE COMPETENCIA 
+Diseña 
+aplicaciones 
+de 
+procesamiento  de  señales  en 
+el dominio de la frecuencia con 
+base  en  el  algoritmo  de 
+la 
+Transformada 
+Rápida 
+de 
+Fourier (FFT)","2
     2
   2
   2
@@ -3042,8 +4604,17 @@ análisis de señales y sistemas.","1
 2.4.2 Ancho de Banda y Resolución del Análisis Espectral 
 .5. Aplicación de la transformada  
 2.5.1 Convolución lineal y correlación lineal. 
-2.5.2 Otras Aplicaciones
-3
+2.5.2 Otras Aplicaciones"
+ISC/procesamientoDigitalSenales_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Transformada Z","UNIDAD DE COMPETENCIA 
+Crea 
+herramientas 
+de 
+simulación 
+de 
+sistemas 
+continuos  de  acuerdo  con  la 
+Transformada Z","3
   3
   3
   3
@@ -3061,8 +4632,19 @@ diferencias.
 3.5.1 Método de Integral de Inversión 
 3.5.2 Método de expansión en serie de potencias 
 3.5.3 Método de expansión en fracciones parciales 
-.6 Causalidad y estabilidad
-4
+.6 Causalidad y estabilidad"
+ISC/procesamientoDigitalSenales_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+ 
+Filtros Digitales","UNIDAD DE COMPETENCIA 
+Diseña 
+filtros 
+digitales 
+adecuados  a  una  aplicación 
+particular  con  base  en  sus 
+características, 
+estructura 
+y 
+tipos.","4
   4
   4
   4
@@ -3079,8 +4661,20 @@ bilineal.
 .4    Filtros adaptativos 
 4.4.1 Filtro FIR óptimo de Wiener 
 4.4.2 Filtros adaptable LMS 
-.5    Aplicaciones
-5
+.5    Aplicaciones"
+ISC/procesamientoDigitalSenales_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+ 
+Wavelets","I
+   
+UNIDAD DE COMPETENCIA 
+mplementa 
+la  Transformada 
+Wavelet 
+con 
+base 
+a 
+sus 
+aplicaciones.","5
   5
      
 5. Teoría de Wavelets 
@@ -3091,12 +4685,23 @@ bilineal.
 5.3.1 DWT en una dimensión 
 5.3.2 DWT en dos dimensiones 
 5.3.3 Wavelet madre y funciones wavelet 
-5.3.4 Aplicaciones de la Transformada Wavelet
-",10,"Laboratorio o  
-Sala de cómputo"
-ISC/sistemasOperativos_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Propone  soluciones  a  las  necesidades  de  sistemas  computacionales  actuales  a  partir  del  funcionamiento  del 
-sistema operativo.","1
+5.3.4 Aplicaciones de la Transformada Wavelet"
+ISC/sistemasOperativos_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Estructura de un Sistema 
+operativo","I
+ 
+UNIDAD DE COMPETENCIA 
+dentifica 
+los 
+sistemas 
+operativos 
+actuales 
+y 
+emergentes 
+con  base  en 
+su 
+estructura,  modos  de  operación 
+y llamadas a sistema.","1
   1
   1
   1
@@ -3121,8 +4726,17 @@ máquina virtual
 1.5.1 Argumentos y variables 
 1.5.2 Estructuras de control 
 1.5.3 Manipulación de cadenas 
-1.5.4 Funciones
-2
+1.5.4 Funciones"
+ISC/sistemasOperativos_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Administración de procesos","A
+ 
+UNIDAD DE COMPETENCIA 
+dministra  procesos e hilos con 
+base 
+en 
+su 
+comunicación, 
+sincronización y planificación.","2
   2
   2
   2
@@ -3149,8 +4763,24 @@ abrazo mortal
 .5 Planificación 
 2.5.1 Criterios 
 2.5.2 Algoritmos 
-2.5.3 Planificación de hilos
-3
+2.5.3 Planificación de hilos"
+ISC/sistemasOperativos_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Administración de memoria","A
+UNIDAD DE COMPETENCIA 
+dministra  la memoria principal 
+y 
+secundaria 
+del 
+sistema 
+operativo 
+con 
+base 
+en 
+las 
+técnicas 
+de 
+paginación, 
+segmentación y swapping.","3
   3
 3.1 Abstracción de la memoria 
 3.1.1 Organización de la memoria 
@@ -3164,8 +4794,22 @@ abrazo mortal
 3.2.3 Algoritmos de sustitución de páginas 
 .3 Segmentación 
 3.3.1 Implementación de la segmentación pura 
-3.3.2 Segmentación con paginación
-4
+3.3.2 Segmentación con paginación"
+ISC/sistemasOperativos_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Sistema de archivos","I
+   
+ 
+UNIDAD DE COMPETENCIA 
+mplementa  la  organización  del 
+sistema  de  archivos  a  partir  de 
+su 
+estructura, 
+asignación 
+de 
+espacio, 
+administración 
+y 
+optimización.","4
   4
   4
   4
@@ -3186,8 +4830,19 @@ abrazo mortal
 .5 Optimización del sistema de archivos 
 4.5.1 Recuperación 
 4.5.2 Consistencia 
-4.5.3 Rendimiento
-5
+4.5.3 Rendimiento"
+ISC/sistemasOperativos_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Dispositivos de entrada y salida","I
+   
+UNIDAD DE COMPETENCIA 
+mplementa la interacción de los 
+dispositivos 
+de 
+E/S 
+con 
+el 
+sistema  operativo  a  partir  del 
+hardware y del software.","5
   5
 5.1 Principios del hardware de E/S 
 5.1.1 Dispositivos de E/S 
@@ -3202,8 +4857,14 @@ abrazo mortal
 .3 Capas de software 
 5.3.1 Manejador de interrupciones 
 5.3.2 Controladores de los dispositivos 
-5.3.3 Software modo usuario para E/S
-6
+5.3.3 Software modo usuario para E/S"
+ISC/sistemasOperativos_ISC2020.pdf,"UNIDAD TEMÁTICA VI 
+Seguridad y Virtualización","I
+   
+UNIDAD DE COMPETENCIA 
+ncrementa  la  funcionalidad  del 
+sistema  operativo  con  base  en 
+la seguridad y  virtualización.","6
 6.1 El ambiente de seguridad 
 6.1.1 Seguridad en los sistemas operativos 
 6.1.2 Control de acceso a los recursos 
@@ -3213,12 +4874,14 @@ abrazo mortal
 6.2.1 Emulación 
 6.2.2 Virtualización asistida por hardware 
 6.2.3 Paravirtualización 
-6.2.4 Contenedores
-",12,"Laboratorio de 
-Sistemas 
-Operativos"
-ISC/ingenieriaSoftware_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Elabora un proyecto de software con base en una metodología de ingeniería de software.","1
+6.2.4 Contenedores"
+ISC/ingenieriaSoftware_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Fundamentos","D
+ 
+UNIDAD DE COMPETENCIA 
+escribe  el  plan  de  proyecto 
+con  base  en  los  fundamentos 
+de ingeniería de software.","1
 1.1  Fundamentos de ingeniería de software 
  
  
@@ -3235,23 +4898,51 @@ administración de proyectos
 1.4.1 XP 
 1.4.2 SCRUM 
 1.4.3 KANBAN 
-1.4.4 LEAN
-2
+1.4.4 LEAN"
+ISC/ingenieriaSoftware_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Diseño y construcción","D
+ 
+UNIDAD DE COMPETENCIA 
+etermina 
+el 
+diseño 
+del 
+sistema  software  a  partir  del 
+conjunto de requerimientos.","2
   2
 2.1 Ingeniería de requerimientos 
 .2 Diseño del sistema software 
 2.2.1 Arquitectura lógica del sistema 
 2.2.2 Interfaz de usuario 
 2.2.3 Experiencia de usuario 
-.3 Herramientas de modelado
-3
+.3 Herramientas de modelado"
+ISC/ingenieriaSoftware_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Pruebas de software","D
+ 
+UNIDAD DE COMPETENCIA 
+iseña el plan de pruebas con 
+base  en  los  distintos  tipos  de 
+pruebas  aplicables  al  sistema 
+de software.","3
 3.1 Tipos de pruebas 
 3.1.1 Pruebas funcionales 
 3.1.2 Pruebas no funcionales 
  
 3.2 Herramientas para pruebas 
-.3 Evaluación de las pruebas
-4
+.3 Evaluación de las pruebas"
+ISC/ingenieriaSoftware_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Calidad y modelos de 
+madurez","E
+   
+ 
+UNIDAD DE COMPETENCIA 
+valúa  la  calidad  del  sistema 
+software 
+con 
+base 
+en 
+las 
+normas de calidad y madurez.","4
   4
 4.1 Calidad del proceso software 
  
@@ -3266,13 +4957,17 @@ administración de proyectos
 4.4.2 Proceso de Software de Equipo (TSP) 
 4.4.3 Modelo de Capacidad de Madurez Integrado 
 (CMMI) 
-4.4.4 MoProSoft
-",6,"Laboratorio de 
-cómputo/ Aula de 
-clases"
-ISC/paradigmasProgramacion_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Crea soluciones computacionales con base en los fundamentos y técnicas de diferentes lenguajes de programación 
-y sus paradigmas.","1
+4.4.4 MoProSoft"
+ISC/paradigmasProgramacion_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Introducción a los lenguajes de 
+programación y sus paradigmas","UNIDAD DE COMPETENCIA 
+ 
+Identifica los lenguajes de 
+programación y sus paradigmas 
+fundamentales con base en 
+características, abstracciones, 
+manejo de los datos y 
+aplicaciones.","1
   1
     1
 .1  Lenguajes y paradigmas 
@@ -3302,8 +4997,15 @@ reglas, relaciones y consultas
 1.3.4 Lógica de primer orden 
 1.3.5 Técnicas de programación lógica: definición de 
 relaciones por hechos y reglas 
-1.3.6 Reglas recursivas
-2
+1.3.6 Reglas recursivas"
+ISC/paradigmasProgramacion_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Programación Orientada a 
+Objetos","UNIDAD DE COMPETENCIA 
+ 
+Diseña programas de cómputo  
+con base en la definición de 
+clases y la implementación de 
+sus diferentes relaciones.","2
   2
   2
   2
@@ -3322,8 +5024,22 @@ relaciones por hechos y reglas
 .4 Polimorfismo 
 2.4.1 Variables y funciones polimórficas  
 2.4.2 Clases abstractas 
-2.4.3 Interfaces y herencia de interfaces
-3
+2.4.3 Interfaces y herencia de interfaces"
+ISC/paradigmasProgramacion_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Lenguajes multiparadigma y de 
+uso específico","E
+ 
+UNIDAD DE COMPETENCIA 
+valúa 
+casos 
+de 
+uso 
+ 
+y 
+aplicaciones con base en el uso 
+de 
+lenguajes  multiparadigma  y 
+de tendencia.","3
   3
   3
 .1 Lenguajes orientados a eventos  
@@ -3340,12 +5056,21 @@ específico y tendencias
 3.3.1 Lenguajes para bases de datos 
 3.3.2 Lenguajes para cómputo científico  
 3.3.3 Lenguajes para ciencia de datos 
-3.3.4 Lenguajes para programación asíncrona
-",10,"Laboratorio de 
-Cómputo"
-ISC/disenoSistemasDigitales_ISC2020.pdf,"PROPÓSITO DE LA UNIDAD DE APRENDIZAJE 
-Diseña sistemas digitales secuenciales y de memoria a partir de máquinas deterministas y lenguajes de descripción 
-de hardware.","1
+3.3.4 Lenguajes para programación asíncrona"
+ISC/disenoSistemasDigitales_ISC2020.pdf,"UNIDAD TEMÁTICA I 
+Registros","U
+ 
+UNIDAD DE 
+COMPETENCIA 
+tiliza los distintos tipos 
+de  registros  a  partir  del 
+empleo del Lenguaje de 
+Descripción 
+de 
+Hardware 
+(HDL)  en 
+la 
+transferencia de datos.","1
   1
   1
 .1 Registros y su clasificación  
@@ -3357,8 +5082,27 @@ de hardware.","1
 .2 Diseño de registros con control de carga síncrona y 
 asíncrona 
 .3 Programación de registros con lenguaje de descripción de 
-hardware
-2
+hardware"
+ISC/disenoSistemasDigitales_ISC2020.pdf,"UNIDAD TEMÁTICA II 
+Diseño de sistemas 
+digitales","UNIDAD DE 
+COMPETENCIA 
+Desarrolla 
+circuitos 
+lógicos  secuenciales  a 
+partir 
+de 
+los  modelos 
+deterministas de Mealy y 
+de 
+Moore 
+y 
+su 
+descripción  en  lenguaje 
+de 
+descripción 
+de 
+hardware (HDL).","2
    
 .1 Autómata finito determinista con salida y sin salida 
 2.2 Máquina de Mealy y de Moore 
@@ -3367,30 +5111,61 @@ JK, SR, T, D
 2.4 Reducción de estados usando método tabular e 
 implicantes primos 
 2.5 Aplicaciones con autómatas y lenguaje de descripción de 
-hardware
-3
+hardware"
+ISC/disenoSistemasDigitales_ISC2020.pdf,"UNIDAD TEMÁTICA III 
+Contadores","UNIDAD DE 
+COMPETENCIA 
+Desarrolla distintos tipos 
+de  contadores,  a  partir 
+del 
+lenguaje 
+de 
+descripción 
+de 
+hardware.","3
 .1 Contadores asíncronos y síncronos 
 3.1.1 Diseño de contadores secuenciales y no secuenciales 
 3.2 Diseño de contador Johnson y su representación en HDL 
 3.3 Diseño de contador de anillo y su representación en HDL 
 3.4 Diseño de contador BCD y su representación en HDL 
-3.5 Aplicaciones con contadores y su representación en HDL
-4
+3.5 Aplicaciones con contadores y su representación en HDL"
+ISC/disenoSistemasDigitales_ISC2020.pdf,"UNIDAD TEMÁTICA IV 
+Memorias","UNIDAD DE 
+COMPETENCIA 
+Utiliza 
+los  distintos 
+tipos 
+de 
+memorias 
+en 
+aplicaciones  en  sistemas 
+digitales  con  base  en  el 
+lenguaje 
+de 
+descripción 
+de hardware.","4
 .1 Memorias y su clasificación 
 4.2 Memorias RAM, SRAM y DRAM 
 4.3 Memorias ROM, PROM, EPROM, EEPROM Y Flash 
 4.4 Tipos especiales de memorias, FIFO y NVRAM 
 4.5 Módulos de memorias 
 4.6 Manejo de arreglos y diseño de memorias RAM, ROM y 
-FIFO con lenguaje de descripción de hardware
-5
+FIFO con lenguaje de descripción de hardware"
+ISC/disenoSistemasDigitales_ISC2020.pdf,"UNIDAD TEMÁTICA V 
+Máquina de estado 
+algorítmica","A
+UNIDAD DE 
+COMPETENCIA 
+plica  la  metodología  de 
+diseño de circuitos lógicos 
+secuenciales con base en 
+el  uso  de  cartas  ASM, 
+HDL y dispositivos lógicos 
+programables.","5
 .1 Carta ASM 
 5.2 Diseño de la ruta de datos 
 5.3 Autómata de la unidad de control 
 5.4 Manejo de archivos, funciones, procedimientos, paquetes 
 y componentes con lenguaje de descripción de hardware 
 5.5 Aplicaciones con cartas ASM y su representación con 
-HDL
-",5,"Laboratorio de 
-Electrónica 
-Digital"
+HDL"
